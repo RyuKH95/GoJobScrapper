@@ -1,0 +1,781 @@
+ID,Title,Location,Salary,Summary
+b9964f34203b4d95,제2020-1회 수리 및 계산 과학 연구단 데이터사이언스그룹 연구직,기초과학연구원 대전,,우수 국제 컨퍼런스 혹은 국제저널 논문 게재자 · 분석언어와 도구를 하나 이상 능숙하게 다룰 수 있는 자( Python/R/Scala/Scikit-learn/Spark/TensorFlow/PyTorch) · 로그 수준의 데이터...
+c96533d4cc22ba76,KAIST 기계기술연구소 기간제근로자(전문연구요원) 모집 공고,카이스트 4.4 대전 유성구,,"이터 대한 선행지식이 있는 사람 - AI 및 응용분야 박사학위 취득자 - 영상 인식 분야 적용 유경험자 - Python 언어 개발 용이 - Tensorflow, Pytorch 등의 DL framework 개발 용이 전문연구요..."
+1701b26651bb739a,(주)넷타겟 Bio-IT 융합 연구소 AI 연구원,넷타겟 대전 유성구,"연봉 60,000,000원 - 90,000,000원","연어 처리 등 - 연구도구 Python 3, Jupyter Notebook... 그래머>인공지능(AI)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|전자·기계·기술·화학·연구개발>바이오·식품공학>바이오|전자·기계·기술..."
+6ed2963730d3c340,Systems Engineer,Hewlett Packard Enterprise 3.8 대전,,"Programming and scripting knowledge and experience (e.g. Perl, Python, C++, etc.) Ability to gather data, perform analysis..."
+7d84147585759ec4,데이터 엔지니어,네오위즈 대한민국,,"운영 경험을 보유하신 분 3. AWS RDS, Redshift를 사용한 개발 경험이 있으신 분 4. Python, JAVA, Shellscript 등을 사용한 관리 및 운영 도구 개발/운영 경험이 있으신 분 5. SQL..."
+6dead11ff3b81b72,Data analyst,네오위즈 대한민국,,"분석 방법론을 통해 가설 검정, 인사이트 도출, 예측 등의 분석 활동이 가능하신 분 / 선택 8. R 혹은 Python을 통한 데이터 분석 능력을 보유하신 분 / 선택 1. 게임 업계 데이터 분석 경험을 보유하신 분 2..."
+7e7bfc35ed574150,AI 플랫폼 구조개선/운영 효율화[IT대기업] (서울 ),에이스파트너스서치펌 대전,,통신·모바일·게임>빅데이터·AI(인공지능)>R|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>빅데이터|인터넷·IT·통신·모바일·게임>빅데이터·AI...
+03e6a9e53fd08d51,(주)아이옵스 경력사원,아이옵스 대전 유성구,,"C++, C#, Java, Python, DBMS 등 환경개발 능숙자... 공학계열 [우대사항] 응용 S/W개발 - C++, C#, Java, Python, DBMS 등 환경개발 능숙자 - Windows, Linux 활용..."
+f8a484356baa569b,웹개발자 신입/경력 정규직,올원 대전 서구,,웹프로그래머>프론트엔드|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>JAVA|인터넷·IT·통신... 머신러닝(ML)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python
+a4946f6098077a45,[개발]Python 백엔드 개발자(정규직),위메프 2.8 대한민국,,"3년 이상자 - Python 개발 경험 보유자 - 개발 환경 변화에 유연한 자(새로운 언어 및 새로운 시스템 적용 등) [우대사항] - 마이크로서비스 아키텍처에 대해 이해하고 있는자 - Python Django, Flask..."
+ea840e6245c50a8e,[R&D] 데이터 분석 기반 인포테인먼트 기술 기획,현대자동차그룹 4.4 대한민국,,"영어를 공식어로 하는 국가에서 학위를 취득한 경우, 영어 성적이 불필요합니다. 우대사항 - DBMS, Python, SQL 중 1개이상 전공과목 수강자 - 데이터 분석 언어 사용 경험자 (Phython, SQL 등) - 관련..."
+112d801caa6f0a06,KOREATECH ATRC Post-Doc. Researcher,KOREATECH ATRC Advanced Technology Research Center 충청남도 천안,"연봉 30,000,000원",related field skill - Solid programming experience in Python and preferably also reinforcement learning frameworks like...
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+6e811b8d74191ca4,침해사고 분석 대응 전문가,이베이 코리아 대한민국,,"업무 경험 [ 우대사항 ] - SIEM 시스템 구축 / 운영 경험 - 업무 자동화를 위한 개발 ( Python 등 ) 스킬 보유 - Splunk, Elastic 활용 경험 - Private/Public Cloud 환경..."
+1567c595a4a03300,2020년도 각 부문별 경력사원,에이에스엠엘코리아 경기도 평택,,"SW tools(MATLAB, Python, R, C#, MS office... Knowledge to handle SW tools (MATLAB, Python, MS office and so... dataanalysis..."
+d7f494d253d43c0e,KDI 직원(대체인력 등),한국개발연구원 서울특별시,,"1명 / 데이터사이언스 / 학사학위 이상 소지자 또는 취득예정자, 통계학·데이터사이언스학 전공자 우대, R Python Tableau D3 활용능력자 우대, 텍스트마이닝 및 포털시스템 구축·운영 유경험자 우대 - 경제정보센터..."
+fe14a28add9facb5,2016년도 국립기상과학원 1분기 연구원(기간제근로자),기상청 대한민국,,"이상 (졸업예정자 포함) 우대조건 - 서버 운영(유닉스, 리눅스), 프로그램 언어(C, Java, 또는 python 등) 유경험자 우대 2. 근무조건 계약기간 : 계약체결일 ~ 2016. 12. 31. (업무성과에 따라..."
+c2a8b8c3ab13df98,APEC 기후센터 직원,기상청 대한민국,,중심의 프로그래밍 개발 경력자 우대) 자료처리 및 분석을 위한 R 및 Python 등 프로그래밍 가능 기초 공간분석 (GIS data analysis... 소지자 통계 분석을 위한 R 및 Python 등 프로그래밍 (필수) 빅데이...
+0bce5c7e8c1e521d,[피파온라인4] 테크니컬 아티스트,Electronic Arts 서울,,"Max script, Mel Script 1) - Understanding and utilizing C# or Python language - Experience creating or plug-in tools related..."
+bc13f5058d3c7644,APEC 기후센터 (전산통계 연구원),기상청 대한민국,,"및 자동화 프로그래밍 - 전산통계학, 응용통계학 학사 이상 소지자 - 자료처리 및 분석을 위한 R 및 Python 등 프로그래밍 가능자(필수) - 기초 공간분석 (GIS data analysis) 경험자 - 실전 중심..."
+866afa9eeb8d82da,[신용평가] 신용리스크모델링 인턴,한국카카오은행 성남 분당구,,게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임... 모바일·게임>응용프로그래머> Python|마케팅·광고·홍보·조사>조사·분석·통계>통계·SAS|인터넷·IT·통신·모바일·게임>웹프로그래머> Python
+092d062a6faa7139,데이터 분석가,카카오 4.2 성남 판교역,,"개발 경력 만 5년 미만 데이터 분석 업무를 수행할 수 있는 하나 이상의 언어 스킬 필수 (예. SQL, Python, R 등) 데이터 기반 프로젝트 경험이 있으신 분 (예: 통계 분석 프로젝트) 어떤 일이라도 중요하게 여기..."
+3879338f565ca34d,생산기술담당 산하 경력사원,LG이노텍 4.1 경기도 평택,,"Source를 활용한 필요 영역 알고리즘 설계 및 고도화 진행 - 데이터분석 소프트웨어 툴 활용 역량 필수( Python, R, CNN, DNN, RNN 등) 지원자격 - 4년제 학사 이상 학위 소지자 - 유관 업무 5년 이상..."
+fb84164a9eed9423,Junior Full-stack Developer,Asiance 서울,,"React 혹은 WordPress 등의 CMS도 사용. • Python, Node.js, Java, PHP for backend development. • Python, Node.js, Java, PHP 등을 사용하여 백엔드..."
+6858116b2e2f67d4,2019년 기상청 국가태풍센터 공무직 근로자,기상청 대한민국,,"소지자 ㅇ 우대조건 - 기상기사, 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가태풍센터 (제주) 1명 태풍 영향... 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가..."
+7c10dc52b2252e38,Technical Consultant Intern,Amazon Web Services Korea LLC 서울,,Programming in one or more object-oriented languages like Java/ Python/C#/Ruby/Objective C/C++ · Knowledge... primary AWS...
+dfcb86f156623e5c,보훈대상자 인재 채용,네오위즈 대한민국,,경험이 있는 분 - Unix(Linux) / Windows Script 작성 능력을 갖춘 분 - Java / python 개발 능력을 보유한 분 모바일게임 UA마케팅 담당자 (경력) 경력 [담당업무] - 권역별 시장...
+e1ce7618cd9dd188,2014년도 국립기상연구소 연구원(기간제근로자) 특별 (기상기후 빅데이터...,기상청 대한민국,,"구현 방안 연구 ※ 하둡에코시스템(예시): Hadoop, NoSQL, Flume, Sqoop, R, Python, Pig, Hive 등 오픈 소스 S/W - 빅데이터 분석 결과의 시각화 기법 적용 연구 - 기상기..."
+f4ddd9db1a10f078,센터장 및 정규직/기간제 근로자,세종테크노파크 세종특별자치시,,통신·모바일·게임>빅데이터·AI(인공지능)>데이터분석|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>머신러닝|인터넷·IT·통신·모바일·게임>빅데이터...
+e7b19736572ba66e,Python 신입/경력 정규직,태그바이컴퍼니 서울 강남구,,태그바이컴퍼니(주) Python 신입/경력 정규직 채용 모집부문 및 자격요건 담당업무 자격요건 인원 [담당업무] • 인플루언서 마케팅 플랫폼 [태그바... 소될 수 있습니다. 인터넷·IT·통신·모바일·게임>웹프로그래머> Python
+747e809417b65ce3,Data Scientist (LINE TIMELINE),LINE Plus corporation 성남 서현역,,"Spark 등 대용량 데이터 처리 프레임워크에 대한 경험 - Python, R, SQL 등의 언어를 능숙하게 사용할 수 있는 능력 [우대사항... 원자 : '장애인증명서 또는 복지카드' 첨부 # Data # Python"
+fb617eeb80ea6fa9,AI/빅데이터/클라우드 분야 (인재 Pool),LG유플러스 3.8 서울,,"Science를 위한 언어(R/ Python) 및 Tool(scikit-learn/Tensorflow 등) 능숙자 . Deep Learning Model 구현 경험자 . Java, Python등을 이용하여 분석을 위한 Data..."
+9040dba1c8db2a5d,퀀트운용팀 (사원-대리급),신한비엔피파리바자산운용 대한민국,,지식 보유자 - 투자자산운용사 자격증 소지자 우대 - CFA/CAIA/CPA 자격증 소지자 우대 - VBA/ Python 활용한 업무 가능자 우대 - 관련 전공 및 석박사 학위/금융 관련 자격증 보유자 우대 3. 전형방법...
+e4952de43fa31517,[S/W] Data Scientist,현대자동차그룹 4.4 대한민국,,"이상 학위 보유자 - 클라우드 플랫폼(BigQuery, RedShift)에 대한 활용 경험 보유자 - Python, Go, Java, C++ 등 다양한 언어에 대한 개발 역량 보유자 - TensorFlow / PyTorch..."
+7eb656a5f3548d88,[기업부설연구소] SW 개발 정규직,다스코포레이션 경상북도 구미,"연봉 22,000,000원 - 30,000,000원","비희망 [기타 우대내용] - 컴퓨터 관련 전공자 - 개발언어 1가지 이상 사용가능자(C언어, Android, python 등) - 청년내일채움공제 가입 가능자 인터넷·IT·통신·모바일·게임>응용프로그래머>C·C++|인터넷..."
+56072bc50be2b22b,[R&D] 연료전지시스템 제어 SW 개발,현대자동차그룹 4.4 대한민국,,"적용 SW 설계, SSPL, SW 아키텍처 관련 경험 보유자 - 프로그래밍 언어(Simulink, C/C, Python 등) 실무 적용 가능한 스킬 - SW 아키텍처 도구(UML, SysML 등)의 연구 활용 능력 가능한..."
+7f8b7f823ac58e70,[KSTEC] RPA 시스템 개발 경력사원,지식시스템 성남 분당구,,통신·모바일·게임>웹프로그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머>.NET|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>HTML·DHTML·mHTML
+c7c218c0f30c878c,기상청 영향예보추진팀 공무직 근로자,기상청 대한민국,,"지구과학 또는 유사분야 - 기상기사, 전산 관련 자격증 소지자 - Python, Fortran, NCL 유경험자 기상청 본청 (서울) 1명... 니한 자 마. 우대조건 ㅇ Python, Fortran, NCL 유경..."
+2ec66178819048f1,[기술플랫폼실] 시스템 엔지니어 영입,카카오페이 성남 분당구,,통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임... 게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>Ruby|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python
+752a4b5d63eac97c,Back-end Engineer (Python),Soomgo 서울 강남구,,래픽 처리를 위한 AWS 인프라 구축 • 5년 이상의 웹/앱 서비스 백엔드 시스템 개발 경험이 있는 분 • Python 언어를 활용한 개발 경험이 있는 분 • 성능 최적화에 대해 지속적으로 고민하고 노력하시는 분 • AWS...
+0ecc1061de28901a,"웹프로그램, 지능형 웹사이트 개발 및 운영",글로컬드림아카데미 충청남도 아산,"연봉 25,000,000원 - 30,000,000원",래머>백엔드|인터넷·IT·통신·모바일·게임>웹프로그래머>프론트엔드|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>HTML·DHTML·mHTML|인터넷·IT·통신·모바일·게임...
+a959f1ddac751cd8,교보악사자산운용 리스크관리 경력직,교보악사자산운용 대한민국,,"Office 활용능력 우수자 (고급 Microsoft Excel (금융 모델링) 포함) · VBA, Python 언어 프로그래밍 가능한 자 · 영어 능통자 (영어회의 및 자료 작성) Personal · 자기 동기부여가 강하..."
+ff1ba19d226052f5,[머니클랜] 비즈니스 데이터 분석가 (Business Data Analy...,카카오페이 성남 분당구,,분 - SQL 등을 통해 복잡한 데이터 셋에서 원하는 데이터를 추출 및 가공할 수 있으신 분 - R 또는 Python을 활용하여 분석 및 결과 리포팅이 가능하신 분 - 분석을 통해 도출된 의견을 논리적이고 체계적으로 제시할...
+55537575b7dd8d87,Physical Implementation Engineer,SiFive 대한민국,,"optimization Good scripting skills using Tcl, Perl, Python, Makefile and Shell scripts Preferred qualifications Experience..."
+4233609a843b5e96,분석지원팀 - 데이터 분석가,Nexon 성남 분당구,,및 커뮤니케이션 능력 - (필수) 새로운 기술 습득에 능동적이고 거부감이 없는 분 - (선택) R 혹은 Python을 이용한 데이터분석 능력 - (선택) SQL 기본 활용 능력 - (선택) 통계 및 분석에 대한 이론...
+9e65e349eaf3ef00,연구원(기간제 근로자),기상청 대한민국,,"우대 기상관련 프로그램(R, python등)사용 가능자 우대 인포그래픽... 나. 우대조건 통계 및 기상자료처리 유경험자 기상관련 프로그램(R, python등)사용 가능자 인포그래픽 관련 프로그램(포토샵, 일러스트레이터 등..."
+b1070f92ff6842e1,[KSTEC] 2020년 경력 사원 (SW개발자),지식시스템 성남 분당구,,"개발 (SPSS, SAS, R, Python, Java 기반) 2. 기업용... 경력 3년 ~ 10년 [기술요구사항] 1. SPSS, SAS, R, Python, Java 등 데이터분석/AI개발 도구 사용 가능자 2. Java..."
+fc2a932fcb4ac692,2019년 기상청 국가태풍센터 공무직 근로자 (연장),기상청 대한민국,,"소지자 ㅇ 우대조건 - 기상기사, 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가태풍센터 (제주) 1명 태풍 영향... 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가..."
+3a08c7089343733d,광고팀 - 분석가,Nexon 성남 분당구,,및 커뮤니케이션 능력 - (필수) 새로운 기술 습득에 능동적이고 거부감이 없는 분 - (선택) R 혹은 Python을 이용한 데이터분석 능력 - (선택) SQL 기본 활용 능력 - (선택) 통계 및 분석에 대한 이론...
+65820d47a280bec5,시스템개발팀 경력사원,한화솔루션 서울 중구,,"Learning/Deep learning 개발경험 보유자 - Python (C/C++) 언어 개발 능력 보유자 - PyToch, Keras... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임..."
+466ed639df372448,[판교]기술지원,NHN Service] [판교 4.4 경기도,,"Linux, Windows Server 트러블 슈팅 숙련자 - 2년 이상의 개발 경험자(PHP, Python 등) 본 채용은 상시 채용으로 면접이 수시로 진행되며, 先지원자에게 기회가 먼저 부여되므로 빠른 지원 바랍니..."
+1937ebb0ea172f08,데이터 엔지니어,리디 서울특별시,,"환경에서의 데이터 파이프라인 구축 및 운영 경험 GA, Tableau 등 외부 분석/시각화 도구에 대한 지식 Python, Java, Scala 중 하나 이상을 이용한 개발 경험 [지원 시 유의 사항] 이름, E-mail..."
+94064c6864564f7b,CG Artist,LOCUS 대한민국,,"크리쳐 리깅 MAYA 가능자 / PYTHON SCRIPT 가능자 MEL... PHOTOSHOP, AE) DIGITAL PAINTING/ MEL/ PYTHON SCRIPT HAIR/CLOTH 신입/경력 00명 헤어/클로스..."
+089931931a0474d5,소형전지사업부 경력,삼성SDI 3.9 충청남도 천안,,"Oracle 10g 이상(PL/SQL) - 통신프로그래밍 경험자 - CNN/RNN, Computer Vision, Python 등 경험자 - Hadoop, 통계 tool 지원방법 - 삼성채용 홈페이지 http..."
+4c5fb739d6ad93d2,2016년도 상반기 국립기상과학원 기간제근로자(소프트웨어기사),기상청 대한민국,,"고사항 - 석사 이상, 기후모델자료 처리 유경험자 우대 - 유닉스 또는 리눅스 서버운영, C, Java, 또는 python 등 유경험자 우대 - 국가기상슈퍼컴센터 관사 이용 가능 - 자격 및 경력에 따른 보수 조정 가능 2..."
+50658c145dd586bc,Python Backend Software Engineer,하이퍼커넥트 서울,,자격 3년 이상의 Python 기반 서버 애플리케이션 개발 경력 혹은 이에 준하는 실력을 가진 분 관계형 데이터베이스 시스템(RDBMS)과 SQL에 대한 이해를 가진 분 Django 등의 Python 백엔드 기반 기술 사용...
+b4bff26ba52f4e68,Field Application Productivity Competenc...,ASML 경기도 평택,,"process • Plus to have knowledge to handle SW tools ( Python, MS Office and so... data analysis • Plus to have knowledge..."
+bd7e666e67507d66,금융그룹사 AI 자연어처리 부문 인공지능 서비스 연구개발,금융그룹사 NLP / Text Mining 연구원 석사 이상 서울,,"산업공학 관련 전공 • 자연어처리/텍스트마이닝/머신러닝/딥러닝 모델 연구개발 경력자 • 프로그래밍( Python, C/C++, Java 등) 가능자 우대사항... NLP 관련 딥러닝 지식 및 활용 경험..."
+45773a15dc174fee,"Cybersecurity Policy Specialist, Mid",Booz Allen Hamilton 경기도 평택,,Competitions — From programming competitions at our PyNights ( Python competition and learning events) to competing in CTFs...
+b3bde1882ae8a1d8,[서울/수원/천안] IT 분야 취업 연계 훈련생,휴먼교육센터 천안 동남구,,통신·모바일·게임>빅데이터·AI(인공지능)>데이터분석|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>머신러닝|인터넷·IT·통신·모바일·게임>빅데이터...
+cd8ee27085e6a2ff,머신러닝/딥러닝,NHN 4.4 성남 판교역,,"PyTorch 개발 경험 - 고속 병렬 처리 관련 지식/개발 경험 - C++, Java, Python 개발 경험 [Computer Vision 연구개발] Job Description 자격요건 우대사항 - 딥러닝..."
+ca0f5a6068e6d5c4,"UI/UX개발/고객행동분석 (Python, GA, Database)",온누리아이코리아 서울 용산구,,기획·전략>일반기획|경영·인사·총무·사무>경영·기획·전략>전략기획|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>백엔드|인터넷·IT·통신·모바일·게임>웹프로그래머>프론트엔드...
+4e17fe419583b40b,데이터 분석 및 모델링 (페이코 쿠폰/광고 타겟팅),NHN 4.4 성남 판교역,,"구축, 피쳐 발굴, 모델 튜닝, 결과 해석 등) - 머신 러닝 및 데이터 분석 관련 언어 (R, Python,SQL 등) 능숙한 활용 - 리눅스 환경에서 개발 가능 - 통계, 머신 러닝 등 관련 분야 (통계..."
+693a4049c530b744,소프트웨어 연구개발 및 운영 신입(인턴)/경력사원,세정아이앤씨 부산 금정구,,설계|인터넷·IT·통신·모바일·게임>응용프로그래머>C·C++|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>Fortran|인터넷·IT·통신·모바일·게임>전산·IT기술지원...
+8e2147693973f86d,네트워크 보안,NHN 4.4 성남 판교역,,"환경의 네트워크 보안 설계/적용/운영 경험 - 기업용 네트워크장비 설정 및 구조 설계 가능자 - Python, Script Language 활용 능력 공통지원자격 - 병역필 혹은 면제로 해외여행에 결격 사유가..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+255dc6b8fa2e41ef,CTO 최고기술책임자,서치펌 모멘텀HR 헤드헌팅 건 서울 강남구,"연봉 100,000,000원 - 300,000,000원","서비스 구축 및 운영 경험을 우선시합니다. 기술 백그라운드는 AWS 클라우드 인프라를 사용하고 있으며, Python이 메인입니다. 유능한 개발자 팀장들이 30대 중반 이하이므로, 40대 중반 이하면 될 것 같습니다. 학력..."
+eb45c08f4c4a43d8,Data Analyst,Axiologic Solutions 서울,,"algorithms and data manipulation capabilities using R, Python, C++, JavaScript, Go, and other known programming languages..."
+9f70eb1ab4bf6a52,LINE PC 클라이언트 개발,LINE Plus corporation 성남 서현역,,이해하고 능숙하게 이용할 줄 아시는 분 - OpenGL/DirectX 를 이용한 개발 경험이 많으신 분 - Python 스크립트를 능숙하게 다룰 줄 아시는 분 [고용형태] - 정규직 [근무국가] - 한국 [근무지...
+33da210b05e4dac7,"Design Consultant, Sr II",Synopsys 대한민국,,"DFT, MBIST, and ATPG tools. • Experience scripting... Python and Tcl. Experience with Verilog or SystemVerilog RTL..."
+b8d11427210ae02b,보안취약점 진단/정보보안관리체계 운영/정보보안컨설팅 경력사원,GS ITM 서울 종로구,,"격요건] • 개발언어(JAVA, PYTHON 등) 이해 • 서버 및 네트워... 모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머> Python"
+4484523b503e0f07,Chief Technology Officer,Asiance 서울,,"mainly. • 배포는 주로 Docker 사용. • Python, Node.js, Java, PHP for backend development. • Python, Node.js, Java, PHP 등을 사용하여 백엔드 개발..."
+38863766ef858bdf,현대오트론 차량용 반도체/전장SW 전문가 경력 상시,현대오트론 서울 강남구,,"능항목에 대한 이해 · C/C++, python, Verilog, VHDL... 차량전장관련 경험 및 지식 · 언어 활용능력(C/C++, JAVA, Python, Perl, Eclipse 등) · 영어 능통자 우대 · 모터제어로직..."
+0b06569e20a009f7,[수시] ZUM 데이터 엔지니어 (경력),zum 서울 서초구,,"의사결정 및 협업부서 업무 지원 *자격조건... 경력 : 2년 ~ 6년 - Java, Scala, Python, Shell 등에 대해 능숙하게 다룰 수 있는 언어 2개 이상 보유자 - 데이터베이스에 대한 이해 및..."
+2709ae011d0109c5,Machine Learning Researcher – Audio and...,Qualcomm 4.1 서울,,experience in machine learning Programming skill in Python or C/C++ Experience in PyTorch (preferred) or TensorFlow...
+433ceb4487baf3dc,"Cyber Risk Management Analyst, Mid",Booz Allen Hamilton 경기도 평택,,Competitions — From programming competitions at our PyNights ( Python competition and learning events) to competing in CTFs...
+1f49a0f5eb91b031,[기술기획] [인사/경영지원] 사내시스템 개발자,한국카카오은행 성남 분당구,,"분 · Backend : 다양한 프로그래밍 언어를 사용하여 개발/운영 경험이 있으신 분 (단, Java, Python 중 1개의 언어는 필수) · SQL, NoSQL 기반 개발/운영 경험이 있으신 분 · 관련 경력이 5년..."
+b35da47f5e84c9b4,콘텐츠서비스개발팀 - 데이터분석가,Nexon 성남 분당구,,"적인 문제 해결 및 커뮤니케이션 능력 - 새로운 기술 습득에 능동적이고 거부감이 없는 분 우대사항 - Python , Scala 을 이용한 데이터분석 능력 - SQL 기본 활용 능력 - 통계 및 분석에 대한 이론 지식..."
+c69b86ca0bfc3d05,[(주)엔디소프트]2020년도 개발자,엔디소프트 부산 해운대구,,모바일·게임>빅데이터·AI(인공지능)>인공지능(AI)|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>머신러닝|인터넷·IT·통신·모바일·게임>빅데이터...
+ea4d3e6e8c3fcd02,Analytical Reporting Developer,SAP 4.3 서울,,"Data Science Programming languages: SQL (advanced), Python (intermediate) Preferred: Master’s degree or equivalent..."
+7e259408fd9b4f9c,악성코드 및 엔드포인트 위협 대응 보안 엔지니어 (경력),카카오 4.2 성남 판교역,,"수집/분석 및 테스트 가능하신 분 침해사고대응 가능하신 분 #우대사항 Splunk, ES, EDR 경험자 Python/Linux shell script 중급 이상 가능자 이슈를 적극적으로 발견하고 개선하고자 하는 능동적인..."
+be6c1f03fa566f8e,추천 시스템 연구/개발,카카오 4.2 성남 판교역,,"가능성에 대한 실험 지원자격 적어도 하나 이상의 능숙한 프로그래밍 언어가 있으신 분 우대사항 Python, C++, GPU 프로그래밍 숙련자 TensorFlow, PyTorch, implicit 등 머신러닝/추천..."
+dbda1bc1fac3371b,"Principal, Supply Chain Management(Inven...",Coupang 3.1 서울,,"세스/시스템 개선 리드 자격 요건: 물류/SCM, 엔지니어링 분야 학사 이상 데이터 분석역량(SQL, Python, R 등) 8년 이상 SCM/물류 관련 분야 경력 프로세스 개선/생산성 개선관련 프로젝트 리드경험 및 개선..."
+4c3776c4cce63109,Information Management Office Cybersecur...,Booz Allen Hamilton 서울,,Competitions — From programming competitions at our PyNights ( Python competition and learning events) to competing in CTFs...
+ff9c72cb1f69cf86,[클라우드플랫폼] 클라우드 솔루션 아키텍트,카카오엔터프라이즈 성남 분당구,,"클라우드 전환 프로젝트 수행 경험 보유하신 분 - 프로그래밍 개발 및 스크립트 작성이 가능하신 분 (Bash, Python, Golang, etc) - 고객 요구 사항에 대한 해석과 이슈 도출 바탕... 설계 가능한 분..."
+5e6e506c2395c21b,(병역특례 보충역 00명 ) 모니터링 / 운영 툴 개발,아이앤아이소프트 성남 분당구,"연봉 21,550,000원 - 25,000,000원",인터넷·IT·통신·모바일·게임>응용프로그래머>Android|인터넷·IT·통신·모바일·게임>응용프로그래머>iOS|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>C·C++
+f9433a33af7c455a,Field Application Overlay Competence Eng...,ASML 경기도 평택,,"Statistics • Sufficient knowledge to handle SW tools (MATLAB, Python, R, C#, MS office or programming language) for data..."
+bfe0f5ac4f32ec89,추천 통계분석/데이터사이언티스트,카카오 4.2 성남 판교역,,지원 추천서비스 연관기능 기계학습 모델링 지원자격 숙련된 데이터분석 능력 데이터 사이언스를 위한 언어( Python/R) 를 하나 이상 능숙하게 다룰 수 있으신 분 분석 결과를 설득력있게 전달할 수 있는 분 우대사항...
+d71794dc69947981,소프트웨어 엔지니어,Nexon 성남 분당구,,주요업무 - 넥슨 글로벌 플랫폼의 게임 클라이언트 배포 시스템 및 어플리케이션 개발 지원자격 - C++ 혹은 Python 프로그래밍 언어 능숙자 - 비동기 및 병렬처리 프로그래밍 경험 우대사항 - Modern C++ (11...
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean...,Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+01cdcb195429b7cf,파이썬(Python) 로보 콘텐츠 개발자,주)씽크풀 서울 영등포구,,주)씽크풀 파이썬( Python) 로보 콘텐츠 개발자 모집 모집부문 및 자격요건 담당업무 자격요건 인원 [담당업무] - 파이썬기반 주식 콘텐츠 개발... 니다. 인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python
+160fe9f179960b26,2019년도 기상청 기후과학국 공무직 근로자 (연장),기상청 대한민국,,"관계법령에 의하여 응시자격을 정지당하지 않은 자 대기과학 관련 분야로서 자료처리 및 그래픽 프로그래밍( Python, NCL, linux, 쉘(ksh)) 가능자 ※ 대기과학 관련분야: 기상학, 환경학, 지구과학, 물리학..."
+24516b26f8642c0c,[KSTEC] 통계/Analytics 경력사원,지식시스템 성남 분당구,,"개발 (SPSS, SAS, R, Python, Java 기반) 2. 기업용... 경력 3년 ~ 10년 [기술요구사항] 1. SPSS, SAS, R, Python, Java 등 데이터분석/AI개발 도구 사용 가능자 2. Java..."
+2695294aea6dc3b6,MongoDB Engineer,카카오 4.2 성남 판교역,,수 있는 분 Linux/Network에 대한 기초 지식이 있는 분 우대 사항 C/C++ 또는 Python 언어를 이용한 프로그램 개발(프로젝트) 경험이 있는 분 MongoDB 트러블 슈팅 경험이 있는 분 MongoDB...
+df21e3bb5d773616,Python Programmer,Mofac 서울 서초구,,개발 – JAVA 프로그래밍(라이브러리 활용) – Spring 프레임 워크 개발 – Python API 프로그래밍 우대사항 – Python 개발 경험 – Open Source 라이브러리 개발경험 – Web 표준에 대한 경험...
+9a9e91ae6092ed2d,Developers,Coinplug 경기도 성남,,"development and operation Experience using Java / Node.js / Go / Python, etc. Ability to utilize Databases including RDB..."
+6a399a2c059ebbb1,Solutions Engineer,Confluent 서울,,Computer Science or relevant experience Proficiency in Java or Python with experience developing ETL applications What gives...
+8becbf73bbda7c96,2019 Military Service Exemption Position...,울산과학기술원 울산 언양읍,,"least one programming language... Fortran, C/C++, Python, …; Experience... managing high performance computational..."
+fb3aedda32d2843b,백엔드 엔지니어 (e-커머스),리디 서울특별시,,"대용량 트래픽 운영 경험 MSA에 대한 이해도가 있으신 분 RDBMS에 대한 깊은 이해도가 있으신 분 Python/Django 개발 경험이 있으신 분 콘텐츠 혹은 커머스 서비스 개발 경험 [지원 시 유의 사항] 이름, E..."
+43bebf7b974d657a,게임 데이터 분석가,쿡앱스 성남 삼평동,,"기반으로 한 커뮤니케이션 능력을 갖추신 분 -수리적 직관 및 통찰력을 가지고 계신 분 [우대사항] -R, Python,Scala,SQL등의 툴을 이용한 데이터 분석 업무경험이 있으신 분 -데이터 마이닝 및 머신러닝 관련..."
+385c58c7ced1d77b,데이터 사이언티스트 지향하는 데이터 엔지니어,카카오 4.2 성남 판교역,,"Spark 등 빅데이터 분석 플랫폼을 사용하여 대용량 데이터의 수집,가공이 가능한 분 프로그램 개발(Java, python 등) 기술을 보유하신 분 어떤 일이라도 중요하게 여기며 책임감 있게 진행할 수 있으신 분 자신의 생각..."
+e5c63f4e86ceefda,Technical Writer,Sendbird 서울,,"following languages; Objective-C, Java, Swift, JavaScript, and Python ABOUT SENDBIRD Sendbird... world's leading chat..."
+07375dc4e800dfa9,추천 시스템 소프트웨어 엔지니어,카카오 4.2 성남 판교역,,"관련 업무 경험자 우대사항 운영체제, 네트워크, 컴파일러, 데이터베이스에 대한 이해가 깊으신 분 Python, C++, GPU 프로그래밍 숙련자 대용량/실시간 서비스 개발/운영 경험이 많으신 분 ICPC/TopCoder..."
+db1da19960cbd7ab,기상청 국가태풍센터 공무직 근로자,기상청 대한민국,,"참고 ㅇ 우대조건 - 기상기사, 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가태풍센터 (제주) 1명 태풍 강도... 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가..."
+ad1bf1198b168944,"[해외취업] 베리텍, 시스템개발자/응용프로그래머",에임하이글로벌 대한민국,"연봉 32,510,000원 - 65,030,000원","비지니스회화 주요업무내용 1. 개발자 : 시스템개발 업무 수행 및 유지보수 ( JAVA, C#,.Net, Python,PHP) 2. 응용프로그래머 : 솔루션 개발/운영(Web, C#, iOS, Android, Delphi..."
+edcab5d26dbb740b,Bigdata Engineer,CITI 3.9 서울,,"사항>> 관련 업무 경력 2년 이상 (단, 관련 전공 석박사 학위 소지자는 업무 경력 무관) Hql / Python을 통한 개발 능력 영어 커뮤니케이션 능력 <<우대사항>> 기계학습, 인공지능 관련 개발 경험 Cloud..."
+1a642e02295c816d,[삼성청년SW아카데미] 프로젝트 컨설턴트 (멀티캠퍼스),멀티캠퍼스 경상북도 구미,,"험이 5년 이상인 자 - Java, Python, Vue.js를 활용한 웹... 응용프로그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>백엔드|인터넷·IT·통신..."
+0a9c6ebe2de35e28,2018년도 국가기상위성센터 공무직근로자(연구원),기상청 대한민국,,"가능한 자(Fortran, C, Python, shell 등) 채용분야... 위성자료처리 및 활용기술 유경험자 ㅇ Fortran, C, IDL, Python 및 Shell 프로그램 가능자 및 유경험자 ㅇ 박사 학위 소지자..."
+498cbbf909edbab6,Global Payment 데이터 분석,LINE Plus corporation 성남 판교역,,"가공/분석 가능 - Data Visualization 능력 - 데이터 분석/모델링을 위한 언어 가능 (R/ Python/Scala 등) - Hadoop M/R, Hive, Spark 등 빅데이터 분석 플랫폼 사용 경험자..."
+0fa4049493edf93d,Web / Spring Framework Developer,에릭슨엘지 서울 금천구,,웹프로그래머>Servlet|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>ASP|인터넷·IT·통신... 통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임...
+a41d35173ffe4666,[Search] [Vision] Computer Vision Engine...,네이버 서울,,"스템 엔지니어링 · 스마트렌즈 , 이미지 / 동영상 검색 , 비주얼 커머스 서비스 고도화에 기여 [자격요건] · Python, C++, Golang, Scala 등의 백엔드 개발 언어를 1 개 이상 자유롭게 활용 가능한 분..."
+3b0e3b290f637baf,효성첨단소재(주) 타이어보강재PU 빅데이터 분석 경력사원,효성첨단소재 대한민국,,수행 - 인공지능 기술 지원 - 데이터연계 및 모니터링 화면 개발 지원 2. 경력 및 우대사항 - R/ Python 프로그래밍 가능자 - 딥러닝 또는 통계툴 활용 경험자 - 제조설비 센서데이터를 활용한 빅데이터 분석 경험자...
+dfe05f5ca369a262,"유니챌 SW 개발자 (C/C++, Python, Linux)",유니챌 서울 금천구,,"- 컴퓨터/시스템공학 - 해당직무 근무경험 유니챌주식회사 SW개발 경력 정규직, 프리랜서 채용 모집부문 및 자격요건 모집부문 담당업무 자격요건 인원 SW개발 [담당업무] - 웹 개발 및 응용 소프트웨어 개발 - 근무부서 : 유니..."
+0bbf23c0930be392,Support Engineer,Microsoft 4.2 서울,,"Linux script-based development environments and tools (PERL, Python, Ruby, PhP, etc.) Programming language (C++/C#) Please..."
+a80129c23845ac53,IT부문 신입/경력직,하나펀드서비스 대한민국,,"대한 기초 지식을 보유하신분 - 대용량 트랜잭션 처리 어플리케이션 개발 및 운영 경험자 - Java, Python, bash, Node.js(백엔드) 등 한가지 이상의 프로그래밍 숙련자 - 해외여행에 결격사유가 없는 자로서..."
+f45c10d21524a45e,Technical Leader - OPC,한국멘토 성남 분당구,,"English. Proficiency in Unix shell scripting, Tcl, Python, and other scripting languages as a plus. Strong analytical..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d88261f6c09121d7,2019년도 기상청 기후과학국 공무직 근로자,기상청 대한민국,,"관계법령에 의하여 응시자격을 정지당하지 않은 자 대기과학 관련 분야로서 자료처리 및 그래픽 프로그래밍( Python, NCL, linux, 쉘(ksh)) 가능자 ※ 대기과학 관련분야: 기상학, 환경학, 지구과학, 물리학..."
+71375487a518fa4e,[기술플랫폼실] MySQL 담당자 영입,카카오페이 성남 분당구,,"운영 경험 있으신 분 - Python, GO 개발 경험 있으신 분... 응용프로그래머>클라우드|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python"
+a1e2e59b88a0e5c2,웹개발/R&D개발기획 경력자(각 부문),아이디어콘서트 서울 서초구,"연봉 40,000,000원 - 100,000,000원",래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머>백엔드|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>C·C++|인터넷·IT·통신·모바일·게임>응용프로그래머>자바...
+2cfcbfbe70232dbc,Technical Leader - OPC,Siemens AG 4.0 경기도 성남,,"English. Proficiency in Unix shell scripting, Tcl, Python, and other scripting languages as a plus. Strong analytical..."
+3be9c091be0a88a8,MySQL 운영 및 개발 DBA (경력),네오위즈 대한민국,,있는 분 - Unix(Linux) / Windows Script 작성 능력을 갖춘 분 - Java / python 개발 능력을 보유한 분 모집기간 채용시 마감 고용형태 정규직 전형방법 서류전형 - 1차면접(실무...
+613678e409e8667c,데이터 분석 및 지표 구축,아프리카TV 성남 분당구,,"소비형태/이상현상과 트렌드 변화가 궁금하신분 - 신입 / 경력 [우대사항] -SQL,Excel,R, Python 등을 이용하여 데이터 추출 또는 분석이 가능하신 분 -기계학습, Deep Learning을 이용한 예측..."
+25725b3c0e607311,Junior Quant Trader,Byzantine Partners 서울,,background is a plus Programming capability is mandatory (i.e. Python) Understanding of machine learning algorithm is a plus...
+af96fe64997f8ef3,주요정보통신기반시설 취약점진단분석평가 전문가(경력),한국정보기술단 과천 과천시,,"자격요건] - 3년 이상 취약점분석평가 업무 경험자 - Shell, batch, Excel, VBA, Python 프로그램 개발 가능자 - 분석평가보고서, 제안서 작성 숙달자 - 기반보호법, 정보통신망법, 개인정보보호법 숙지..."
+dea246efe3aa55a7,[AI검색플랫폼] 머신러닝 개발자,카카오엔터프라이즈 성남 분당구,,분 (Java/ Python 선호) ・ (우대) 머신러닝 관련 업무 유경험자 ・ (우대) NMT 관련 업무 유경험자 ✔ 지식그래프 품질 및 관련 연구 ・ (필수) 하나 이상의 능숙한 프로그래밍 언어가 있으신 분 ( Python...
+85929aac498299cc,데이터 사이언스 전문가 및 머신러닝 전문가,카카오 4.2 성남 판교역,,랍니다. 지원자격 개발 경력 2년 이상 ~ 만 5년 미만 머신 러닝/데이터 사이언스를 위한 언어(R/ Python/Scala) 및 도구(scikit-learn/Spark MLlib/Tensorflow/Pytorch 등)를...
+2b7bc67cebf49cc0,"빅데이터, 인공지능(AI) 외 신입/경력 정규직",thecompany 경상남도,,모바일·게임>빅데이터·AI(인공지능)>인공지능(AI)|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>머신러닝|인터넷·IT·통신·모바일·게임>빅데이터...
+b009f7aa9de5ef48,"Cyber Defensive Operator, Mid",Booz Allen Hamilton 경기도 평택,,"programming languages, including Bash, Python, or PowerShell BA or BS degree... our PyNights ( Python competition..."
+6b11eb34948c87ae,Quantitative Developer,Terra 서울,,"터해석, 빅데이터 수치해석 퍼포먼스 최적화, 보틀넥 디텍트 및 레이턴시 최적화 자격 요건 C++, Python 등의 프로그래밍 언어 및 통계 프로그래밍(R/SAS/SPSS 또는 Mathematica/MATLAB/Maple..."
+f281c810daf0e10d,카카오 네트워크 엔지니어,카카오 4.2 성남 판교역,,"있는 자신감 넘치시는 분 (기술, 응대 모든 면에서) 해외여행 결격사유 없는 분 선호 자격 bash, python 등을 이용한 인프라 관리 자동화 스크립트 가능하신 분 인프라 운영 및 관리 관련 Tool 개발/경험이 있으..."
+9b44934f71fd85f6,신규 글로벌 Entertainment 서비스 API 서버 개발,LINE Plus corporation 성남 정자역,,"개발 [자격요건] - 영어 문서를 읽는 것에 대한 지장이 없는 자 - C#, Java, Kotlin, Python, Go 언어 중 하나에 능숙한 자 - 새로운 언어를 배우는 것에 거부감이 없는 자 - 컴퓨터 공학..."
+f219b934955e7aed,Senior Applied Data Scientist,dunnhumby 서울,,"Programming ( Python, SQL, R, …) Data... mining and modelling packages... Python and R. Experience of applying advanced..."
+df7ec5d31adfea75,Technical Artist - Developer Relations,Epic Games 서울,,"writing skills，and HLSL or shader programming experience or Python, C++ is a plus 2. Strong written and verbal communication..."
+5d1a31e269b19217,2018년도 기후변화감시과 공무직 근로자(연구보조원) 장애인 특별,기상청 대한민국,,"원임용시험령」등 관계법령에 의하여 응시자격을 정지당하지 않은 자 대기과학 관련분야로서 자료처리 및 그래픽( Python, IDL, NCL 등) 등 프로그램밍에 능숙한 자 ※ 대기과학 관련분야: 기상학, 환경학, 지구과학..."
+3b0a85271a6c68ac,[Hospitality Solution실] Data Analyst,야놀자 서울 강남구,,"력과 문서화 스킬을 보유하신 분 SQL 기반의 분석 역량을 갖춘 분 [우대사항] Presto 사용 경험 우대 Python 및 분산처리 프레임워크를 통한 분석경험 AWS Glue, DigDag 활용경험 머신러닝 이해 및 모델링..."
+dd06066d79860614,MySQL Engineer,카카오 4.2 성남 판교역,,"지원자격 대용량 DBMS 운영 경험이 있는 분 (실력, 의지는 중요하나 경력'기간'은 중요하지 않음) python, go, bash 등 스크립팅 언어를 하나 이상 사용하실 수 있는 분 MySQL 에 대해 전반적으로 이해하고..."
+5f9034c160d47581,[무료교육] 스마트공장 IT 전문인력 양성과정,경상대학교 경상남도 진주,,통신·모바일·게임>빅데이터·AI(인공지능)>딥러닝|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>R|인터넷·IT·통신·모바일·게임>빅데이터·AI...
+a459013391a3d600,Solutions Architect,Cloudera 대한민국,,"tools Familiarity with scripting tools... bash shell scripts, Python... Perl, Ansible, Chef, Puppet Solid background..."
+3b752abecf619fe5,플랫폼 채팅모듈 개발자,Nexon 성남 분당구,,"대사항 - 대규모 동시 접속 및 고용량 데이터 처리 경험 - Unix/Linux 시스템에 대한 이해 - Python, Java, Event-Driven Framework에 대한 이해 - TCP/IP와 네트워크 프로그래밍..."
+92bd400e3b5306ba,[Clova] Clova AI 인재,네이버 서울,,"산시스템 등 CS 핵심 전공 지식 관련한 수준 높은 이해 Git을 능숙하게 사용 백엔드 서버 구현 역량 ( Python, Golang, Java Spring, node.js 등) Mobile App 개발 Objective..."
+28cde36427979564,PC플랫폼 운영을 담당할 를 합니다.,Nexon 성남 분당구,,"Powershell, VBS, Python 등을 이용한 시스템 자동화... 있는 경우 우대하여 평가한다. -개발경력 보유 :JAVA/C/C++/ Python/VBS 등을 이용해 개발 및 분석이 가능한 분 -영어회화 가능자..."
+36a418cd05c30a44,안드로이드 개발자,스포카 대한민국,,"합니다. 신기술 학습에 대한 열정 현재 스포카 크리에이터는 MSA기반의 서비스를 운영하고 있으며, 언어로는 Python, TypeScript, Rust, C#, Haskell, Kotlin 등 다양한 언어를 사용 중입니다..."
+b25ed61fb84a5785,프론트엔드 개발자,스포카 대한민국,,"준적으로 TypeScript, React 및 Redux를 사용합니다. 사내 도구는 Rust와 Haskell, Python을 사용합니다. 제출 서류 이력서(필수), 포트폴리오/Github 주소(선택) 접수 기간 상시채용(채용시 마감)"
+d585814d097935eb,카카오톡 보이스톡/페이스톡/라이브톡 개발자,카카오 4.2 성남 판교역,,"우대 사항 ✓ Spring/Java 혹은 Spring/Kotlin 기반 서버 개발 경험 ✓ MySQL, Python, JavaScript, Node.js 경험 ✓ 모바일/웹 환경을 위한 API 시스템 개발 경험 ✓ k8s..."
+d1e75364ef505c68,"데이터 가치 함께 발굴하실 머신러닝, 통계 모델링 전문가",카카오 4.2 성남 판교역,,있으신 분도 환영합니다. 지원자격 개발 경력 만 5년 미만 머신 러닝/통계 등 모델링에 활용하는 언어( Python/Scala/R 등) 및 도구(Tensor flow/Pytorch 등)를 하나 이상 능숙하게 다룰 수 있으...
+d49ba2c33cdaaea8,혁신성장 IT 무료교육 / 인공지능 플랫폼 개발자 양성과정,한국생산성본부 4.0 서울 종로구,,게임>웹프로그래머>백엔드|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>C#|인터넷·IT·통신... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임...
+e7c6a0167c5bbbf4,신한AI 인공지능(AI) / IT 개발관리 / 준법감시 인력,신한에이아이 서울 영등포구,,"트러블슈팅 (R, python) [자격요건] - 대규모 배치 시스템 운용 경험 - 이종 시스템간 데이터 파이프라인 연결 및 운영 경험 - 개발 및 프로그래밍 에러에 대한 트러블슈팅 역량 보유 ( Python , R, JAVA..."
+a746de9c7a6168ef,Healthcare Real World Data Analyst 담당자,IQVIA 서울,,"HEOR 전반적인 업무 수행 Qualifications Claims Data 관련 분석 경력자 SAS / Python / R 등 통계 프로그래밍 언어 사용 가능자 통계학 전공자, 통계 및 Epidemiology 관련 석사..."
+3e617a8ed7934773,Quant 트레이딩 부문,벨에포크자산운용 대한민국,,"거시경제 데이터 관리 3. 지원자격 및 우대사항 (1)필수사항 -투자자산운용사 보유, Python, 엑셀 VBA 사용 능력자 ( Python 패키지 : Scikit-learn, Keras, Tensorflow 활용가능) (엑셀..."
+3e2a310c9dd0f693,[멜론] 빅데이터 서비스 개발자,카카오 4.2 성남 판교역,,"리즘, OS, 네트워크, SQL의 기초 지식 보유 긍정적이고 원활한 커뮤니케이션 스킬 소유자 우대 사항 Python 지식 보유 기계 학습(또는 딥러닝)에 대한 이해와 경험 데이터 시각화 도구 개발 경험 DevOps 경험..."
+138ae0acc3875819,IT부문 신입 및 경력직원,하나펀드서비스 서울 중구,,"용량 트랜잭션 처리 어플리케이션 개발 및 운영 경험자 - Java, Python, bash, Node.js(백엔드) 등 한가지 이상의 프로그래밍 숙련... 통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임..."
+a2df135935d0125f,2018년도 국가기상위성센터 공무직근로자(연구원) (전문연구요원 포함),기상청 대한민국,,"개발 유경험자 ㅇ 프로그램 개발이 가능한 자(Fortran, C, Python, shell 등) 채용분야 채용 예정 직급 선발예정 인원... 가능한 자(Fortran, C, Python, shell 등) 2. 근무..."
+5123207a169f90eb,Software Developer - Front-End / Back-En...,AITRICS 서울,,"purpose programming languages including C++, Java, Javascript, Python. Eager to learn a new programming language and machine..."
+285996f91e76a862,"NAVER, LINE 서비스 플랫폼 운영",NIT Service 성남 삼평동,,"네이버/라인 서비스 플랫폼운영이란, 국내 및 해외를 포함하여 글로벌하게 제공되는 네이버/라인 서비스인 V앱, 파파고, 네이버클라우드플랫폼, 웨일, 네이버메인, 메일, 카페, 블로그, N드라이브, 폴라, 라인/라인플레이 등의..."
+e7b2571ddb0f4b3c,데이터분석 및 자산관리플랫폼 개발자,코스콤 서울 영등포구,,인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>Linux
+5630ae48b3f6e6b0,기간제 근로자,기상청 대한민국,,"o 앙상블 모델 결과 보 정기법 연구 o 석사 졸업이상 (NCL, Python, Fortran 유경험자 우대) 서울 1명 2. 근무조건 등... 자 마. 우대조건 NCL, Python, Fortran 경험자 우대..."
+6e4170888fdd92a5,SOFTWARE ENGINEER - BACKEND,"ODK Media, Inc. 서울 강남구",,"Python, Django, REST, Go PostgreSQL, MySQL, Redis AWS, Kubernetes, CDN Qualifications Minimum Available development Python..."
+530a598184580c95,데스크탑 가상화(VDI) 엔지니어,카카오 4.2 성남 판교역,,"기본적 이해 리눅스 시스템에 대한 기본적 이해 우대사항 시스템 엔지니어 경력자 Powershell, Python, Shell 스크립트를 이용한 인프라 관리 자동화 경험자 부드러운 커뮤니케이션, 친절한 마인드의 소유자..."
+d2df92c32bd4a203,Software Engineer,Google 4.3 서울,,"languages including... limited to: C++, Java, C and Python. Experience in a wide variety of projects utilizing natural..."
+c388192aa3ac0634,Staff AE,Synopsys 서울,,"enhancement of advanced technology rule decks using TCL, Python or Perl. Key Qualification The person should have minimum 12..."
+32ba0df0aed6dc95,기상청(국가태풍센터) 공무직 근로자 (연장),기상청 대한민국,,"참고 ㅇ 우대조건 - 기상기사, 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가태풍센터 (제주) 1명 태풍 강도... 전산 관련 자격증 소지자 - Python, Fortran 유경험자 국가..."
+bc7a1ba8624e7173,자연어처리/텍스트분석 엔진 개발 및 서비스 개발,에이스파트너스서치펌 서울,,통신·모바일·게임>빅데이터·AI(인공지능)>R|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>데이터분석|인터넷·IT·통신·모바일·게임>빅데이터·AI...
+37aebf847064b980,"[정규직]개발자(수집시스템개발, 카피킬러서비스운영)채용",㈜무하유는 대한민국,,"활용 경험 – SSL/IPSEC VPN, DHCP, DNS 서버 구축/운영 경험 – Shell 스크립트, Python을 이용한 인프라 관리 자동화 경험 – 인프라 장비 운영 경험 – 솔루션 구축 및 유지보수 경험 근무조건..."
+81d7357993325bc8,"2019년도 제1회 국가기상위성센터 공무직근로자(연구원, 전문연구요원)...",기상청 대한민국,,"소지자 ※ 전산 프로그램 개발이 능숙한 자 (Fortran, C, Python, Shell 등) ※ 위성통신(송수신체계 및 전파 환경분석 관리 등... 능숙한 자 (Fortran, C, Python, Shell 등) 채용분야..."
+8dfc9993e2aa9160,유저프로파일팀 - 데이터 모델러,Nexon 성남 분당구,,"데이터를 가치있게 활용할 수 있도록 가이드 합니다. - 주요 활용 tool : SQL, Zeppelin, Python, Scala, Tableau 지원자격 - (필수) 논리적이고 체계적인 문제 해결 및 커뮤니케이션 능력을..."
+81848f01b547f90b,주니어 데이터 사이언티스트 / Junior Data Scientist,Bagelcode 서울,,"CS, 통계, 수학 및 그에 준하는 학위를 가지고 있거나 해당 분야에서 학업을 수행하시는 분 - SQL / Python / R 등 데이터 분석 업무를 수행할 수 있는 하나 이상의 개발 언어 유경험자 - 통계 지식에 대한..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+a0a12bf7366d994f,DBA (RDBMS / NOSQL),LINE Plus corporation 성남 서현역,,"자 - 데이터 모델링에 대한 이해도 - DB기초지식이 견고한 자 - 운영도구등의 개발이 가능한 자 ( Python, Perl, Java 등) - 현실에 안주하지 않고 자기개발에 대한 열정이 넘치는 자 - 해외 출장..."
+b1c8dcf6b4990bbd,2020 전문연구요원 공개 채용,넷마블 서울 구로구,,"제작 과정을 고도화하기 위한 인공지능 기술 연구 개발 자격요건 * 보충역/전직 대상자에 한해 지원 가능 - Python, Java, C++ 등 한 가지 이상의 프로그래밍 언어 프레임워크 능력 - 디자인 패턴 기반 설계 및..."
+eaee1538d8cc832f,메시지발송 플랫폼 개발자,Nexon 성남 분당구,,"개발 가능하면서 python 개발 경험 소유자(또는 Python 개발 가능... NET 또는 python 개발 경력 5년이상 - 자동화를 위한 스크립트(powershell, bash, python 등) 경험 - Windows..."
+48090bdf1303bd76,매칭팀 - 데이터분석가,Nexon 성남 분당구,,및 대시보드 설계 지원자격 - (필수) 데이터 정제 및 머신러닝 기법 적용에 필요한 프로그래밍 능력 (R or Python) - (필수) SQL 기본 활용 능력 - (선택) Spark를 활용한 데이터 처리 및 분석 능력...
+89dd898d72d5fac6,"[일본] Java·JSP, PHP, Ajax, Python 정규직",SEAGILE 부천 중동,"연봉 36,000,000원 - 38,000,000원","성별 무관 기타 담당업무 [일본] Java·JSP, PHP, Ajax, Python 정규직 모집합니다 커리어 양식 지원 상세모집요강 접수기간/방법... JAVA, PHP, AJAX, Python 산업별(업종) 솔루션.ASP..."
+dc68562127ae9908,빅데이터 플랫폼 상품 개발 포털 대기업 new,포털 대기업 경기도,,"※ 직무개요 - Cloud Platform 의 빅데이터 플랫폼 상품 개발 및 운영 ※ 자격조건 - Java, Python, Go 중 한 가지 언어를 능숙하게 사용할 수 있으신 분 - 개발 경력 2년 이상 * 우대사항: - 클라..."
+f42cfcf426b3302d,Blockchain Platform Software Development...,LINE Plus corporation 성남 서현역,,"연동에 대한 logic에 대한 이해와 테스트 경험을 가지신 분 - Java, Kotlin, Go 또는 Python 등 프로그래밍 언어에 대한 2년 이상 실무 개발 경험을 가지신 분 - 소프트웨어 테스트 자동화를 위해 다양..."
+a1163f0eef6d0827,데이터분석에 관심있으신 분,키온 경기도 김포,"월급 2,000,000원","SQL Programming 데이터 시각화 및 통계지식 BI, OLAP, DW, ETL, Modeling, Python 데이터분석 시스템 구축 본사 소재지 외 대부분 SI 프로젝트 파견 근무, 근무지는 주로 김포 또는 서울..."
+339f16c3c77753a7,Data Science Engineer (LINE AI Services...,LINE Plus corporation 성남 서현역,,"통계 지식 보유자 - 데이터 파이프라이닝/전처리를 직접 수행하여 분석/모델까지 도출할 수 있는 자 - Python, Scala, SQL 등의 프로그래밍 언어를 사용할 수 있는 자 - 해외 출장/근무에 결격 사유가 없는..."
+29e3b5646b869f60,[해외취업] 【AI・RPAエンジニア】経験半年の方も歓迎 10ヵ国の技術者が在...,株式会社リープ 대한민국,,"격요건 【必須要件】 ・何かしらのシステム開発経験が半年以上ある方 【歓迎要件】 ・Java, PHP, .NET, Pythonのスキルをお持ちの方 ・顧客折衝や要件定義などの上流工程経験がある方 ・RPAエンジニアとしての実務経験、知識がある方..."
+432b169b273d9964,"R&D Engineer, Sr I",Synopsys 서울,,end to back-end Strong software programming skills in C++ and python is required Inclusion and Diversity are important to us...
+95332cb85a2b99d6,[기업용협업플랫폼] Back-end 서버 개발자,카카오엔터프라이즈 성남 분당구,,"현되어 있습니다. 동시에 마이크로 서비스 아키텍처를 구현하며 용도에 따라 Java 나 Ruby, Go, Python 등도 활용 가능합니다. 함수형 언어에 대한 이해가 깊으면 좋겠지만, 관심도가 높은 것만으로 충분합니다. 객체..."
+4fbc49b63296ff88,Data Engineer (Analytics/Anomaly-detecti...,LINE Plus corporation 성남 서현역,,"및 추출이 능숙한 자 - VCS(Git) 기반으로 협업하는 것이 익숙한 자 - 데이터 분석 및 추출을 위한 Python, Scala 언어를 사용할 줄 아는 자 [우대사항] - Hadoop 기반 분석 환경(Spark..."
+c73ca1effb65d557,AD 데이터 분석,LINE Plus corporation 성남 서현역,,"보유한 자 - Hadoop 환경에 대한 이해를 기반으로 Hive SQL 사용이 능숙한 자 - R, Python 을 모두 사용하여 통계 분석 및 예측 모델링이 가능한 자 - 논리적 추론과 해석, 분석 항목 도출을 통한..."
+07f425a9fb3ee67b,"글로벌 플랫폼 쉴드 개발(인증보안,이상결제,평판 등)",Nexon 성남 분당구,,"청제한시스템 - 평판시스템 지원자격 - 전체 개발 경력 3~8년 - Python , GO 개발 경력 우대 (팀 내부 주 개발 언어가 Python, Go 입니다.) - 비동기, 병렬처리 프로그래밍 기술 - OS, DB..."
+e27b6d83b3db91ad,"서버개발 (Linux, C,C++, TCP/IP 소켓통신)",비에이블컨설팅그룹 서울 구로구,,인터넷·IT·통신·모바일·게임>응용프로그래머>인공지능(AI)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>네트워크·서버·보안>네트워크구축·운영·관리|인터넷·IT·통신·모바일·게임...
+d70098b406a8a07f,O2O서비스 커머스 데이터 분석,에이스파트너스서치펌 서울,,"등 개발 운영 전반 필요경력 - 분석, 모델링 Tool(R, SAS, Python 등) 활용 데이터 분석 - 관련 분야 3년 이상 업무 경력, 석사... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임..."
+b9974ad79659bb6d,"카카오콘 iOS, 서버 개발자",카카오 4.2 대한민국,,"2년 이상 모바일 환경을 위한 API 시스템 개발 경험 특정 언어 하나에 능숙하신 분으로, 배워서라도 Python 또는 Ruby 개발이 가능하신 분 [우대사항] 백엔드 서버와 웹 프런트엔드 모두 개발 가능하신 분 ※ 카카오..."
+9e88beadda2081f6,서버개발자,쿡앱스 성남 분당구,,"php, node js 또는 Python 등 서버 설계 및 구현 분산처리... 그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터..."
+b79c2ae536063b01,[전문연구요원] 상시,네이버 서울,,"Tool Engineer ㅇ Python/C/C++ 언어 개발 용이 ㅇ... Design, Debugging Skills ㅇ스크립트 언어 개발 경험 ( Python, Bash, etc.) ㅇ Embedded Platform과..."
+de3e259116aee463,백엔드 인프라 개발자 (정규직 & 보충역),토이스미스 서울 강남구,,"로세스) 관리 경험 l 자료구조 및 알고리즘에 대한 이해 (스택 & 큐 & 데이터 풀) l Golang, Python, C++, Java 중 하나의 언어를 사용한 멀티코어 프로그램 개발 경험 l REST API 에 대한 설계..."
+479b7f46a87002c7,(기술플랫폼실) 신규 사업 BI 시스템 구축 및 운영 담당자 영입,카카오페이 성남 분당구,,"플랫폼 구축 및 운영 경험이 있으신 분 - 올바른 지표를 제시하기 위한 기초 통계 지식이 있으신 분 - Python, Spark SQL 개발 경험이 있으신 분 - 금융권 정보계 구축 및 운영 업무 경험이 있으신 분 전형절차..."
+b83e48f219011128,매칭팀 - 프로그래머,Nexon 성남 분당구,,"상의 서비스 개발과 운영 - 게임 매치메이킹, 추천 시스템 개발 지원자격 - 한 가지 이상의 개발 언어( Python, C++, C#, Go 등)에 숙련된 프로그래밍 능력 우대사항 - 게임 개발 또는 라이브 서비스 경험이..."
+d5be40de21d8637a,Senior Field Service Engineer,Huntington Ingalls Industries Inc. 경기도 평택,,"Technical background with working knowledge of HTML, Ruby, Python... Java Knowledge of hardware, networks, and server..."
+f4a5057bd3043129,웹프론트엔드 개발자,Nexon 성남 분당구,,"능한 분 - 다양한 분야의 사람과의 협업 능력이 원활하신 분 우대사항 - Spring, Node.js, Python 등 한 가지 이상의 백엔드 기술에 대한 이해 - TypeScript 경험자 우대 - 프로젝트 설정부터..."
+eddebb8055e71f8e,"영상처리 (Unity, S/W, Logic) 개발자",엠앤앤에이치 서울 성동구,"연봉 35,000,000원 - 45,000,000원","W 개발 (PC, 임베디드) - H.266 비디오 스트리밍 S/W 개발 자격요건 - C/C++, Python, OpenCV 필수 - 학력 : 대졸 이상 (4년) - 경력 : 신입 ~ 경력 5년이하 우대사항 - OpenGL..."
+61ecdc0ef3cfb66a,[경력] 빅데이터 플랫폼 엔지니어,카카오 4.2 성남 판교역,,"미만 <기술> 전산 전공 또는 그에 준하는 실무 경험을 갖추신 분 Java 필수, 그 외 Scala, Python, Ruby 중 1개 이상 언어로 개발 가능하신 분 하둡 플랫폼에 대한 기본 지식을 갖추신 분 하둡 클러스터..."
+184b0b4e3ca1c557,Pricing - Regional Contributions Analyst,Bloomberg 서울,,financial markets... strong interest in market data Knowledge of basic programming language ( Python... VBA is a plus
+649ccf047c868778,"금융 데이터 분석 엔진, 로보어드바이저 개발자",에스비씨엔 서울 영등포구,,"시스템, 머신러닝, 자연어처리. 패턴분석 - 다음 언어에서 최소 한 가지 이상 능숙자: Java, C++, Python, JavaScript 우대사항 - 석사이상 컴퓨터공학 (Computer Science) 분야 또는..."
+20d40ee61adffeca,챗봇 플랫폼 개발자,카카오 4.2 성남 판교역,,"서비스에 대한 두려움이 없으신 분 서버 개발 Java, Scala, Kotlin 등의 JVM 기반 언어 및 Python을 이용해서 실서비스 개발 및 운영해보신 분 데이터 엔지니어 Kafka, Elasticsearch..."
+1a75ce748c5f24e9,TOAST CAM 임베디드 개발,NHN 4.4 성남 판교역,,"또는 석사 학위 또는 그에 준하는 실무 경험자 (신입 지원가능) - 임베디드 환경에서 영상 처리 경험자 - Python, C++ 개발 경험 - 딥러닝 프레임워크, 컴퓨터 비젼 경험자 - Visual Object..."
+8ff424742daa3be0,연구개발직 신입/경력 정규직,더블미코리아 성남 분당구,,2년 이상 • C / C++ / Python을 통한 관련분야 개발 경험... 지능(AI)|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>머신러닝|인터...
+3e80435be74cd28f,블록체인인터넷경제연구센터 위촉연구원,광주과학기술원 광주 북구,,업무) 지원자격 연구직 O명 블록체인 연구 및 프로그래밍 제작 1) SW프로그래밍 제작 경험자 2) Python/C/Java/Go 프로그래밍 가능자 3) 블록체인 개발 경험자 우대 4) 컴퓨터공학 및 컴퓨터사이...
+e5ca14de265f7fc9,Data Analyst,레이니스트 서울,,"가지신 분 Business Intelligence 시스템 및 비즈니스 리포팅 툴의 활용 능력 프로그래밍 언어( Python/R, etc)를 활용하여 데이터 분석이 가능하신 분 더 나은 데이터 기반 서비스를 만들기 위해 동료들과..."
+265fe05816442836,[CXPO실] Business Analyst,야놀자 서울 강남구,,"을 이용한 데이터 프로세싱 또는 ETL 경험 [우대사항] O2O 플랫폼 서비스에서의 데이터 분석 경험 Python, R등의 프로그래밍 언어와 라이브러리를 활용한 데이터 분석 경험 데이터 엔지니어링에 대한 높은 이해도 및 경험..."
+d6c27e2108eafb61,Jr. Backend Developer,Delivery Tech Hero 서울,,"어로 코리아는 국내 최대의 Python 개발 조직으로, 나아가 최고의 개발 조직이 되기 위해 노력합니다. Python 으로 server systems... 다져온 우리의 Python 개발 경험은 새로이 Python 세계에 들어오고..."
+5875e66f97079bc4,Java developer,국내 코스닥 software업체 서울 서초구,"연봉 39,000,000원 - 54,000,000원","우대조건] ㅇ Java Spring Cloud 개발 경험자 (Netflix Cloud 버전) ㅇ Python Programming 경험자, Netflix OSS 플랫폼을 활용한 시스템 구축 프로젝트 경력자, Swagger..."
+4c47cf08fd19553f,[서울 본사] SW 개발 정규직,다스코포레이션 서울 구로구,"연봉 22,000,000원 - 30,000,000원","비희망 [기타 우대내용] - 컴퓨터 관련 전공자 - 개발언어 1가지 이상 사용가능자(C언어, Android, python 등) - 청년내일채움공제 가입 가능자 인터넷·IT·통신·모바일·게임>응용프로그래머>C·C++|인터넷..."
+bd8e5afa35b65cbc,백엔드 개발자,스포카 대한민국,,중 하나입니다. 자격 요건 다른 사람이 쓸 수 있는 프로그램을 직접 만들고 운영해 본 경험이 있는 분 Python 실무에서 2년 이상 사용한 경험이 있는 분 RDBMS 사용 경험이 있는 분 (PostgreSQL 우대) 네트...
+4cd34228af5013fd,DGIST 2019년 제1차 계약직원 공개채용 공고,대구경북과학기술원 대구 현풍면,,"우수자(SPSS, R 등 통계패키지) 외국어(영어) 구사 능력 우수자 Programming(MATLAB, Python, C/C++ 등) 가능자 · 근무기간 : 2019.3.11.~2020.3.10. ※ 단, 재계약 평가에..."
+cdb73ed97e74098a,Senior Back-End Developer,Asiance 서울,,"deployment. • 배포는 주로 Docker 사용. • PHP, Python for backend development. • PHP, Python 등을 사용하여 백엔드 개발. • MySQL for structured..."
+71e0b966bf1531df,검색개발,NHN 4.4 성남 판교역,,리눅스 환경 개발 경력 2년 이상 - 딥러닝 모델 분석 유경험자 - Python 개발 유경험자 - 딥러닝 모델 개발 유경험자 - Python 실무 유경험자 공통지원자격 - 병역필 혹은 면제로 해외여행에 결격 사유가...
+3d0fef92805a8c7c,[서울지사] 데이터 분석가,네오플 서울 강남구,,"분석해보고 싶은 주제와 방법론'이 있는 분 - 수학/통계 및 알고리즘에 대한 이해 및 활용 능력 - R, Python 등 자신에게 익숙한 툴을 활용한 데이터 가공 능력 - Word, Excel, PPT 활용능력 - 우수한..."
+deb23c0881100256,FDS 서버 개발,LINE Plus corporation 성남 판교역,,"visualize [자격요건] - 실시간 데이터 처리, pipeline 개발 경험 - java, python 중 하나 이상 언어에 익숙한 자 - Kafka Producer, Consumer 개발 경험 - 시스템 장애..."
+29042f16acbe5b16,데이터 아키텍트(DA),현대엠엔소프트 서울 용산구,,"Tibero, MySQL, SQL, Server, PostgreSQL [우대 역량 및 경험] - R, Python, 머신러닝 ,딥러닝 등 통계/분석 역량 - 데이터 분석 경험 - 빅데이터 플랫폼 구축/운영 경험 - DA..."
+c99bd2c492c8305f,[긴급]클라우드 기반 MSA향 개발( 대리-차장(서울 ),에이스파트너스서치펌 성남 분당구,,"개발 실무자. ㄱ. 퍼블릭 클라우드(AWS, GCP등)의 다양한 솔루션을 활용하여 서비스 개발 ㄴ. Java, Python 등 프로그래밍 개발 ㄷ. Container 기반 서비스 개발 및 운영 ㄹ. MSA, MVP 방법론 기반..."
+4bd35f51692bd0cf,[긴급]클라우드 기반 MSA향 서비스 개발( 대리-차장(서울 ),에이스파트너스서치펌 성남 분당구,,"개발 실무자. ㄱ. 퍼블릭 클라우드(AWS, GCP등)의 다양한 솔루션을 활용하여 서비스 개발 ㄴ. Java, Python 등 프로그래밍 개발 ㄷ. Container 기반 서비스 개발 및 운영 ㄹ. MSA, MVP 방법론 기반..."
+9437c9fdc6462773,Data & AI Technical Specialist,IBM 3.9 서울,,"Data Science space: SPSS, Decision Optimization, SAS, R and Python programming, etc. Knowledge... Open Source space..."
+8a5c305f2e5018ed,데이터 인프라 담당자 (경력),카카오 4.2 성남 판교역,,"인프라/DB/Hadoop 에 관심이 있으신 분 하둡 기반 대용량 데이터 환경 경험이 있으신 분 Java, python, go, bash 등 스크립팅 언어 중 하나 이상 활용 가능하신 분 데이터 분석가와 협업 경험이 있으신 분..."
+41818bc2a8ab8283,WebRTC UC & Collaboration Developer,Ericsson 서울,,"experience: Linux, JavaScript, Node.js, React.js, Docker, Python, WebRTC Media, Low-level Media API, RESTful Understanding..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+801392fe044e4ba7,Platform/BSP SW APPS Engineering - Engin...,Qualcomm 4.1 서울,,experience on C and scripting languages is preferred (Shell/ Python) Responsibilities: -Keeps abreast of new specifications...
+67503f27b0365593,인간중심 지능형 시스템 연구실 시간제 연구원,광주과학기술원 광주 북구,,"우대사항 ① 국가보훈대상자(취업보호대상자) 및 장애인은 관련 법령에 의거하여 우대 ② 이외 개발언어 ( Python, C++, JAVA, MFC, QT 등) 기반 SW(앱/웹 포함) 개발 가능자 ③ 인간대상연구 경험자..."
+719aaaeffd746a04,FPGA 플랫폼 엔지니어(딥러닝 하드웨어 프로세서 개발),딥엑스 성남 분당구,"연봉 40,000,000원 - 99,990,000원","logic analyzer 사용 경험(Chip Scope/SignalTap) - Language: Python/Perl(<x... c="""" c - Vivado 또는 Synplify 또는 Quartus II 경험 [우대..."
+6fccae37fbc976be,소프트웨어 개발자 (신입/경력 가능),오모로봇 안산 상록구,"연봉 28,000,000원 - 40,000,000원","아이디어를 만들 수 있는 분. <소프트웨어 개발자>_신입/경력 모두 지원 가능 1. 프로그래밍 언어: - Python, nodejs 또는 Javascript 등의 소스코드를 읽고 분석하고 작성하는 능력 - C, C++ 2..."
+2c0226e483779522,시스템 엔지니어링,NHN 4.4 성남 판교역,,"OS 스킬 보유 및 X86 서버 운영 경험 보유 - 기본적인 운영도구 개발 가능자 . Java, Python, Django - OpenStack 기반의 클라우드 설계 구축 및 운영 경험자 - 웹 서비스 또는..."
+71c47ac87bb4087e,기술 인턴 인공지능 응용 연구/개발 인턴,써로마인드로보틱스 서울 관악구,,"6개월) (협의) *모집 절차: 서류 à인터뷰(오프라인) *지원 자격: 프로그래밍 언어 활용 능력: Python, C, C++ 중 1가지 이상 데이터구조, 알고리즘 과목 이수 머신러닝과 딥러닝의 기본 개념 이해 머신러닝..."
+b4bd6d5bad3b761c,사내 시스템 (O365) 구축/관리 엔지니어,Nexon 성남 분당구,,"가상화 플랫폼 구축/운영 경험자 - Windows 환경 운영에 따른 스크립트 경험자(Powershell, python 등) - 다양한 오픈소스를 활용하여 인프라 구축/운영 경험자 우대사항 - 사내 유관부서와 원활한 커뮤..."
+a971d51c3f9a0848,11번가 데이터베이스 관리자 분야,십일번가 서울 중구,,"06-15 직무 키워드 MySQL, MariaDB, MongoDB, Python, Grafana, Prometheus, InfluxDB 담당 직무... 데이터아키텍처|인터넷·IT·통신·모바일·게임>응용프로그래머> Python"
+c6e0b428a62c7eaa,경험최적화파트 - 데이터 사이언티스트/분석가,Nexon 성남 분당구,,피처 탐색 등) - 게임내 행동패턴 로그 분석과 패턴 식별 및 이를 통한 서비스 개선 지원자격 - Python을 사용한 데이터 분석 및 모델 개발 경험 - 머신러닝 라이브러리 활용 경험 - 셀프 모티베이션 - 원활한...
+e7b85b32e7635245,SW 프로그래머,스마탑 대구 달서구,"연봉 30,000,000원 - 50,000,000원","Powerbuilder프로그래머-영상알고리즘:모집인원 2명 전기전자: Aduino, Raspberry Pi , Python 유경험자 : 모집인원 1명 모바일앱 개발자: 모집인원1명 [근무시간 및 형태] 주 5일 근무 (오전..."
+541fac42acfbfaaf,"방송, 영상관제 시스템 보안 솔루션 개발 (C,C++)",비에이블컨설팅그룹 서울 구로구,,인터넷·IT·통신·모바일·게임>응용프로그래머>인공지능(AI)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>네트워크·서버·보안>TCP·IP·IPX|인터넷·IT·통신·모바일·게임>네트워...
+7f11a4a0723666b3,[Kim & Chang (김앤장 법률사무소)] 프로그램 개발 및 운영,Kim & Chang (김앤장 법률사무소) 서울 종로구,,"Mobile App 개발 가능 - Python, C# 이용 가능 - Web... 게임>웹프로그래머>JSP|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>C#|인터넷·IT·통신..."
+24685d4466817f9f,[기술플랫폼실] BI 시스템 운영 및 개발 담당자 영입,카카오페이 성남 분당구,,"소스 기반의 시각화 도구(Zeppelin, Superset 등) 활용 경험이 있으신 분 - Java 또는 Python, Spark 개발 경험이 있으신 분 - 금융권 정보계 구축 및 운영 업무 경험이 있으신 분 - 클라우드..."
+8811f73b6e9d9aae,[기술기획] DevOps 시스템 개발자,한국카카오은행 성남 분당구,,위한 CI/CD 구성/운영 경험을 보유한 분 · Docker 기반 서비스 구성/운영 경험을 보유한 분 · Python / Java / Golang 등 다양한 프로그래밍 언어 서비스 개발 경험을 보유한 분 · Linux 환경에...
+a65baa1929f29393,데이터 플랫폼 개발,NHN PAYCO 4.4 성남 판교역,,"Map-Reduce 등 활용 경험 - 데이터 기반의 문제해결 역량 및 논리적 사고 - Java/ Python 등 기본적인 Programing 역량 - 통계분석, 머신러닝 기법 등을 활용한 데이터 분석 경험..."
+d3f11a43c0902cca,[DI팀] Data Engineer,야놀자 서울 강남구,,"이에 상응하는 업무 능력 보유 데이터 인프라, 어플리케이션 개발 경험 Python, Scala, Java 중 1개 이상 개발 경험 * 전문연구요원... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임..."
+dab3f72b35f4bc7e,[ 2020 YG ENTERTAINMENT ] 정보관리 경력 (IT시스템...,YG 엔터테인먼트 서울 합정동,,"리기사 보유자 - 개발 프로젝트 참여 경력 보유자 - PM/PL 업무 수행 가능자 - 개발언어(PHP/ Python), SE/NE 업무 가능자 - 원만한 커뮤니케이션 및 교류 가능자 # 접수방법 - 당사 Recruit..."
+1d08b973eadc35b8,RTL 및 ASIC 설계 엔지니어(딥러닝 하드웨어 프로세서 개발),딥엑스 성남 분당구,"연봉 40,000,000원 - 99,990,000원","및 Verification - C 기반 모델의 RTL IP 설계 및 IP 검증 가능자 - Language: Python/Perl, C/ C [우대 조건] - ARM based SoC 설계 - ARM(AHB, AXI) SoC..."
+fe383fbe18dc32e1,[Search] [Vision] Computer Vision Engine...,네이버 서울,,"스템 엔지니어링 · 스마트렌즈 , 이미지 / 동영상 검색 , 비주얼 커머스 서비스 고도화에 기여 [자격요건] · Python, C++, Golang, Scala 등의 백엔드 개발 언어를 1 개 이상 자유롭게 활용 가능한 분..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+c96f77c7667730fa,연구소 개발부문 연구원 직원 (회로설계/하드웨어설계/머신비전/이미지프로세...,모든 경기도 광명,"연봉 40,000,000원 - 45,000,000원","프로그래밍 가능자 우대 S/W 설계 부문 : - OPEN CV, TENSORFLOW, YOLO, CUDA/ Python, C++, C WindowsGUL APL, MFC Lib 활용 가능자. 머신비전/ 영상처리 개발자 * 전기..."
+5c97ba86b2dc31f1,음성인식 엔진 개발,현대엠엔소프트 서울 용산구,,경험 보유 [기술 스택] - OS : Linux - 개발언어 : C/C++ 또는 Java [우대 역량] - Python 개발 가능 - 음성인식 개발 경험 보유 - 머신러닝 관련 이해/경험 - HTTP(Restful) API...
+afe92c03320fe1b3,카카오 광고 서비스 알고리즘 및 시스템 개발,카카오 4.2 성남 판교역,,"하고 싶습니다. 지원 자격 (공통) 하나 이상의 프로그래밍 언어에 익숙한 분 (C/C++, Java, Python, Go, Scala 등) 알고리즘 개발 업무 관련 데이터 마이닝 또는 머신러닝 지식/경험이 풍부한 분 (통계..."
+ddbca097f8e812f6,Global Payment DevOps Engineer,LINE Plus corporation 성남 판교역,,"자동화 플랫폼 개발 - 분산 시스템 아키텍쳐 설계 기술 개발 [자격요건] - Java, Golang, Python 등 1개 이상의 언어 사용이 능숙한 자 - Unix/Linux 개발/운영 환경이 익숙한 자 - 대용량..."
+ffd9cedb23e97344,파이썬SW 금융분야 특화 챗봇 개발 함께 할 엔지니어,파운트 서울 충정로역,,"처리 과정을 Python language로 구현 - Big data 처리를 위한 SW 개발 - Backend SW 구현, Messenger interface, DBMS I/F 구현 Requirement - Python..."
+5ed0334bca0963cb,[Autonomous Driving] Virtual Environment...,네이버 서울 • 재택 근무 가능,,"C/C++, Software Design, Debugging Skills ㅇ 스크립트 언어 개발 경험 ( Python, Bash, etc) ㅇ Embedded Platform과 System Software 개발 경험 및 이해..."
+a22d7b630bff33ea,[수시] ESTsecurity 서버/백엔드 개발 (경력),ESTsecurity 서울 서초구,,"CD에 대한 이해가 있으신 분 - Java 이외의 개발언어 활용이 가능하신 분 (JavaScript, Python, Shell Script 등) - Git, Github, GitLab등의 형상관리 툴을 활용해 보신 분..."
+1c4f1c0b625f5abd,데이터 분석 직군 모집,넷마블 서울 구로구,,"요건 - 관련 분야 경력 3년 이상 - 정형/비정형 데이터 분석 및 모델링 가능 - 통계 분석 도구 (R, Python, Tensorflow 등) 및 SQL 사용 가능 - 다양한 직군의 사람들과 원활한 커뮤니케이션 및 협업..."
+77ff926c2dc1d373,빅데이터분석 신입 및 경력직원,와이즈인컴퍼니 서울 강남구,,"졸업예정자 가능) [우대조건] - 컴퓨터활용능력 우수자 - 산업공학, 전산학,컴퓨터공학, 정보통신공학 - Python, R 사용자 - 데이터 바우처 사업 유경험자(정형/비정형 데이터 가공 및 모델링 0명 근무지역 서울 복리후..."
+241ae1e7499c461c,Security Engineer (모의해킹/취약점 점검),토스 페이먼츠 서울 강남구,,"우대사항 버그바운트 경험이 있는 분 해킹대회 우승 경력이 있는 분 다양한 플랫폼 보안 진단 경험이 있는 분 Python, C, C++, C#, JAVA 중 프로그래밍 언어에 능숙 하신 분 현업 인터뷰 결제 산업의 미래, 토스..."
+684d3494abf9ad3f,백엔드 소프트웨어개발자(정규직),데이터킹 안양 동안구,"연봉 30,000,000원 - 36,000,000원",360hexaworld.com/ <모집직종> - 백엔드 개발자 1명 <경력조건> - JAVA스크립트 또는 Python 활용 - 스프링 또는 Node Js 프레임워크 활용 - Restful API에 대한 이해와 실무 경험...
+2cfd15907402c5cc,DGIST 제2차 계약직 연구원 채용공고,대구경북과학기술원 대구 현풍면,,천원 이내 수행 내용 Machine learning (Deep learning) 알고리즘 개발 Python/Tensorflow 프로그래밍 Matlab/simulink 모의실험 자율주행 자동차 혹은 전문 서비...
+8657ecd975acd2f4,[해외취업] AI 엔지니어,株式会社ASCOM 대한민국,,"회사에서 일하고 싶어하는 사람들에게 좋은 기회입니다. 인생의 새로운 장을 열어보세요! 1) C/C++, Python 및 기타 프로그래밍 언어에 익숙한 자 2) 딥 러닝 도구(예：Tensorflow,Caffe 등)에 익숙한 자..."
+8af26b37623864c4,8퍼센트 개발자 (신입/경력),8퍼센트 서울 종로구,,개발 금융 데이터 분석과 분석 플랫폼 운영 자격요건 컴퓨터 전공자 또는 웹 개발 경력 1년 이상 우대사항 Python 코드를 무리 없이 읽으실 수 있는 분 Linux/Mac 사용 가능한 분 새로운 기술에 대한 호기심을 가지신...
+f8884a7f8067fd39,"Principal, Business Analyst (SCM Systems...",Coupang 3.1 서울,,"analysis experience One who has experience with SQL, Excel, Python, and R/SAS or any statistical package Preferred: One who..."
+ff52e5f9625f8f34,Machine Learning Engineer (LINE AI Servi...,LINE Plus corporation 성남 서현역,,"지식 보유자 - Hadoop MR, Hive, Spark 등 대용량 처리 프레임워크 개발/사용 경험 - Python, Scala, SQL 등의 프로그래밍 언어를 사용할 수 있는 자 - 해외 출장/근무에 결격 사유가 없는..."
+722cf700ee6ab829,자바 FRAMEWORK기반 웹 응용 SW개발자 양성과정,한국아이티전문가협회 서울 구로구,,로그래머>머신러닝(ML)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>증강현실(AR)|인터넷... 통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임...
+199189698f0d215c,"Python, PHP 외 경력 정규직",드래곤에이치알 서울 강서구,,제출서류에 허위사실이 있을 경우 채용이 취소될 수 있습니다. 인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>PHP |인터넷·IT·통신·모바일·게임>웹프로그래머>백엔드|인터...
+35b725a5751f6420,'20년 AMOREPACIFIC 경력채용_머신러닝 엔지니어,아모레퍼시픽 4.0 서울,,"평가 및 개발, 적용 필수사항 : - PyTorch, Tensorflow 중 1개 이상 사용 가능 - Python 중급 이상 - 딥러닝 관련 지식 보유 - 선형대수, 통계학 등 지식 보유 우대사항 : - 머신러닝/데이터..."
+f5f5f902d240ac96,Data Scientist,토스 서울 강남구,,"학위 또는 실무 경험 5년 이상 갖춘 분 실제 서비스 데이터를 이용한 분석모델 개발 경험이 있는 분 R, Python, Scala, SQL 등 데이터 분석의 업무를 수행할 수 있는 하나 이상의 개발 언어에 능숙한 분 우대..."
+19b44e0d17d112e2,분석실 - 베이지안 분석 전문가,Nexon 성남 분당구,,"동으로부터 피드백을 받아 최적화 모델을 개선합니다. - 주요 활용 tool : SQL, zeppelin, python, tableau 지원자격 - (필수) 논리적이고 체계적인 문제 해결 및 커뮤니케이션 능력을 소유하신 분..."
+89597f053e7de3cf,CSS 모델러,토스 뱅크 서울 강남구,,"험을 보유하신 분 빅데이터, 머신러닝 등 최신 알고리즘 활용한 신용평가모형 개발/운영/개선 가능하신 분 R, Python, Scala, SQL 등 데이터 분석 및 모델링 업무를 수행할 수 있는 하나 이상의 개발 언어에 숙달하..."
+5b8d56d7f11903a2,데이터연동개발팀 - 데이터엔지니어,Nexon 성남 분당구,,구축에 대해 경험이 있으신 분 - SQL 활용 능력이 뛰어나신 분 우대사항 - 경력 3년 이하 - Python이나 Scala 등과 같은 프로그래밍 언어를 활용하여 ETL 개발이 가능하신 분 - Spark를 활용하여...
+c875e3475200493a,연구소 SW 연구원 경력,티모테크놀로지 성남 중원구,,"ARM/PowerPC 등) 2. VoIP 관련 기술 보유 및 경험자 가점 3. C++, java, python 등 추가 언어 사용가능자 가점 4. Web, IoT, AI 관련 기술 보유자 가점 인터넷·IT·통신·모바일·게임..."
+924d1be5b05890da,(Search) 쇼핑검색 AI 기술 개발 신입/경력사원 모집,NAVER 3.9 성남 정자동,,"design / Large-scale data processing 자격요건 및 우대사항 · C, Java, Python, Scala 등 하나 이상의 언어에 능숙 하신 분 · 위 채용분야 관련 2년 이상 실무 경험 또는..."
+8c8700db243d1a3c,Applications Engineer (Library Character...,Synopsys 서울,,"Working knowledge of scripting languages like TCL, Unix Shell, Python, or Perl. Prior AE/design experience is a plus. Working..."
+116009dbf59211ed,퍼즐데이터 역량있는 데이터 분석가,주식회사퍼즐데이터 서울 역삼동,,"데이터 마이닝 및 통계분석에 대한 전반적인 이해 3. 관련분야(산업공학, 통계 등) 전공 4. R or Python 사용 능력 * 이런 분은 더욱 좋아요. 1. 프로세스 마이닝 지식 보유자 2. 관련분야 대학원 전공 3..."
+acbcd598c4efddaf,모빌리티 자율주행 솔루션 실무과정 국비교육(4차산업인력양성),연희직업전문학교 인천 서구,,게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임... 로그래머>증강현실(AR)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>머신러닝(ML)|인터넷...
+2d83dcf8baac736b,Technical Solutions Engineer,MightyHive 서울,,"Python and R Machine Learning, Tensor Flow Data Visualization Data Engineering, ETL Technology Used Node.js, Python, Flask..."
+a358a39da5dfc360,[NAVERxLINE] Global Ad Data Engineer/AI...,네이버 서울,,"Engineering [자격요건 ] - Java, Scala, Python 등의 언어를 활용한 소프트웨어 개발 역량 - 리눅스 환경에서의 시스템 개발... 워크 기반 개발 가능하신 분 - Python, Java, Scala 중 1..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+e787fde04b998e1a,게임이상탐지팀 서비스 개발자,Nexon 성남 분당구,,"대용량 데이터를 요청에 맞게 전달하는 API 개발 - AWS 인프라 구축 및 운영업무 지원자격 - python, node.js, C#, Java등 한 가지 이상의 언어를 능숙히 사용 가능하신 분 - 관련 분야 5년 이상..."
+ea3b136c0ff59524,데이터분석가(게임어뷰징 탐지),Nexon 성남 분당구,,"시스템 운영 등의 빅데이터 활용 업무경력) - 논리적이고 체계적인 문제 해결 및 커뮤니케이션 능력 - Python, Scala 등과 같은 프로그래밍언어로 데이터 분석 및 모델링 능력 (탐색적 데이터분석/ 데이터 전처리..."
+e393fa440b668be7,Data Analyst,토스 서울 강남구,,"박사 학위 소지하신 분 혹은 경험이 풍부하신 분 Data Warehouse 구축 지식이나 경험이 있으신 분 Python, R, Spark 등 언어 및 데이터 프로세싱 프레임워크에 대한 이해도가 높은 분 필요한 데이터를 스스로..."
+90104004fabe2502,[Search] 글로벌 콘텐츠 검색/ AI 기술 개발 신입/경력사원,네이버 서울,,"대규모 로그 분석 및 관련 시스템 운영 · 콘텐츠 검색 서비스 개발 및 운영 필요역량 · C, Java, Python 등의 프로그래밍 언어 중 1 개 이상 자유자재로 다루시는 분 · Linux/Shell 및 Git 환경에..."
+04d685fc70b67d4e,Linux/Python/PHP/MySQL/백엔드 정규직 경력,일루미나리안 용인 보정동,,"보유 - DBMS(MySQL or MariaDB), scripting Language: bash, python, OOP 언어 중 가능자 - Back-End 서버를 개발해 보신 분 [우대사항] - Go(aka GoLang..."
+0c1f05a0f45f5b4e,동남아 모바일 대출 기획 및 운영,LINE Plus corporation 성남 판교역,,"5년 이상 - 통계, 수학, 산업 공학, 금융 공학 등 데이터 분석 관련 학위 소지자 - SAS, Python, R 프로그램 및 SQL program 경험 - 영어 커뮤니케이션 가능 (verbal and written..."
+1a282f7477ebb853,[유명생보사] 통계분석 모델링 담당자,㈜에프앤이그재제큐티브 서울,,"경력 2년 이상 - 마케팅 데이터 모델링 경험자 - SAS, R, Python 시각화툴 SQL 등 분석 소프트웨어 사용가능자 - 통계/수학/금융공학... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임..."
+fa32e47d04a9f932,모바일 보안,NHN 4.4 성남 판교역,,"모바일 게임 취약점 자동 점검 기술 연구/개발 - 모바일 앱 리버싱 엔지니어링 기술 - C/C++/ Python 개발 경력 3년 이상 - frida, ida, gdb 활용가능 - 상용 모바일 보안 서비스 개발 경험..."
+80e215cfdccb251c,SW개발자 0명 자동화 산업장비 제조업,자동화 산업장비 제조업 대한민국,,4) 물류자동화장비 소프트웨어 유경험자 [우대사항] 1) 해당업무 유경험자 2) C# / .NET / Python / Database / UI개발 경험자 3) CIM 개발 경험자 우대 4) 중국어 가능자 우대 *근무지...
+71cc50dea3a2e683,SAP Architect,Amazon Web Services Korea LLC 서울,,"Scripting experience with tools... Powershell, Python, Bash, Ruby, Perl, etc. · Experience with Unix/Linux and Windows..."
+d017610d9828199c,"드론 데이터 스타트업, 엔젤스윙 엔지니어",엔젤스윙 서울 관악구,,"Ruby on Rails, Python, C++, AWS AWS, GCP... 기반 웹서비스 개발 경험 디버깅, 최적화 스킬 Javascript, Python, C++ 등 개발언어 중 자신있는 언어가 1가지 이상 있으신 분..."
+b574f1454ae36aab,Cross Border Ecommerce - Business Intell...,Shopee 서울,,business analyst related roles Proficient in SQL and Python Strong analytical skill and sensitivity to data Strong oral...
+01cdfff2d55c2fa5,PMIC S/W APPS Engineering – Senior to St...,Qualcomm 4.1 서울,,"experience with Programming Language... C, C++, Java, Python , etc Preferred Qualifications 6 to 12 years of academic..."
+4a1eb35a90ef798a,Data Operator,레이니스트 서울,,"적으로 일정을 협의하고 결과를 이끌어낼 수 있는 분 기초적인 데이터 활용과 분석이 가능하신 분 (SQL, Python/R, etc) 데이터에 기반해 의사결정을 하고, 이를 통해 유의미한 성과를 만들어낸 경험이 있으신 분 우대..."
+6f88041c28b6c1ae,한글 Q&A 시스템 연구 개발 신입/경력사원,포티투마루 서울 관악구,,"중(9월예정) [지원자격] - 4년제 대학교 졸업 (전산관련학과 이수 또는 그에 상응하는 교육이수자) - Python, Java, C/C++ 등으로 개발 가능하신 분 - Unix/Linux 시스템에 대한 이해가 있으신 분..."
+952e0a8d9bac4aea,고성능 게임 피드백 서버 개발,Nexon 성남 분당구,,"및 ML 알고리즘을 실행 하는 서버 개발 지원자격 - (필수) 한 가지 이상의 개발 언어(C++, C#, Python 등)에 숙련된 프로그래밍 능력 - RESTful API 및 TCP/UDP 서버 개발 경험 및 네트워크와..."
+dec0249bc51c2891,미래기술 석/박사 인턴십 선발,씨제이대한통운 서울 중구,,공지능)> Python|인터넷·IT·통신·모바일·게임>ERP·시스템분석·설계>빅데이터|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|마케팅·광고·홍보·조사>조사...
+4fa50f2ffd370bae,얼굴모션 캡처기술 인공지능(AI) 연구개발 전문기업,인공지능(AI) 연구개발 전문기업 경기도,,대한 이해 - Tensorflow/Pytorch 등 딥러닝 프레임워크에 대한 깊은 이해와 연구 개발 경험 보유 - Python/C++에 대한 능숙한 개발 경험 7) 우대사항 - 관련 분야 박사학위 소지자 - 인공지능(Deep...
+8925ce6bab9d00d6,바디모션 캡처기술 인공지능(AI) 연구개발 전문기업,인공지능(AI) 연구개발 전문기업 경기도,,대한 이해 - Tensorflow/Pytorch 등 딥러닝 프레임워크에 대한 깊은 이해와 연구 개발 경험 보유 - Python/C++에 대한 능숙한 개발 경험 7) 우대사항 - 관련 분야 박사학위 소지자 - 인공지능(Deep...
+f3a14b3f8d9e3e12,네이버 쇼핑검색플랫폼 개발자,네이버 서울,,"info extraction [필요역량] - 아래 기술 중 어느 한가지를 능숙하게 다룰 수 있는 분 [ Java, Python, Spring boot/batch/cloud, Kotlin, React, Vue, Node.JS..."
+977529f65769df3a,[수시] ESTsecurity 웹프론트 개발 채용(경력),이스트시큐리티 서울 서초구,,"개발하시는 분 - Javascript 이외의 개발언어 활용이 가능하신 분 (Typescript, Python, Java 등) - 백앤드 서비스, DB(RDBMS, NoSQL)에 대한 이해와 경험이 있으신분 - Git..."
+a8b83b3070bb370a,Tech U Associate Technical Trainer - 202...,Amazon Web Services Korea LLC 서울,,"languages: Java, Python, Ruby, Node.js... programming (Node.JS, Java, Ruby, C#, Python, or PHP) · Demonstrated ability..."
+74f8e3797b21c046,S/W개발자 (RPA경험자 우대),테이크솔루션 서울 성동구,"연봉 40,000,000원 - 42,000,000원","험자 우대. + RPA업무에 관심있는자 환영 2. 필수 요구수준 + 자바경력 3년이상 3. 우대사항 +C#, Python 개발 가능자 + Excel 및 Powerpoint 고급능력 보유자. 4. 수습기간 3개월후 정직원 채용..."
+84917d467fb78934,2015년도 하반기 국립기상과학원 연구원(기간제근로자) (마감: 2015...,기상청 대한민국,,"ESGF 노드 운영 학사 이상 대기과학 또는 전산관련 학과 우대 유닉스, 리눅스, C, Java, python 등 유경험자 우대 국가공무원법 제33조 각 호의 결격사유가 없는 자(남자는 병역 필한 자) (최종합격..."
+aac8e9355cb855ac,[인재풀] 아티스트,Electronic Arts 서울,,Maya or 3D Max등의 아트웍 툴 사용 경험 - Max script 또는 Mel Script의 사용 경험 - C# 또는 Python 언어에 대한 이해 및 활용 능력 - 아트웍 관련 툴 제작 또는 플러그인 제작 경험
+b2ebc1da56d8b120,GNI 소프트웨어 개발자,KAN 울산 북구,,"2,3년제 졸업자는 2년이상 경력자 C#, python 등 가능자 인터넷·IT·통신·모바일·게임>소프트웨어·하드웨어>소프트웨어"
+663c604acbd2e1d8,검색 엔진 개발,현대엠엔소프트 서울 용산구,,용프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일...
+c78a3c5d7bb7d883,웹 애플리케이션 개발자,Nexon 성남 분당구,,"사용 경험 - Maven, Jenkins, Git, SVN Restful API 설계 및 개발 경험 Python 및 Script 언어 중급 이상 비동기 및 병렬처리 프로그래밍 경험 원할한 커뮤니케이션 능력 우대사항..."
+ae15250b0a7f47e0,데이터 엔지니어,크로스앵글 서울 반포동,,"데이터 관리 (Auth0) - 블록체인 지갑 인증 (Ethereum, EOS) [자격요건] - 백엔드 & Python 실무 개발경험 3년 이상 혹은 그에 준하는 능력을 갖고 있으신 분 - 새로운 기술에 대해 호기심을 갖고..."
+69b824318cebcbb9,Cross Border e-Commerce - Business Intel...,Shopee 서울,,business analyst related roles Proficient in SQL and Python Strong analytical skill and sensitivity to data Strong oral...
+8b29e16a2f9665f2,"Principal, Strategic Planning",Coupang 3.1 서울,,"e-commerce and other internet-based industries; retail SQL, Python experience is a plus Experience with Tableau also a plus..."
+78aeb080600490dd,클라우드 개발자(Monitoring as a Service) (경력),카카오 4.2 성남 판교역,,"요구사항이 정해진 시스템에 대해 전반적인 설계 & 협업을 통한 개발이 가능하신 분 java, golang, python 중 한 가지 언어를 능숙하게 사용할 수 있으신 분 업무 내용에 정리된 Opensource 중 2가지 이상..."
+2892c67308e87f01,Field Data Scientist,Success Korea 경기도,,"Scripting experience required (e.g. Matlab, R, Python). Familiarity with analytics... e.g. Matlab, R, Python). Familiarity..."
+e286e08d5582feb3,[해외취업] AI/BI 엔지니어,유아솔류션즈 대한민국,,"고력과 도전적인 분 새로운 개발언어에 대한 적극적으로 습득의지가 강한 분 【우대스킬】 1) C/C++, Python,Perl 및 기타 프로그래밍 우대 2) 딥 러닝 도구(예：Tensorflow등등) 취급경력자 우대 3) AI..."
+96a87e4193c82cc1,"유니챌 SW 개발자 (JavaScript, React Native, Py...",유니챌 서울 금천구,,"- 컴퓨터/시스템공학 - 공학계열 - 해당직무 근무경험 유니챌주식회사 SW개발 신입/경력 정규직, 프리랜서 채용 모집부문 및 자격요건 모집부문 담당업무 자격요건 인원 SW개발 [담당업무] - 웹 개발 및 응용 소프트웨어 개발..."
+03c348f581125403,[검색플랫폼] 검색시스템 개발자,카카오엔터프라이즈 성남 분당구,,"책임감을 가지신 분 Java, Python, Go 중 한 가지 이상 개발이... Java, Python, Scala 중 한 가지 이상 개발 가능하신 분 UNIX(Linux) 기반 개발 경험이 있으신 분 Java, Python..."
+766b4c9a90a5eb20,데이터분석가(팀장급),리디 서울,,"대한 이해 및 활용 가능 데이터에 기반한 사고 능력 비즈니스 데이터 분석 실무 경험 데이터 처리 언어 (R, Python, Scala) 사용 경험 추가 정보 우대 사항 데이터 분석팀 리딩 경험 리디 서비스 사용 경험 통계..."
+277aedb748e9c7da,데이터 분석가(팀원급),리디 서울,,"이해 및 활용 가능 데이터에 기반한 사고 능력 비즈니스 데이터 분석 실무 경험 데이터 처리 언어 (R, Python, Scala) 사용 경험 추가 정보 우대 사항 리디 서비스 사용 경험 통계 모델링 또는 머신러닝 경험..."
+e297a42da05b7c80,데이터베이스 엔지니어(DBA) 포털 대기업사 new,포털 대기업사 경기도,,"DB 운영/개발 경험자 - 대규모 환경의 MySQL,MongoDB, PostgreSQL 운영 경험자 - JAVA, Python 등 개발능력 4. 근무장소: 경기도 성남시 분당구 분당내곡로 117 크래프톤타워(판교역 인근)"
+ed8f2d4e613fb977,[던전앤파이터] 2D/3D 그래픽 기술개발 부문 (TA/엔진프로그래머/툴...,네오플 서울 강남구,,TA - 3D 아트 경력 5년 이상 - 언리얼 엔진에 대한 높은 이해도를 갖추신 분 - MaxScript나 Python 을 활용한 Tool개발 능력이 있으신 분 - Material과 Lighting 등 리얼타임 렌더링에...
+a771637c0eeffc26,[Search] NAVER Search 이미지 검색서버개발 신입/경력사원,네이버 서울,,"필요역량] 이미지 검색서버 구축 , 운영 이미지 검색로직 개발 [자격요건 및 우대사항 ] C/C++/JAVA/ python/ 개발 가능 수십대 이상으로 구축된 시스템 개발 , 운영 경험 Linux 환경에서의 개발 경험 IR..."
+7af1798e214d4067,Support Engineer _ Devices & IoT,Microsoft 4.2 서울,,"problem-solving skills • Strong C/C++ coding skills, along with Python, C# and Java • Azure/AWS cloud development experience..."
+464ef95516a5fa5c,8퍼센트 경력 개발자,8퍼센트 서울 종로구,,"개발업무 - 금융 서비스 개발 - Python/Django 기반 - 정해진 역할이 아닌 기능에 따른 업무 분배 - 프로트엔드부터 백엔드까지 업무 범위... SQL 기본 - git flow - python, django 경험자 우대"
+a93103d6dd6d208e,[AI Lab] Machine Learning 데이터 사이언티스트,버즈니 서울,,"분석을 통한 구매/전환 예측 모델링 – 상품 클릭, 구매 전환, 설치 전환 예측 모델링 이런 분을 찾습니다 Python 사용 능력이 능숙하신 분 주도적으로 문제를 찾고 해결할 수 있는 분 Machine Learning 기반의..."
+acd5236360359c2f,[Search] AI 기반 글로벌 추천 서비스/시스템 개발,네이버 서울,,"자격요건] · CS 전공자 또는 그에 상응하는 탄탄한 CS 기본기를 보유한 분 · Java, Scala, Python, C++, Go 중 1 개 이상의 언어에 자신이 있는 분 [우대사항] · 빅데이터 배치 / 실시간 처리를..."
+b5216db199c9049b,2020년 하반기 모비젠 부문별 경력,모비젠 서울 송파구,,"력서 전형절차 및 제출서류 전형절차 직무/산업 직무별(직종) 웹프로그래머웹프로그래머, JSP, JAVA, Python 응용프로그래머응용프로그래머, Linux 인공지능(AI).빅데이터인공지능(AI), 빅데이터, 머신러닝, 사물..."
+481f953ccaa4bc96,AI 연구/개발 직군 모집,넷마블 서울 구로구,,"ML 관련 분야 경력 6년 이상 - Cloud 서비스 활용 경험 - Python, C/C++, SQL 사용 가능 - Tensorflow 또는 상응하는... 웹 서비스 구축 등 자격요건 - Python 에 능숙하고 C/C++ 혹은..."
+4bc3a20abe74da29,프로젝트 데이터 과학자 및 인공지능 개발자 양성과정,엔코아 서울 서초구,,통신·모바일·게임>빅데이터·AI(인공지능)>데이터분석|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>머신러닝|인터넷·IT·통신·모바일·게임>빅데이터...
+d0ae3cf7638734ac,데이터 사이언티스트 / Data Scientist,Bagelcode 서울,,규모 데이터 처리 및 분석 [자격 요건] - 직무 관련 경력 2년 이상 (게임 업계 우대) - SQL / Python / R 등 데이터 분석 업무를 수행할 수 있는 하나 이상의 개발 언어 유경험자 - 통계 지식에 대한 이해...
+a312aadd51cba768,[조직문화/개발팀] 백엔드 엔지니어(사내 시스템 개발),버즈니 서울,,서버 개발 사내 서비스 인프라 스트럭처 이런 분을 찾습니다 관련 업무 경력이 최소 1년 이상 있으신 분 Python 및 기반 프레임워크 개발 경험이 있으신 분 Docker(Contatiner) 기반 시스템 환경 구축 경험이...
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+9d402790b29c351e,[KSTEC] 2020년 신입 및 경력 채용 (SW개발자),지식시스템(주) 관심기업 IBK추천 성남 삼평동,,"지능화(의사결정 자동화) 시스템 개발 (SPSS, SAS, R, Python, Java 기반) 2. 기업용 데이터과학&인공지능 플랫폼 솔루션... 1. SPSS, SAS, R, Python, Java 등 데이터분석..."
+5bc622575fee61b8,Data Scientist,하이퍼커넥트 서울,,"가이드 자격요건 최소 2년 이상의 데이터 과학 및 분석 실무 경력 능숙한 SQL 구현 역량 및 실무 경험 Python 또는 R 분석 코드 구현 역량 및 실무 경험 머신러닝에 대한 기본 이해 우대사항 개인화, 최적화 등..."
+3e207b801bb540db,Security Operations Center Analyst,Booz Allen Hamilton 경기도 평택,,"scripting languages, including Python or PowerShell Ability to brief senior... our PyNights ( Python competition..."
+9ccf3e3afe262bf8,마케팅 데이터 엔지니어 모집,넷마블 서울 구로구,,"비스 개발 및 운영 - 마케팅 도메인 지식을 바탕으로, 사내 마케팅 업무 지원 자격요건 - Java 또는 Python 개발 경력 3년 이상인 분 - 새로운 개발언어, 플랫폼 학습을 빠르게 습득 및 활용 가능한 분 - 대용량..."
+fd0e5f5aa2592df1,[해외취업] IT엔지니어,유아솔류션즈 대한민국,"연봉 21,000,000원 - 22,000,000원","Swift iOS/Android 스마폰 소프트웨어 개발, WEB 서비스 개발, 업무 소프트웨어 개발. ・ Python/Perl AI,시뮬레이션 및 빅크 데이터분석 Tool구사와 개발 통신/운통 운영시스테므 개발 ・C/C++..."
+60e55b415187863f,[인재 Pool] 우아한형제들 서비스인프라 엔지니어,우아한 형제들 서울 송파구,,"드로 개발 플랫폼 환경을 구축하고, 운영한 경험이 있으신 분 - Python, golang, java, kotlin 중 하나에 능숙하신 분 - AWS... Linux 명령 및 Shell, Python 등 스크립트 개발에 익숙하신..."
+166aa0c72e94a266,Business Data Analyst,Soomgo 서울 강남구,,"즈니스에 적용하고 개선한 경험 (Google Optimize, Optimizely, 등) 우대사항 • Python 또는 R 을 사용하여 데이터 분석에 활용 가능 • 경영학, 통계학, 경제학, data analysis 등..."
+cef60a5a4a42fe95,AD Performance Dev,LINE Plus corporation 성남 서현역,,"Java, Scala 중 2개 이상의 개발 언어에 능숙한 자 - 위 언어중 1개에 익숙하고 R 또는 Python 기반으로 분석에 능숙한 자 아래 요건 중 최소 한 가지 해당 - 대용량 트래픽 서버를 개발 및 운영한..."
+f10477b81840d778,데이터 분석가 / Business Analyst,Bagelcode 서울,,중독자 [우대 사항] - Tableau 등 시각화 툴을 활용한 대시보드 설계 및 운영 경험 - SQL / Python / R 등 데이터 분석 업무를 수행할 수 있는 하나 이상의 개발 언어 유경험자 - 비즈니스 레벨 이상의...
+d6c05c588971df5a,백엔드 파운트 시스템 엔지니어 (현재 급여수준 이상 보장),파운트 서울 충정로역,,"경험 - Linux명령어 및shell스크립트 작성 능숙 우대사항 - Python, Java등을 이용한 프로그래밍 경험 네트워크및 서버에 대한 표준화... 립트 작성 능숙 우대사항 - Python, Java등을 이용한 프로그래..."
+8dc44db6b58e528b,[보충역] 산업기능요원 복무-웹개발/소프트웨어 개발,아이디어콘서트 서울 서초구,"연봉 40,000,000원 - 100,000,000원",JAVA|인터넷·IT·통신·모바일·게임 >웹프로그래머 >백엔드|인터넷·IT·통신·모바일·게임 >웹프로그래머 > Python|인터넷·IT·통신·모바일·게임 >응용프로그래머 >C·C++|인터넷·IT·통신·모바일·게임 >응용프로그래...
+1d98c46b4900b7e6,Pipeline TD,Mofac 서울 서초구,,"지식과 경험 – Cross Platform OS 경험자(Windows, Linux, Mac OS) – Python, MEL, PyQt, PySide, C++ 등 저작도구 관련된 프로그래밍 가능자 – 컴퓨터 그래픽스에 대한..."
+c8b79f8a43ee9f60,Data Scientist(머신러닝 분석 전문가),에이아이더 서울 강남구,,"프로그래머응용프로그래머 시스템분석.설계.SE요구분석, 시스템분석, 시스템설계, 모델링, 시스템엔지니어, ERP구축 인공지능(AI).빅데이터빅데이터, 머신러닝, Python 산업별(업종) 솔루션.ASP.소프트웨어 소프트웨어개발"
+e010f7780d479126,검색서비스 서버 개발 신입/경력,포티투마루 서울 관악구,,"성별 : 무관 - 모집인원 : 0명 [기술 지원자격] - Linux 환경 개발 경력 - C/Java/ Python 개발 경력 - 서버 개발/운영 경력 [우대사항] - 자연어처리, 정보검색, 기계학습, 데이터 마이닝..."
+92fe59cc9763dd18,엔미디어플랫폼 데이터베이스 관리자 (DBA) 인재 안내,리더스소프트 성남 분당구,,"험이 있는 분 - Redis HA 구현이 가능한 분 - 운영 자동화 스크립트(PowerShell, Shell, Python) 작성 가능한 분 - Scale-Up/Out 관련 Migration에 대한 효율적인 개발이 가능한 분..."
+cb286253682cb876,[던전앤파이터] 클라이언트 툴 프로그래머,네오플 서울 강남구,,"경험이 있으신 분 - DB / Web 기반 툴 제작 경험이 있으신 분 - 스크립트 언어로 작업을 해보신 분 ( python, php 등) - 외부 도구(3rd party tool)를 평가 / 적용 / 커스터마이즈 적용 능력이..."
+1cf825d234463890,[피파온라인4] 소프트웨어 엔지니어,Electronic Arts 서울,,관련 논문 및 자료를 이해할 수 있는 영어 능력 keras... tensorflow 사용경험 python을 이용한 코딩 경험 [ 우대 사항 ] Machine Learning 관련 논문을 구현해본 경험 (졸업 작품...
+bd1ad6ca3aba3000,데이터 엔지니어 / Data Engineer,Bagelcode 서울,,및 개발 [업무 내용] - Python과 Airflow를 이용한 데이터... 이해 - AWS 환경에서 개발/운영 경험 혹은 그에 준하는 지식 - Python / Java / Scala / Kotlin 중 하나 이상을 이용한...
+e38f22d6852a857a,Sales Engineer (APAC),Sendbird 서울,,"language... JavaScript, Swift, Ruby, C-Sharp, Python Strong organization, time management, and project planning..."
+37e45230ce267de3,[클라우드서비스] 언더클라우드 서버 개발자,카카오엔터프라이즈 성남 분당구,,"그래밍 언어에 능숙하신 분 - Linux 또는 Cluster 에 대한 이해 (우대사항) - Golang, Python 중 한가지 언어에 능숙한 개발자 - Openstack 혹은 Kubernetes를 이용한 개발 및 운영 경험..."
+05ce3c7d5c6c368c,Research Engineer - Machine Learning,AITRICS 서울,,learning approaches One or more software engineering skills ( Python preferred) Experience in using deep learning frameworks...
+68ee194a9d487aac,Data Engineer,고도소프트 서울 구로구,,"MongoDB, CouchBase, Hadoop, Redis 등 운영 경험이 있는 분 - PHP, Python, JAVA, GO 중 1개 이상 사용한 개발이 가능한 분 우대사항 - Spark, ELK, R, MapReduce..."
+9b03fb4dca96750c,2분기 개발자,이스트게임즈 서울 서초구,,"Objective C, Kotlin, Java, JavaScript, Python, Go. - 새로운 프로그래밍 언어를 습득하는데 어려움이 없거나... C|인터넷·IT·통신·모바일·게임>응용프로그래머> Python"
+2a4041f0b6aeb27b,"RF SW Engineer, Senior",Qualcomm 4.1 서울,,programming skill in C/C++ - Visual C++ / Java / Python programming skill is plus - Strong experience in RF software...
+1a33a9c8b9904546,[해외취업] 고급 IT 엔지니어,株式会社ASCOM 대한민국,,"일본어 능력은 상관없음.  python,C++,C,C#,ASP.net,JAVA,VB.net,swift,IOS,Android,kotlin 중 한가지 이상 개발 경력이 3년 이상인 자. [ python] * AI, 사물 인터넷..."
+9ad46a78c31b7eaf,2017년도 제3차 계약직 연구원 공개채용 공고,대구경북과학기술원 대구 현풍면,,"연구 생체 신호 및 영상정보 획득 및 관리, 분석 우대 사항 Python 기반 객체지향 소프트웨어 개발 관련 연구 수행 경험자 생체신호... learning) 알고리즘 개발 Python/Tensorflow 프로그..."
+81538d5eb86c2bff,(Clova) 음성 합성 기술 개발 신입/경력사원 모집,NAVER 3.9 성남 정자동,,"보유자 우대 - 최신 딥러닝 및 기계학습 모델링 기법을 활용한 서비스 개발 경험자 우대 - C/C++, Python 등 개발 숙련자 우대 채용하고 싶은 사람 - 여러 사람들과 즐겁게 협업할 수 있는 분 - 특정 방법..."
+80d3108dade97b0f,Back-end Developer,"Miso, inc 서울",,"이런 분과 함께하고 싶습니다] 백엔드 개발 경력 3년 이상 Ruby, Python, Go, Node.js 중 하나 이상의 언어에 능숙하신 분 새로운... Data Science: Go, Python Collaboration..."
+65da831cb9d5a6b5,DGIST 계약직 연구원 및 일반직원 초빙 공고,대구경북과학기술원 대구 현풍면,,"구축 및 생물학 데이터 분석 Tool 개발 및 유지 다양한 프로그래밍(Java, Perl, C++, Python) 우대 사항 관련 분야 석사학위 소지자 유전체, 단백체, 대사체 데이터 분석 유경험자(3년 이상..."
+cae2de07045cfb2b,"Java, Python 영상툴 개발자",에이아이메이커 서울 마곡동,,원하면 가능) 담당업무 - 영상 라벨링 Tool 개발 - Tool 정확성 개선 자격요건 - Java - Python 우대사항 - 관련 개발 경력 - 툴개발 경력 근무조건 - 월~금 AM9:30 ~ PM18:30 복지...
+af5683389907a8c9,백엔드 개발자 (경력),크로스앵글 서울 반포동,,"데이터 관리 (Auth0) - 블록체인 지갑 인증 (Ethereum, EOS) [자격요건] - 백엔드 & Python 실무 개발경험 3년 이상 혹은 그에 준하는 능력을 갖고 있으신 분 - 새로운 기술에 대해 호기심을 갖고..."
+d66914db200312e0,TECH U Associate Solutions Architect - 2...,Amazon Web Services Korea LLC 서울,,"languages: Java, Python, Ruby, Node.js... programming (Node.JS, Java, Ruby, C#, Python, or PHP) · Demonstrated ability..."
+ea5ce8fd0f077539,지스트 블록체인인터넷경제연구센터 계약직(연구원),광주과학기술원 광주 북구,,체인 개발 블록체인 하드포크 1) 4 년제 대학 이상 졸업자 2) SW 프로그래밍 제작 경험자 3) Python/C/Java/Go 프로그래밍 가능자 우대사항 ① 국가보훈대상자 ( 취업보호대상자 ) 및 장애인은 관련...
+41cde1a35365547f,Product Manager(Product Intelligence),하이퍼커넥트 서울,,"관경력 1년 이상 Preferred Qualifications 소셜 서비스 데이터를 분석해본 경험 R, Python 등을 사용해본 경험 Position Type/ Expected Hours of Work 정규직 월요일..."
+fb21ea899c7580fe,[S/W] Speech Recognition & Synthesis Eng...,현대자동차그룹 4.4 대한민국,,연구 역량을 보유하신 분 - 독창적인 기술 제시 및 문제 해결을 위한 프로그래밍 능력을 보유하신 분 ( Python/Java/Scala 등) - 오픈소스 기반 딥 러닝 프레임워크 활용 능력을 보유하신 분 (TensorFlow...
+9c8217b043a1c66f,"Applications Engineer, Staff",Synopsys 서울,,related experience preferred. Familiar with Linux/UNIX and Python. Inclusion and Diversity are important to us. Synopsys...
+bcd2f0630e298aa3,클라우드 인프라 운영 담당자 모집,넷마블 서울 구로구,,GCP) - 오픈소스 구축 및 운영 경험 보유자 - 게임사/포탈 인프라 운영 - 글로벌 서비스 운영 경험 - Python/Bash shell 역량 - Linux/Windows OS 구조 공학적 이해 - 기술적인 문제점 파악...
+f5518c7184bf0f10,"AI,BIG DATA개발 경력직",비스퀘어 부산 해운대구,,"- 개발 경력 3년 이상(학원, 교육 이수기간 제외) - 개발 언어 C++, Go, Java, PHP, Python, Nodejs 가능자 - 모바일 개발 언어 Java, Kotlin, Objective-c, Swift 가능자..."
+ad07d6a330fb619a,TOAST Cloud 운영 및 기술지원,NHN 4.4 성남 판교역,,"Linux, Microsoft Solutions 등) - 2년 이상의 개발 경험 (Java, Python 등) - 기술 문서 작성 및 가이드 경험이 풍부한 자 - 대외 고객 기술 지원 경험 - Windows..."
+8d0b3a79363b5a69,Business Analyst (Search and Discovery A...,Coupang 3.1 서울,,"equivalent experience Has experience with SQL, Excel, Python, and R/SAS or any statistical package Has experience..."
+ffac42e32db26233,Lead Product Engineer - Liberate,Cadence Design Systems 경기도,,"problems and propose solution Automation skills using Tcl, Python, Perl and shell scripting Bachelor/Master in EE with 5+..."
+9f7d7cbe5e172a01,Front-end Developer,"Miso, inc 서울",,"CSS, HTML에 대한 이해가 깊은 분 Golang, Node.js, Python, or Ruby 중 프로그래밍 언어 사용 가능하신 분 새로운 기술... Data Science: Go, Python Collaboration..."
+feac8a234b715106,네이버 일본 맛집 서비스 CONOMI 머신러닝 개발자,네이버 서울,,"2 년 이상 ) - 컴퓨터 관련 전공자 수준의 프로그래밍 역량 (Linux/Shell, C++, Python, TensorFlow, PyTorch 등 ) - Production level 의 machine learning..."
+a50fce6cc2cb57c9,자연어처리전문가 금융챗봇 만들어 갈 엔지니어,파운트 서울 충정로역,,리에 필요한 알고리즘을 개발하고 Python으로 구현 및 성능 검증을 진행... Description - 자연어 처리에 필요한 알고리즘을 개발하고 Python으로 구현 및 성능 검증을 진행 - 자연어 전처리 (형태소 분석...
+7db25ada717266e0,[Clova] Clova AI AiCall 개발자 경력사원,네이버 서울,,내부 도구 개발 [필요역량] - Python 혹은 비슷한 유형의 언어 개발... 데이터 전처리 자동화 및 MLOps [필요역량] - Kotlin / Python / Go 중 하나 이상 능숙하게 개발 가능하신 분 - 디자인 패턴...
+d9a8d22b38653d34,[인재풀] Central Development Services,Electronic Arts 서울,,"제안 및 구현할 수 있는 능력 - C++, C#, Java, Object C 등의 프로그래밍 언어 및 Python, Shell Scripts, Ruby 등 스크립팅 능력 - 테스트 자동화, CI 시스템 등의 개발 및 관리..."
+f3b1321b99d4064d,[반도체IP 기업] Video Codec HW (Junior/Senior...,커리어라임즈 서울,,"HDL 능숙 • C 언어 사용 가능 • Shell, Perl, Python 등을 이용한 scripting 가능 • 설계 관련 EDA 툴 능숙... 가능 • Shell, Perl, Python 등을 이용한 scripting..."
+b9a9af798e9d24a5,보안 개발자 모집,넷마블 서울 구로구,,"긍정적인 업무 성향 보유하신 분 - 신기술 습득과 개발을 좋아하며 동료와 함께 성장하고 싶으신 분 우대사항 - Python(django, flask)을 이용한 back-end 개발 경험 있으신 분 - javascript..."
+6b65a5a35da64ed3,[카카오 클라우드] 클라우드 개발자(Monitoring as a Serv...,카카오 4.2 성남 판교역,,"이하 한 가지 이상의 서비스에 대해서 초기 설계 참여, 개발, 운영을 해보신 분 java, golang, python 중 한 가지 언어를 능숙하게 사용할 수 있으신 분 람다 아키텍처 형태의 서비스 개발, 운영 경험이 있으신..."
+701b04f0ab18c3d0,Software Engineer - Real-time Chat Platf...,Sendbird 서울,,"knowledge of Python or Java 2+ years... Unix/Linux systems Understanding of Python, Java, and Event-Driven Frameworks..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+67ca30c143379281,Data Scientist III,Amazon Web Services Korea LLC 서울,,"development in languages like Java, Python, Scala. Experience working with RESTful... data processing with Python, R & SQL..."
+a3a65a4d59061430,위시켓과 함께할 서버개발자님,위시켓 서울 강남구,,"를 활용한 정적 페이지 연계 - Docker, Jenkins 등을 활용한 CI/CD 개선 자격조건 - Python 기반의 프레임워크를 이용한 웹서비스 구축 또는 운영 경험 - Django 기반의 웹 서비스 구축 또는 운영..."
+2962f736a95cb7e2,웹 서비스 백엔드(Back-end) 시니어 개발자,스탠드포인트 서울 금천구,,이상 ) 학력사항: 대학교(4년)졸업 이상 PHP / JAVA / Python 언어 중 한가지 이상의 언어를 능숙히 사용하시는 분 AWS(Amazon... Laravel(PHP7+) / Python / Linux / MySQL...
+36b2d95ca4db80f4,Machine Learning Researcher - Speech Syn...,Qualcomm 4.1 서울,,"Representation learning of audio/speech signal - Generative models (VAE, GAN, normalizing flow) - Fluency in Python and C/C++"
+419692b3ddb34768,Analytics Specialist,MightyHive 서울,,"end languages ( Python, NodeJS, PHP, etc... HTML5 / CSS / JavaScript, 기타 프론트 엔드 언어 ( Python, NodeJS, PHP 등)에 대한 read/write 능력..."
+3a8cf7e51ca14e44,Data Engineer,NHN godo 4.4 서울 구로구,,"MongoDB, CouchBase, Hadoop, Redis 등 운영 경험이 있는 분 - PHP, Python, JAVA, GO 중 1개 이상 사용한 개발이 가능한 분 - Spark, ELK, R, MapReduce 사용..."
+1f542078927eb1e4,Data Center Technician,Amzn Corporate Services Korea 서울,,"스크립팅 기술 - Bash, Python, Perl 등 보유자 · 프로젝트... vendors · Scripting skills - Bash, Python, Perl, etc. · Project coordination..."
+257110e5aec08f6d,[Clova] Clova 머신러닝 Scientist 개발 신입/경력사원,네이버 서울,,"관련 전공 석 / 박사 학위 보유자 또는 관련 업계 경력 보유자 - Programming Skill · Python (Tensorflow, PyTorch 등의 오픈소스 프레임워크 기반 개발 역량 ) [우대사항 ] · ML..."
+2cff377c899798fc,Infra사업본부 Bigdata 프로젝트 개발자 件,SK 네트웍스서비스 경기도,,툴과 솔루션 적용 및 운영 경험 ㅇ분석 지원 언어/패키지(SAS/R/ Python/Spark) 사용가능자 또는 자격증 보유자 ㅇBigData를 활용한... 분석 지원 언어/패키지(SAS/R/ Python/Spark) 사용가능자 또는...
+f313fb5e0eb39349,아이나비 ADAS 영상처리 알고리즘 개발자 신입 및 경력 모집,팅크웨어(주) 관심기업 성남 삼평동,,신입무관 - 영상처리 알고리즘 개발 유경험자 - 딥러닝에 기반한 영상 분석 및 인식에 대한 이해 - Python/C++에 대한 능숙한 개발 경험 우대사항 - 관련분야 석·박사급 전공자 - Vehicle / Lane...
+73457e281df2be21,데이터인프라개발팀 - 데이터 플랫폼 엔지니어,Nexon 성남 분당구,,"클라우드 환경에서 분산 시스템을 개발 및 운영해보신분 - C++ / C# / JAVA / Scala / Python 언어 중 한가지 이상의 언어를 능숙히 사용하시는 분 - 자료구조, 알고리즘, 데이터베이스, 분산처리 등..."
+80dea8b8353c3ee0,System Engineer,토스 뱅크 서울 강남구,,"운영 자동화 자격 요건 Linux 환경에서 대용량 TPS 운영 경험이 있으신 분 스크립트 언어(shell, python, Perl, Ruby 등)를 사용하여 인프라 운영이 가능하신 분 HTTP, TCP/IP 프로토콜에 대한..."
+025677c2637bef23,데이터플랫폼 개발자 모집,넷마블 서울 구로구,,API 서버 개발/운영 - 스케쥴에 의한 Batch 작업 스크립트 개발/운영 자격요건 - Java / Python 중 1개이상 프로그래밍 경력 3년 이상 - Unix 운영체제 기초 지식 및 Shell 개발 경험 3년 이상...
+6e76f9151e44ad64,[Search] 음악 추천 AI 기술 개발 신입/경력사원,네이버 서울,,"개발 (REST API/Kafka 스트림 처리 ) 분야에 대한 경험이 풍부하신 분 우대 · C, Java, Python, Scala 등 하나 이상의 언어에 능숙 하신 분 · 위 채용분야 관련 2 년 이상 실무 경험 또는 대학..."
+c825b6da670fbbcf,(신용평가) 신용리스크모델링 인턴,카카오뱅크 성남 삼평동,,활용 필수 경험과 역량 · 금융권 데이터 및 분석업무에 대한 관심과 호기심이 많은 분 · SAS/R/ Python 등 데이터 분석툴 활용가능한 분 · 꼼꼼하고 정확하게 업무를 수행할 수 있는 분 · 열정적이고 긍정적...
+94707e71faf868d4,"[웹앱 개발] 프론트 코딩, 개발된 백엔드 연동, 신입/경력",솔리도스 서울 강남구,,"프론트 코딩, 개발된 백엔드와 연동 [담당업무] 1. 사용 환경 : Python을 기본으로 함 2. 웹 프로그래밍 : 이미 구축되어 있는 백엔드... 통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임..."
+a457ac6f066a9ef3,IC 설계자동화(EDA) 소프트웨어 아날로그/혼성신호 모델 개발자 신입사...,사이언티픽아날로그랩스 서울 서초구,"연봉 36,000,000원 - 48,000,000원",프로그래밍 및 시뮬레이션/검증 경험 있는 분 우대 인터넷·IT·통신·모바일·게임>응용프로그래머>Linux|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|전자·기계·기술·화학·연구개발>연구원·연구개발>전기·전자
+dd4d8e59a4a9265d,Data Specialist (Scientist&&Engineer),아우름플래닛 서울 마포구,,"Tensorflow, Keras, Pytorch, Theano 등)를 하나 이상 사용할 수 있는 분 • R, Python, Scala, SQL 등을 이용한 데이터 분석 및 프로그램 개발 능력이 있는 분 • 데이터 분석 기법..."
+8a15326f80e07c08,Customer Operations Engineering Manager,Success Korea 대한민국,,experience in C++ or Java and Python - Network monitoring and application... C++ or Java and Python - Network...
+652f853e7ed09c14,광고플랫폼 기반 개발/ 광고서비스 개발 PM,에이스파트너스서치펌 서울,,통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임... 게임>웹프로그래머>PHP |인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python
+91d6041cfb272f25,(IT인프라) 보안팀 엔지니어,크래프톤 성남 백현동,,"지식 보유 우대사항 -Windows와 Linux를 자유롭게 이용하는 분 -PowerShell, Python 등을 이용해 Tool을 개발할 수 있는 분 -영어를 읽고 쓰고 말하기에 자유로운 분 근무조건 - 근무형태..."
+a90457066bb577a4,Cloud Support Eng. II (Lin),Amazon Web Services Korea LLC 서울,,"NoSQL(Redis, Memcached). · Programming/scripting in Python/Java/Shell/Perl/Ruby/PHP/etc. · Experience managing full..."
+7f38721257646550,Cloud Support Eng. II (DMS),Amazon Web Services Korea LLC 서울,,browser or node.js) / iOS (Objective-C / Swift) / Python / Ruby / Go · Customer service experience / strong customer focus...
+1af7fcd8cb71e136,웹개발자 경력 정규직,엠티콤 서울 서초구,,"Spring, Java Script, MySQL) 서버 OS : Linux CentOS7 우대 사항 : Python, Golang, RESTful API, Node.js, Vue.js, CSS, AWS, Azure, GCP..."
+133caa30b45b0c91,Tech DBA 담당자,드림어스컴퍼니 서울 서초구,,"튜닝, 가이드합니다. 자격요건 - 대용량 DBMS 운영 경험하신 분 - shell, javascript, python 등 스크립트 언어 사용 가능하신 분 - 쿼리 튜닝, 분석 가능하신 분 - 개발자와 원활한 커뮤니케이션이..."
+1548f8b2dc2157f6,DGIST 동반진단의료기술융합연구실 계약직 연구원 공개 채용 공고,대구경북과학기술원 대구 현풍면,,"경험자 Matlab 또는 Python 활용 능력 우수자 C/C++... 분석 수행 Python을 통한 Data 처리 및 DB 구축 윈도우/리눅스 환경 프로그래밍 가능자(C++, Java, Python 등) 자동..."
+b247877d14b77450,2018년도 전문연구요원 채용 공고,대구경북과학기술원 대구 현풍면,,"등 관련학과 전문능력 및 우대사항 S/W개발능력, C,C++, Python,Matlab 등 능숙자 자율주행 및 ADAS관련 프로젝트 참여... C++ 프로그래밍 능력 우수자 Python 활용 능력 우수자 외국어..."
+b7be58e7af38d186,Developer (개발자),Coinplug 경기도 성남,,"Azure 등 Cloud 환경에서 빌드, 배포, 모니터링 등의 경험이 있으신 분 서버 개발 [우대사항] Python / Node.js / Go / Java 중 한 가지 이상의 개발 언어에 익숙하신 분 Restful API..."
+e18dbcd921d9633b,[Clova] 음성 합성 기술 개발 신입/경력사원,네이버 서울,,"능력 보유자 우대 - 최신 딥러닝 및 기계학습 모델링 기법을 활용한 서비스 개발 경험자 우대 - C/C++, Python 등 개발 숙련자 우대 [ 채용하고 싶은 사람 ] - 여러 사람들과 즐겁게 협업할 수 있는 분 - 특정..."
+978edf4ea4db4d6c,Senior Full-stack Developer,Asiance 서울,,"React 혹은 WordPress 등의 CMS도 사용. • Python, Node.js, Java, PHP for backend development. • Python, Node.js, Java, PHP 등을 사용하여 백엔드..."
+e541375257c12d9b,Sr. Back-end Engineer (SCM Systems),Coupang 3.1 서울,,"수립 지원 자격 요건 컴퓨터 공학 또는 엔지니어링 관련 분야 학사학위 취득자 Java, C/C++, Python 활용 소프트웨어 개발 경력 3년 이상인 분 우대 사항 컴퓨터공학 석사 또는 박사학위 eCommerce..."
+cb663654c2b397f3,"Sales Engineer, Sr II",Synopsys 서울,,"Objective-C, and scripting languages... JavaScript, Perl and Python, and CI/CD environment... Jenkins, GitHub, JIRA..."
+7d85150a375cfacf,[Search] BigData and AI Platform S/W엔지니어...,네이버 서울,,터에서 수행되는 다양한 작업에 대한 문제 해결과 성능 향상을 위한 기술 제안 [필수조건] - Java / Python / C / C++ 개발 가능 (경력사원의 경우 1년 이상의 경력) - 리눅스 환경에서의 개발 경험 - 우수...
+85687b250386c4be,qe 소프트웨어 엔지니어,에이치알 코리아 대한민국,,"process improvements • Strong scripting experience with Python, Shell Scripts, Ruby, etc. • Ability to code competently..."
+7bf179a290a157b2,경험최적화파트 - 머신러닝 엔지니어,Nexon 성남 분당구,,모델 개발 - 머신러닝을 위한 솔루션 프로토타이핑 - 머신러닝 파이프라인 설계 및 구축 지원자격 - Python에 숙련된 프로그래밍 능력과 머신러닝 라이브러리 활용 경험 - 머신러닝과 강화학습에 관련된 지식 습득 혹은...
+2b1c5b35b97700fc,인프라 플랫폼 개발자,고도소프트 서울 구로구,,"NHN고도의 신규 서비스 개발 자격요건 - 웹개발 경력 1년 이상 ~ 5년 이하 - PHP(주 개발언어), python, java중 하나 이상 개발이 가능한 분. - Database 이해도가 높은 분 - 개발 프레임워크 사용..."
+a8f2de7c03aa263c,4차산업선도인력 빅데이터-IoT 국비지원 교육생,비트컴퓨터 서울 강남구,,"습득 및 프로젝트 수행 후 관련 분야로 취업을 원하는 자 Java, Python 등 기본 프로그래밍 유 경험자 - 선발 우대사항 IT관련 전공학과... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임..."
+5f3b7800e776da58,Senior Business Analysis (Strategic Plan...,Coupang 3.1 서울,,"e-commerce and other internet-based industries; retail -SQL, Python experience is a plus -Experience with Tableau also a plus..."
+ceb8243bc8ae3c35,[홈쇼핑모아] 개발팀 / 데이터 엔지니어,버즈니 서울,,개발 사내 데이터 분석 도구 개발 및 유지보수 이런 분을 찾습니다 관련 업무 경력 최소 3년 이상 있으신 분 Python 및 기반 데이터 플랫폼 개발 경험이 있으신 분 Docker(Contatiner) 기반 시스템 환경 구축...
+0e49a0c61f1cb01b,2017년도 전문연구요원(병역특례) 채용 공고,대구경북과학기술원 대구 현풍면,,"가능자 우대 MATLAB, Python 등을 사용한 기본적인 프로그래밍... 사용 가능자 우대 동물 실험 경험자 우대 MATLAB, Python 등을 사용한 기본적인 프로그래밍 경험자 우대 웰에이징 연구 0125A..."
+abfc94fd3a20ea51,mmWave HW Design Engineer,Apple 서울,,"Momentum Programming and scripting languages... C, Java, Python, MySQL, or MATLAB Description - Collaborate closely..."
+cfdd56fef2ec9c47,Cloud Support Eng. II (Net),Amazon Web Services Korea LLC 서울,,"Some programming / scripting experience (Java, Perl, Ruby, Python) · Experience managing full application stacks from the OS..."
+5d2bbe4c649db4f4,DevOps Engineer,토스 증권 서울 강남구,,"및 운영 자격 요건 4년 이상의 소프트웨어 엔지니어링 혹은 시스템 운영 경험이 있으신 분 C, Golang, Python, Javascript 중 하나 이상의 언어에 능숙하신 분 대규모의 분산환경에서 ELK 기반 metric..."
+39d1abf861dbdb6e,[AI Lab] AI 백엔드 엔지니어,버즈니 서울,,"플랫폼 및 시스템 구축 이런 분을 찾습니다 주도적으로 문제를 찾고, 해결할 수 있는 능력을 보유하신 분 Python 사용 경험이 있으신 분 다음 항목 중 두 가지 이상에 해당되는 분 AWS 혹은 GCP와 같은 클라우드 플랫폼..."
+8aeedb3a2dba74b6,Software Test Engineer for HANA Engine I...,SAP 4.3 서울,,"processes Knowledge of Git or other version control, Python, SQL Understanding of modern computer architecture, operating..."
+8eca56448e2574c8,TA,제이씨이 성남 분당구,,작성 능력 우대사항 - 업무 관련 해외 영문 기술 문서를 볼 수 있는 정도의 독해능력 - 테크니컬 아티스트 역할로 개발 경험 - 스크립트 능력 (maxscript/ python) - 다양한 플랫폼 / 장르 개발 경험
+6718bba08ef6e20b,모바일 앱 보안 솔루션 개발부문,스틸리언 서울 용산구,,"Android/iOS 모바일 앱 보안 제품입니다. - 앱수트는 C, Python 등을 통해 주로 개발합니다. - 앱수트 제품군에는 위변조 방지, 난독... 2) - Objective C, Python, C언어, Swift 개발..."
+ae2c6294bc277408,Lead Technical Solutions Engineer,MightyHive 서울,,Data Analysis in Python... R Machine... 와 같은 모바일 앱 트래킹 도구들을 위한 모바일 이벤트 트래킹 Python 또는 R 을 활용한 데이터 분석 Machine Learning...
+2150a287fa8c4d51,Data Analyst,하이퍼커넥트 서울,,funnel / session 분석 능력 분석의 일관성 / 재현성 / 반복성을 구현하기 위한 python scripting 능력 우대사항 모바일 서비스 데이터 분석 경험 (optional) user space 의...
+34f1f14b72032314,[반도체IP 기업] Video Codec - RTL Design/Veri...,커리어라임즈 서울,,signal processing - video codec • Python/Perl 사용 가능자 • SystemVerilog를 사용한 test... video codec • Python/Perl 사용 가능자...
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+5c0619932da93d39,[FEG]이스포츠 전문 벤처기업 데이터사이언티스트,창운코리아 서울 구로구,,"및 정리 [자격요건] - R, Python, SQL, Excel 등을 이용... 시스템분석·설계>빅데이터|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>데이터베이스·DBA>MS-SQL|인터넷..."
+e75ddeeb278d91f2,"Senior Manager, Business Analysis (CRM)",Coupang 3.1 서울,,"sets Experience using a programming language (R, SAS, Python, Java, etc... automation, job scheduling, and statistical..."
+d7a956b1cfbdd014,Data Analyst - Machine Learning,PUBG 서울,,"서비스 개발을 위한 인게임 로그 분석 [지원 자격] - 하나 이상의 프로그래밍 언어를 능숙하게 사용: Python, Scala 등 - 통계/머신 러닝 기반의 데이터 분석 경험 - 분석 결과의 문서화 능력 보유 - 서비스..."
+6d0388270778d803,[홈쇼핑모아] 개발팀 / 백엔드 엔지니어,버즈니 서울,,API 개발 홈쇼핑모아 서버 인프라 스트럭처 이런 분을 찾습니다 관련 업무 경력 최소 3년 이상 있으신 분 Python 및 기반 프레임워크 개발 경험이 있으신 분 Docker(Contatiner) 기반 시스템 환경 구축 경험...
+613223ed43a69d4f,DB 엔지니어 모집(DBA),넷마블 서울 구로구,,"및 튜닝 경력 3년 이상 보유자 - OS(Windows, Linux) 에 대한 기본 지식 보유자 - 쉘, Python 스크립트 개발 가능자 - 협업 및 커뮤니케이션이 원활하진 분 우대사항 - 온라인 게임 데이터베이스 운영..."
+68875cf86f31569e,ERP 담당자 모집,넷마블 서울 구로구,,"기반 ERP Web Portal 시스템개발/운영 경력 3~9년 보유자 - Spring (혹은 .NET, Python 등) 프로그래밍 가능자 - 시스템 분석/설계 가능자 - 재무/회계 기본 지식 보유자 우대사항 - IT 프로젝..."
+74cf47be676133ff,DGIST 미래자동차융합연구센터 계약직 연구원 및 연수연구원 공개 초빙...,대구경북과학기술원 대구 현풍면,,"기술개발 우대 사항 우대사항 - S/W개발능력, C,C++, Python,Matlab 등 능숙자 - 자율주행 및 ADAS관련 프로젝트 참여경... W개발능력, C,C++, Python,Matlab 등 능숙자 - 자율주행..."
+852b4e4e3cbc4771,각 부문 경력사원 수시 채용,엠아이큐브솔루션(주) 관심기업 서울 서초동,,"MS-SQL, Oracle, JDBC 등 3. AI모델링 1) 경력2년이상 2) 기술사항 : Python, Tensorflow, Keras 등 Open CV, Numpy, Pasdas 등 4. 시스템 운영..."
+369e27dc109cf500,Site Reliability Engineer (Data Platform...,Wikimedia Foundation 서울,,"languages used in an SRE/Operations engineering context (e.g. Python, Go, Bash, Ruby, etc.) Good understanding of Linux/Unix..."
+de210ffb5a9ee0c4,카카오톡 신규 서비스 서버 개발자,카카오 4.2 성남 판교역,,"구조 개선, 운영 경험 데이터베이스와 캐시 연동 (Redis, memcached, MySQL 등) Kotlin, Python 언어 경험 네트워크 프로그래밍 경험 MQ, Kafka, Elastic Search 등의 도입, 연동..."
+7fac42cc6ae08a06,웹프로그래머 (FrontEnd) 기업부설연구소 연구원 #python #j...,넥스텝코리아 서울 용산구,"연봉 30,000,000원",모집직종 웹 개발자(웹 엔지니어·웹 프로그래머) 모집인원 2명 학력 대학_대학교 전공 고용형태 상용직 근무예정지 서울특별시 용산구 효창원로55길 현양빌딩 3층 인근지하철 직무내용 #회사소개 당사는 2001년 설립된 20년차...
+c9c0370fa9baf512,DGIST-ETH 마이크로로봇연구센터 계약직 직원 공개 초빙 공고,대구경북과학기술원 대구 현풍면,,"다양한 응용을 위한 MEMS 기반 압전소자 특성 평가 MATLAB, Python 등의 프로그래밍을 사용한 실험 data 통계 분석 및 Image... 험자 우대 MATLAB, Python 등을 사용한 기본적인 프로 그래..."
+ce73b47992c250b6,[반도체IP 기업] ISP 설계/개발 RTL Engineer (Senio...,커리어라임즈 서울,,"신호)처리(AE, AWB, AF) 알고리즘 유경험자 • Script ( python/perl) 숙련자 • 영어로 technical meeting 진행... 고리즘 유경험자 • Script ( python/perl) 숙련자 • 영어로..."
+01bc879744c28f9c,Support Engineer _ Azure PaaS,Microsoft 4.2 서울,,"Java, Node, Python, PHP and Ruby, .NET... Linux, NGNIX, Apache, Java, Node, Python, PHP and Ruby • Experience with customer..."
+f424a57a83e53831,[S/W] Software Engineer for Mobility,현대자동차그룹 4.4 대한민국,,"이상] - 학사 이상의 학위 취득자 - 전산학 전반의 알고리즘과 시스템에 대한 이해를 보유한 자 - Go, Python, C++ 등 하나 이상의 개발 언어를 능숙하게 사용할 수 있는 능력 - 다음 중 하나 이상의 분야에 대한..."
+bd937b9dfc237db8,IT 벤쳐 기업 IT 강소기업 JAVA 솔루션 개발자 (경력직) (성수동...,휴먼브릿지앤코 서울,"연봉 40,000,000원 - 50,000,000원",로그래머>JSP|인터넷·IT·통신·모바일·게임>웹프로그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>Servlet|인터넷·IT·통신·모바일·게임>응용프로그래머...
+461518b47b5f8633,각 분야별 [신입/경력],유온아이티 서울 금천구,,통신·모바일·게임>웹프로그래머>JSP|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>전산·IT기술지원>유지보수|인터넷·IT·통신...
+9214061c8bc345b2,FX,Mofac 서울 서초구,,후디니 사용자 – 이펙트 요소 표현에 뛰어난 감각 소유 – VFX 파이프라인에 대한 이해도 우대사항 – Python 등 Scripting 유경험자 전형절차 서류전형 1차 실무면접 2차 임원면접 최종합격 서류전형 1차 실무면...
+219838df8fbffb31,DGIST 미래자동차융합연구센터 계약직 연구원 공개 초빙 공고,대구경북과학기술원 대구 현풍면,,"레이다 센서 퓨전 인지 알고리즘 기술개발 우대 사항 우대사항 - S/W개발능력, C,C++, Python,Matlab 등 능숙자 - 자율주행 및 ADAS관련 프로젝트 참여경력자 - 딥러닝 연구 능숙자 - 국내외..."
+6c1d50662fa2d7f7,서울 강남구 인썸니아 시니어 개발자 및 퍼블리셔,인썸니아 서울 서초구,,"개발자] 1) 경력: 3~5년차 2) skills: Rails, Python, Django, Node, react 중 한가지 이상 3) 연봉... Django, angular JS, Python 등을 능숙하게 사용하시는..."
+301a562b5b4d2b2e,Data Engineering Manager,레이니스트 서울,,"년 이상 Data Collection, Data Pipeline, Data Warehouse 구축 경험 보유 Python / Java(Scala) 를 이용하여 데이터 분석 툴 개발 가능 스트리밍 또는 배치 Data 기술 (예..."
+8c4a3a7f8bc104a3,"인공지능(AI), 딥러닝 경력 정규직",스칼라웍스 서울 금천구,,"전공하거나 학술적으로 이해하고 있으며 Data Analysis 및 DNN Design 가능한 인재 1) Python을 활용한 DNN Application 개발 능력 필수 2) C++, OpenCV 및 R 실무 경력자 우대 3..."
+5164238b12d010da,인공지능(AI) SW개발 담당 0명 자동화 산업장비 제조업,자동화 산업장비 제조업 대한민국,,"운용 3) C#, JavaScript, Python, UI 개발 4) Big Data 관련 개발 [우대사항] 1) 인공지능 기술 경험자 우대 2) C#, JavaScript, Python, UI 개발 경험자 3) Big..."
+6fc4e90d77d06c62,[커머스플랫폼(결제)] 개발팀 / 백엔드 엔지니어,버즈니 서울,,대용량 트랜잭션 처리를 위한 인프라 스트럭처 개발 이런 분을 찾습니다 관련 업무 최소 5년 이상 있으신 분 Python 및 기반 프레임워크 개발 경험이 있으신 분 Docker(Contatiner) 기반 시스템 환경 구축 경험...
+02dd3cb5f0906404,Data Engineer,레이니스트 서울,,"이상 Data Collection, Data Pipeline, Data Warehouse 구축 경험 보유 Python / Java(Scala) 를 이용하여 데이터 처리 개발 가능 AWS, GCP 중 하나 이상의 클라우드 환경..."
+faf0422473d4188a,[Search] 쇼핑검색 AI 기술 개발 신입/경력사원,네이버 서울,,"design / Large-scale data processing [자격요건 및 우대사항] · C, Java, Python, Scala 등 하나 이상의 언어에 능숙 하신 분 · 위 채용분야 관련 2 년 이상 실무 경험 또는..."
+83c147d5149e969a,'20년 AMOREPACIFIC 경력채용_Cloud System Engi...,아모레퍼시픽 4.0 서울,,"및 운영 경험 - SRE(Site reliability Engineers) 경험 - 스크립팅 역량 보유 ( Python, Go, Shellscript 등) - Terraform, Ansible, SaltStack, CDK 구축..."
+32ffd5cf28668993,"대기업 (연구센터) NLP 경력자, 석사이상",차량IT 전문 기업 (대기업) 서울,,"관련 전공) - NLP 관련(자연어처리/텍스트마이닝/머신러닝/딥러닝 모델) 연구개발 경력자 - 프로그래밍( Python, C/C++, Java 등) 가능자 [우대사항] - NLP관련 솔루션 설계 및 개발 경험 - AI관련..."
+5d9a7b29a92fc3da,Data Architect,Amazon Web Services Korea LLC 서울,,"one or more programming languages (Java, JavaScript, Python, etc). · Current hands-on implementation experience required..."
+c8a7c9c4022a3544,인프라 플랫폼 개발자,NHN godo 4.4 서울 구로구,,"운영 - NHN고도의 신규 서비스 개발 - 웹개발 경력 1년 이상 ~ 5년 이하 - PHP(주 개발언어), Python, Java 중 하나 이상 개발이 가능한 분 - Database 이해도가 높은 분 - 개발 프레임워크..."
+fe617b24d0e39905,Frontend Developer (Cloud Contact Center...,에릭슨엘지 서울 금천구,,웹프로그래머>Servlet|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>ASP|인터넷·IT·통신... 통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임...
+881a1aa0f0646335,Tech U Associate Professional Services C...,Amazon Web Services Korea LLC 서울,,"programming languages: Java, Python, Ruby, Node.js, C#, or C++ · Experience... JS, Java, Ruby, C#, C++, Python, or PHP)"
+fb024337e1c33746,"[i2max/부산지사] java, 웹개발, 모바일개발, SW개발자",아이투맥스 부산 남구,,그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머>JSP|인터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>웹프로그래머>AJAX|인터넷·IT·통신·모바일·게임>웹기획·웹마케팅·PM...
+f59f9b3f60280f6c,"백엔드 jsp,파이썬 개발자 구합니다.",내일을향해 주식회사 관심기업 서울 봉천동,"연봉 30,000,000원 - 40,000,000원",9642 (카톡 주셔도 됩니다!) *근무형태: 정직원 *우대사항: - 데이터 사이언스 관심 있으신 분 - Python 기반 웹 자동화도구 혹은 RPA 개발 경험 - Django 또는 DRF 개발 경험 1년 이상 또는...
+04f3458db4cc1f14,데이터 엔지니어,에이치알 코리아 대한민국,,"유명 it 회사 Position 1: 데이터 엔지니어(대리~차장급 분야 별로 여러 명 채용) - JAVA 또는 Python 개발 가능자 또는 DBA, DW 설계 가능자 - Database / SQL 에 대한 중급 이해도 보유..."
+330df011c452156e,[Clova] AI Platform Ecosystem 개발자 신입/경력사...,네이버 서울,,"문제 분석 및 해결 능력이 뛰어나신 분 - 기술 습득이 빠르고 새로운 분야에 적응할 수 있는 분 - Python, Go, C++ 등 하나 이상의 언어에 능숙하신 분 ﻿ [우대사항] - Angular, Typescript..."
+2531a0c578f5ca30,[Robotics] Robot Software Engineer,네이버 서울,,Robotics 혹은 Computer vision 등 유사 분야 석사/박사 학위 혹은 5년 이상의 개발 경력 ㅇ Python / Lua 등 스크립트 언어를 C/C++와 연계 활용 능숙 ㅇ Docker / Kubernetes...
+3b8b8e19a432077d,[모아리포트] 개발팀 / 백엔드 엔지니어,버즈니 서울,,포트 API 개발 모아리포트 인프라 스트럭처 개발 이런 분을 찾습니다 관련 업무 최소 3년 이상 있으신 분 Python 및 기반 프레임워크 개발 경험이 있으신 분 Docker(Contatiner) 기반 시스템 환경 구축 경험...
+f044d9361c664f80,Technical Trainer - Amazon Web Services,Amazon Web Services Korea LLC 서울,,"more... following languages, Java, .Net, Perl, PHP, Ruby, Python... R. · Use Deep Learning frameworks like MXNet..."
+99c1c87628978791,Software QA / 학습용로봇 IOT 유망스타트업,타겟컨설팅 서울 강남구,,등) * Python 등 코딩 경험 *CSTS/ISTQB 취득자 Software QA / 학습용로봇 IOT 유망스타트업 모집부문 및 자격요건 담당업무 자격요건 인원 [담당업무] *SW 및 모바일 환경에서의 테스트 * Python...
+5f7222791202743b,Senior Cloud Reliability Engineer,SAP 4.3 서울,,"K8S, Git/Gerrit, and some development languages... Python, Go, Java, Javascript, etc. Practical experience in technical..."
+4931bdddafc97c9a,[해외취업] 게임 서버 엔지니어 정사원/계약사원 중,"CREEK & RIVER Co., Ltd. 대한민국",,"RDBMS으로 개발/운영의 실무경험 ・캐쉬나 NoSQL을 이용한 튜닝의 실무경험 환영스킬, 경험 ・PHP/ Python/C#/Java를 사용한 실무경험(개발/운영)이 있는분 ・Unity등을 이용한 클라이언트경험이 있는분..."
+03afc264de494fa3,[S/W] AI Platform Engineer,현대자동차그룹 4.4 대한민국,,"ETL) 경험 보유자 - Kubernetes, Docker 등 컨테이너 기반 플랫폼 개발 경험 보유자 - Python, Go, Java, C++ 등 다양한 언어에 대한 개발 역량 보유자 - 음성 관련 서비스 백엔드 개발 경험..."
+98ce457f0c17a02e,Junior and/or Senior S/W Engineers for H...,Success Korea 서울,,5 years of work experience in C and Python programming ?Minimum of 3 years of work... experience in C and Python programming...
+05d6f01f9a494a1b,[Robotics] Deep Reinforcement Learning E...,네이버 서울,,"learning framework 활용 능숙 ㅇ ROS, ROS2 와 같은 로봇 미들웨어 활용 개발 경험 ㅇ Python 언어 활용 능숙 ㅇ Unity3D, UnrealEngine4 등 3D 엔진 기반 개발 경험 혹은 여타..."
+e01c7ac25340705b,Data Engineer,토스 서울 강남구,,"등) 활용 경험이 있는 분 데이터 분석도구 개발을 위한 소프트웨어 개발 역량(Java, Scala, Python 등)을 갖춘 분 우대 사항 중급 이상의 프로그래밍 개발 역량을 보유한 분(웹/클라이언트/서버 프로그래밍 등..."
+e9e86127df39c006,[Search] 검색 서버 개발 & DevOps 엔지니어 신입/경력사원,네이버 서울,,"Linux 환경에서의 개발 경험이 있으신 분 · C++, Go, Python 등 하나 이상의 프로그래밍 언어로 서버 개발이 가능하신 분 · 컨테이... 으신 분 · C++, Go, Python 등 프로그래밍 언어에 하나 이상..."
+652a24fac69813b6,[개발팀] 클라우드 및 컨테이너 개발자,심플렉스 서울 동작구,,경험 - 컨테이너 오케스트레이션 시스템(컨테이너와 Kubernetes 등)에 대한 이해 및 경험 - Java/ Python/C/C++/Go/NodeJS/PHP 등 1개 이상의 언어를 능숙하게 사용 가능자 우대요건 - 구축...
+5c6723a17ad467f6,Solutions Architect - Amazon Connect,Amazon Web Services Korea LLC 서울,,"passion for getting hands dirty with code/scripting (e.g, python, java, c#, .NET, Node.js) · Native Korean · Business level..."
+aceff339f9488965,Senior Cloud Infrastructure Developer,SAP 4.3 서울,,"Your tasks will include developing a python based scalable job execution platform... development with Python, Node.js, C++..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+615168b399422305,Software Engineer - Back-end Web,Sendbird 서울,,maintaining back-end web applications Proficient in Python and Django or equivalents Expert level knowledge of running RDBMS...
+a67770cd53c79fd4,개발팀(Software 개발),다원메닥스 서울 서초구,,"부서: TPS팀 - C/C++, Python 가능자 - Dicom 영상분석... 터넷·IT·통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로..."
+18037c0eb7d6fbe7,빅테이터 교육 보조강사,마루한사회적협동조합 인천 남동구,"시급 30,000원",모바일·게임>빅데이터·AI(인공지능)>데이터분석|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>하둡(Hadoop)|인터넷·IT·통신·모바일·게임...
+aca0eb99fec4ee19,[어니컴(주)] 데이터 분석가 경력직,어니컴 서울 중구,,프로그래밍 언어 : R 혹은 Python) - 데이터 적재(파일 입출력... 데이터분석|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)>R|인터넷...
+05f98eb7cf040f64,클라우드 보안 담당자 모집,넷마블 서울 구로구,,"경험 있으신 분 - Docker(도커) 및 Kubernetes(쿠버네티스) 등 컨테이너 기술 경험이 있으신 분 - Python, Perl, Bash Script 사용 가능하신 분 - OS(Windows, Linux), DB..."
+84348b9371558933,[Autonomous Driving] Software Tool Engin...,네이버 서울,,"팀원들과 협업 • 필요역량 ㅇ Python/C/C++ 언어 개발 용이 ㅇ... 다양한 전문 지식을 가진 팀원들과 협업 • 필요역량 ㅇ C/C++, Python 언어 개발 용이 ㅇ Annotation Drawing Tool 또는..."
+a7c68eba65a950aa,지스트 블록체인경제센터 계약직연구원,광주과학기술원 광주 북구,,구직 1명 블록체인 개발 블록체인 경제 블록체인 하드포크 1) SW프로그래밍 제작 경험자 2) Python/C/Java/Go 프로그래밍 가능자 우대사항 ① 국가보훈대상자(취업보호대상자) 및 장애인은 관련 법령...
+54ce47c4db974112,DGIST HumanLAB(인간중심지능형시스템연구실) 연수연구원 채용 공...,대구경북과학기술원 대구 현풍면,,경험자 Matlab 또는 Python 활용 능력 우수자 국가연구... 프트웨어 설계 및 구현 가능자 Matlab/Simulink 또는 Python 활용 능력 우수자 국가연구 개발(R&D)사업 참여 경험자 영어...
+a44ca05975d80555,"경력 웹개발자 [PHP,MYSQL]",엠비아이솔루션 서울 마포구,,"프레임워크 기반 개발 경험자 (CI, Cake, Laravel등) [우대사항] - Node.js , Java , Python 등 다양한 환경의 서버개발을 경험한 분 - 리눅스 서버 환경에 대한 이해 - 리눅스 쉘 , 데몬 활용..."
+d425b24146af3fa1,지구·환경공학부 환경시스템공학 연구실 위촉연구원,광주과학기술원 광주 북구,,"험수행 ① 국내외 4년제 대학교 환경공학관련분야 학사 이상 학위소지자로서, ② MATLAB, R, 그리고 Python 중 1개 이상의 프로그램 언어를 다룰 줄 알며, ③ 공고일 기준 2년 이내 아래의 공인영어성적 소지자..."
+7ef22311fbf5c3c0,[S/W] AI agent QA(Quality Assurance) Eng...,현대자동차그룹 4.4 대한민국,,"보유자 - 모바일 어플리케이션, 웹, 임베디드 환경 등 다양한 디바이스 환경에서의 QA 수행 경험 보유자 - Python / C++ / Java 등 프로그래밍 언어 개발 역량 보유자 전형절차 - 지원서 접수 서류전형 면접전형..."
+449e0f73f32c6c7a,Cloud 서비스 (Infra as a Service) 개발자 (경력),카카오 4.2 성남 판교역,,"AWS, Azure 등의 클라우드 서비스 API와 연계된 서비스를 개발 경험이 있으신 분 Go, Python, JS(Angular/React) 등을 이용한 웹 애플리케이션 개발에 능숙하신 분 배포, 빌드, 테스트 자동화와..."
+a23938a1b6969c37,[Data Lab] 빅데이터 활용 개발 경력사원,네이버 서울,,"지표 분석 또는 집계 경험이 있거나 , 데이터 파이프라인 구축 및 개발 경험 - Java, Scala, Python 등의 최소 1 가지 언어를 활용한 소프트웨어 개발 역량 - 리눅스 환경에서의 시스템 개발 및 운영 경험..."
+78d1ec77f4a5e0dc,기후 분석&모델링연구실 시간제연구원,광주과학기술원 광주 북구,,"수행 ① 국내외 4년제 대학교 환경공학관련분야 학사 이상 학위소지자로서, ② Fortran, GrADS, python 중 1개 이상의 프로그램 언어 사용 가능자 우대사항 ① 국가보훈대상자(취업보호대상자) 및 장애인은..."
+4f5a597bf35e85ca,Principal HPC Solution Architect,Amazon Web Services Korea LLC 서울,,"system · A demonstrated ability to script or code in python, ruby, bash, perl, c, FORTRAN, or java · Knowledge of various..."
+db55ee61f98e6816,DGIST 동반진단의료기술융합연구실 계약직 연구원 채용 공고,대구경북과학기술원 대구 현풍면,,데이터 통계 분석 AI 기반 데이터 분석을 위한 대용량 고속 데이터 처리 DB 구축 우대 사항 Python/Jave 기반 생체 정보 데이터 분석 경험자 대용량 고속 데이터 처리 DB 구축 경험자 급여수준...
+6b86ea39985912b6,TOAST Cloud 사업기획/영업,NHN 4.4 성남 판교역,,"Linux, Microsoft Solutions 등) - 2년 이상의 개발 경험 (Java, Python 등) - 기술 문서 작성 및 가이드 경험이 풍부한 자 - 대외 고객 기술 지원 경험 공통지원자격..."
+2c282ae7cf933e8c,(주)이랜서 웹 개발자 인재 초대 (정규직/본사근무),이랜서 서울 강남구,,"HTML5 / CSS3)가능 - 커뮤니케이션 우수자 우대조건 - Python 가능자 - Java기반 웹 기술 보유(Spring, JSP등) - iOS... 통신·모바일·게임>웹프로그래머> Python|인터넷·IT·통신·모바일·게임..."
+fa62a32d9bf2f58e,"금융대기업(연구센터) Data Scientist 채용, 석사이상",외국계 금융사 서울 강남구,,관련분야 석사이상(컴퓨터공학/통계학/수학/산업공학 관련 전공 우대) ㆍ데이터분석/모델링을 위한 언어(R/ Python 등) 역량 ㆍ관련분야 실무경력 석사 2년이상(박사의 경우 실무경력 1년 이상) [우대사항] ㆍ금융 데이터...
+b51ca785a45edf17,Senior Specialist Consultant - AI/ML,Amazon Web Services Korea LLC 서울,,"experience in software development in languages like Java, Python, Scala. Experience working with RESTful API and general..."
+891673055e77db43,머신러닝기반 데이터분석,Success Korea 서울 선릉역,,"전공 - R 또는 Python 사용경험 보유 [전형절차] 서류 - 면접 [제출서류] 국문이력서, 자기소개서 자격요건 - 대졸 이상 - 통계학, 수학, 산업공학, 컴퓨터공학 전공 - R 또는 Python 사용경험 보유..."
+cac18e6bcbee5a21,Front end 개발자,브릭 성남 분당구,"연봉 28,000,000원","ElasticSearch 사용 언어 (빈도수 순) : Java, C#, Javascript, Scala, Python, R, C++ 7. 근무 조건 근무장소 : 경기도 성남시 분당구 판교역로 230, 309호(삼환하이펙스..."
+3d99c00c986d2c57,[Clova] Clova 서비스 서버 개발 경력사원,네이버 서울,,요건] - Backend 서비스 개발 경험 3 년 이상 또는 그에 준하는 역량을 보유하신 분 - Java/Go/ Python 중 1 개 이상의 프로그래밍 언어에 익숙하신 분 - 웹 / 모바일 서비스의 일반적인 아키텍쳐 이해 및...
+8c8b1c8fee606a46,"Principal, O365 SaaS Application Enginee...",Coupang 3.1 서울,,"SQL, JavaScript, Python, etc.) 4+ years... IaaS 및 관련 기술 경험 C#, SQL, JavaScript, Python 등 일반 코딩 경험 기업 환경에서의 변경관리 경험 영어 가능자 모바일..."
+0fd57358237fe98e,웹 프로그램 개발(청년인턴 참여기업),에스알포스트 서울 구로동,"월급 2,000,000원","응용프램개발(Linux, Python, C++) 분석 알고리즘 디자인 데이터분석 빅데이터·AI( Python, 머신러닝, 딥러닝), Text... 년층우대) Linux환경 작업, Python 활용 가능자 영어가능자..."
+677bb425dc2caf7e,"Software Engineering Manager, Server",Sendbird 서울,,goals Hands-on experience building SaaS-based API Proficient in Python or Java Ability to find the optimal solution given...
+5054923f264e5eb3,DGIST 동반진단의료기술융합연구실 계약직 연구원 공개 초빙 공고,대구경북과학기술원 대구 현풍면,,"경험자 Matlab 또는 Python 활용 능력 우수자 C/C++... Java, Visual Basic, Python 등) 공학용 프로그래밍 활용 가능자(Matlab, Python 등) 자동차 관련 실험 연구..."
+882ce3f45214f1b1,Junior and/or Senior Engineers for MySQL...,Success Korea 서울,,5 years of work experience in C and Python programming ?Required Minimum of 5 years... experience in C and Python programming...
+e0506fe72721e74d,Data Engineer,하이퍼커넥트 서울,,"및 Data Pipeline 설계, 운영, Troubleshooting 경험 혹은 그에 상응하는 업무 능력 Python 혹은 Scala, SQL 실무 경험 담당 업무에 강한 오너십, 추진력 있는 리더십, 문제 해결을 위한..."
+cb7d24298c78f23f,[주식회사 옥퀘스트]인공지능 기반 뷰티&헬스케어 토털 서비스 전문 회사와...,옥퀘스트 서울 목동,,원 이하 상여금 별도 : 0% 면접 후 결정 가능 경력조건 신입 학력 고졸 ~ 석사 키워드 [인공지능 ] [ python ] [프로그래머 ] [웹개발 ] [C++ ] 우대사항 우대사항 외국어능력 - 전공 - 자격면허 - 병역특...
+35b6381bfc05576b,Server Engineering Manager,레이니스트 서울,,"8년 이상 서버 엔지니어링 경험 보유 1년 이상 팀 매니징 경험 보유 Golang/Java(Kotlin)/ Python 중 하나 이상에 전문성을 보유, 고도화된 서비스 설계 및 개발 경험 보유 다양한 도구 및 툴을 활용하여..."
+2485e93043545d8a,인간중심 지능형 시스템 연구실 위촉연구원,광주과학기술원 광주 북구,,"및 인간 대상 연구 수행) 공학 학사학위 이상 C#기반 SW개발 가능자 우대사항 ① 이외 개발언어 ( Python, C++, JAVA, MFC, QT 등) 기반 SW(앱/웹 포함) 개발 가능자 ② 인간대상연구 경험자..."
+857aced59dd116dd,Security Developer (보안 개발자),토스 서울 강남구,,"시스템 개발 경험이 있는 분 보안 로그 상관분석 개발 또는 그에 준하는 분석/탐지 기술 개발 경험이 있는 분 Python, JAVA, Go 등의 프로그래밍 언어에 능숙한 분 우대 사항 대용량 데이터 기반의 보안시스템(SIEM..."
+b06176c3a7092e0a,Customer Facing Data Scientist,Ever Better Recruitment (EBR) 서울,,ensure appropriate communication Experience in R or Python analysis Up to 50% off-site visits English ability to perform...
+f8ee4cfdf4dd6934,성장하는 핀테크 스타트업 BackEnd Developer 경력직,웨이브릿지 서울 강남구,,"적인 사고 및 알고리즘을 좋아하시는 분 Java, Spring 및 Design Pattern 에 대한 이해 Python 데이터 분석 및 웹개발 경험 RESTful API 서버에 대한 이해 및 구현 능력 기본적인 SQL문 작성..."
+74e6114729ef9aef,[정규직] 제조 자동화(Hi-Tech) 시스템 구축 인력,SK 씨앤씨 4.0 서울,,"DB 활용기술(ORACLE, MS-SQL, DB4 등) - Biz 역량/스킬 . Data 분석 (R, Python 등) 유 경험자 및 역량 보유자(우대) . 반도체/LCD 자동화시스템 구축 경력(우대) . 제조 도메인..."
+1961cdd73f62c880,"Specialized Solutions Architect III, Ana...",Amazon Web Services Korea LLC 서울,,"Knowledge... least one or more programing languages... Python, Java and Scala. · Hands on experience leading large..."
+383d4c8a7156b52b,[카카오 클라우드] 플랫폼 포털 개발자,카카오 4.2 성남 판교역,,"조건] 개발 경력 만 5년 이상 웹서비스를 구성하는 기술에 대한 이해 Java, JavaScript, Python 중 한 가지 언어를 능숙하게 사용할 수 있으신 분 [우대사항] 프론트엔드 개발 경력 3년 이상 IAM..."
+69a0719cd470a097,QA 엔지니어,myrealtrip 서울,,"분 Jira 등의 BTS, Confluence, Git 등의 협업도구를 원활하게 사용하는 분 Java, Python 등의 개발 언어를 1가지 이상 다룰줄 아는 분 * 채용공통사항 [채용절차] 서류전형 1차 (기술 면접..."
+49335253c9d14ed4,Software Engineer,Nexon 성남 분당구,,"데이터 분석 알고리즘 개발 지원자격 - 관련 직군 2년 이상 경력 - 웹어플리케이션 개발 경력 - Python, C#, Java 중 최소 1개 언어에 대한 경험이 있는 분 - SQLServer, Mysql과 같은..."
+081ba90fcfa975e3,4G LTE/5G NR Software Engineer,Success Korea 서울 신대방동,,Any scripting language experience e.g. python or perl... plus. - 2+ years... experience e.g. python or perl... plus...
+08ac4426aa2a7bed,Performance Marketer (SA 중심),Soomgo 서울 강남구,,"Google Analytics, Amplitude/Mixpanel 등 분석툴 사용하신 분 • SQL, Python 등 데이터 분석 능력 있으신 분 [숨고멤버 Join] • 서류전형 : 이력서(자기소개서) & 포트폴리오..."
+0b9a231d4a1d649d,Software Engineer in Testing for SAP HAN...,SAP 4.3 서울,,"processes Knowledge of Git or other version control, Python, SQL Understanding of modern computer architecture, operating..."
+6d158e8e6a242927,Linux Specialist,토스 서울 강남구,,개발경험이 있는 분 오픈소스 생태계 변화에 대해 이해하며 높은 레벨의 Linux 시스템 관리 노하우를 보유하신 분 Python 또는 스크립트 언어를 활용하여 코딩을 통한 인프라 운영이 가능한 분 우대 사항 Docker 및...
+c27d03dfa899ae11,"Principal, Quantitative UX Researcher (U...",Coupang 3.1 서울,,"UX우선 순위와 솔루션을 제시 자격 요건: 5년 이상의 데이터 분석 관련 경험 SQL, Excel, Python, R/SAS 등 통계 분석용 소프트웨어 활용 경험 데이터와 인사이트를 시각화하여 간단 명료하게 커뮤니케이..."
+f0651a7717791bc3,AR App Engineer,하이퍼커넥트 서울,,"지신 분 스스로 문제를 정의하고 해결책을 제시할 수 있는 분 Java, Objective C(Swift), Python 등 다양한 언어 경험 OpenCV 활용 (Image Processing 이해) 채용형태/근무시간 정규..."
+8ae7c240ef7d5f0b,카카오 분석 플랫폼 경력 개발자,카카오 4.2 성남 판교역,,"대용량 데이터에 대한 실시간/배치 서비스 개발 운영 경험이 있으신 분 개발 경력 1년 이상 ~ 만 5년 미만 python, scala, druid, hadoop 등 다양한 환경에 적응 가능한 분 어떤 일이라도 중요하게 여기며..."
+fe5414158656f438,ISV Cloud Architect,Oracle 3.8 서울,,"Hudson, Chef, Puppet... scripting languages ( Python, Perl, etc... used in scripting application deployments..."
+525fdab567ce9db2,DevOps 개발자 (백엔드),토이스미스 서울 강남구,,"및 Service Mesh 에 대한 이해 l 서버 관리 자동화 경험 개발스택 l 개발 언어: Golang, python, node l 플랫폼: AWS, Docker Swarm l 라우팅: Route53, Traefik l..."
+1eba3075433f76da,Frontend/Backend 개발(Full Stack),Xinapse 서울 강남구,,"js, Vue.js, React.js, jQuery, HTML, CSS, javascript, nginx, python 등 Froentend 유경험 • view component 등 확장성을 고려한 시스템 설계 개발 유경험..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+c495ae06620d2544,Junior and/or Senior S/W Engineers for C...,Success Korea 서울,,5 years of work experience in C and Python programming ?Minimum of 3 years of work... experience in C and Python programming...
+98c2229e57d4ee1f,전기전자컴퓨터공학부(바이오컴퓨팅연구실) 위촉연구원,광주과학기술원 광주 북구,,"국가보훈대상자(취업보호대상자) 및 장애인은 관련 법령에 의거하여 우대 ② 컴퓨터 프로그램밍 (Matlab, Python, C++등) 가능자 ③ 뇌파 측정 및 분석 2년 이상 경력 ➃ 딥러닝 기술 개발 경험 결격사유..."
+514bfca9dfdf6581,"대기업 연구센터 IoT기술(Discrete Event System,머신러...",대기업 (IT기업) 서울,,예측 분석 시스템 개발 [필수경력요건] 1) Discrete Event System 개발 경험 2) Python/Java Programming Language 개발 경험 3) 경력 2년 이상 [우대요건] 1) M...
+58776016fbc8665f,Data Platform Engineer,토스 서울 강남구,,"데이터 적재 및 활용 경험이 있는 분 데이터플랫폼 관리 및 운영도구 개발을 위한 프로그램 능력을(Java, Python) 갖춘 분 우대 사항 하둡 에코시스템을 서비스에 맞게 재구성하거나 개선한 경험이 있는 분 Machine..."
+1c48b404fc0661dc,Cloud Support Eng. II (SCD),Amazon Web Services Korea LLC 서울,,"mail services and SMTP · Experience with scripting (i.e. Bash, Python, PowerShell etc.) · Good understanding of networking..."
+62bedb52fadedd74,협업도구 및 코드관리도구 운영담당자 (경력),카카오 4.2 성남 판교역,,"언어에 익숙하신 분 #선호 자격 docker, k8s 대한 이해와 활용 경험이 있으신 분 kotlin, python, Javascript(node.js) 중 하나 이상의 언어에 익숙하신 분 ※ 카카오 기술 직군의 경우..."
+f59ae6a493eec795,"[R0001563] Principal, Back-end Engineer...",Coupang 3.1 서울,,"analysis) Computer Science Fundamentals 이수 Java, C++, C, Python, Scala 등 현대 프로그래밍 언어 중 최소 한 가지 이상을 능숙하게 활용할 수 있음 (본사에서는 주로..."
+1b68c0bd75dbe08d,DGIST 고신뢰CPS연구센터 제1차 계약직 연구원 채용 공고,대구경북과학기술원 대구 현풍면,,"도계, 초음파센서 등의 신호 처리 기술 및 경험 Matlab 중급 이상 사용 능력 프로그램작성 능력 ( Python, C, C++ 등), 워드프로세서, 파워포인트 등 오피스 프로그램 사용 능력 급여수준 : 관련규정에..."
+37da5b148b2d3ef4,Senior Data Scientist - AWS Professional...,Amazon Web Services Korea LLC 서울,,"track record of building ML or DL models · Experience using Python... R · Able to write production level code, which..."
+1ea7188c1b87f679,"Principal, Business Analysis (eCommerce...",Coupang 3.1 서울,,"FP&A, Strategy, Consulting role Proficient in SQL and Python Experience creating workflows and using automation tools like..."
+48ab3226e83d9f51,[Mobile] 데이터 개발 (인프라),PUBG 서울,,"개발 경험 3년 이상 - Workflow 관리도구(Airflow, Luigi, Talend등) 경험 - Python/Scala 를 이용한 데이터 처리 능력 - AWS 클라우드 인프라 사용 경험(EC2, RDB, EMR 등..."
+a6d0f0030a9ad230,링크샵스 플랫폼 개발 및 유지보수 담당,링크샵스 서울 중구,,"알고리즘 모델링 및 적용 경험 [우대사항] • 인공지능, 머신러닝(기계학습), 빅데이터 관련 석사 우대 • Python, Tensorflow, Keras 경험자 우대 • 대용량 서비스 및 데이터 처리 경험자 우대 • 이미치..."
+05439002712f8135,차세대 광-무선 가입자망 연구센터 연구전담교수,광주과학기술원 광주 북구,,"분야 PCB Layout 및 제작 분야 -생체신호 관련 신호 분석 및 처리 실무 경험자 MATLAB, Python 등을 이용한 뇌신호 처리 및 분석 가능자 박사학위 소지자 우대사항 ① 국가보훈대상자(취업보호대상자..."
+3d8e270a47a88295,DevOps Engineer,하이퍼커넥트 서울,,"유지하면서 production에 적용합니다. 지원자격 1년 이상의 Linux 계열 서버 관련 실무 경험 Python 등의 스크립트 언어를 이용한 코딩 능력 OS, 네트워크를 중심으로 하는 CS 전반에 걸친 기본적인 이해..."
+77d8e0149dad533b,블록체인인터넷경제 연구센터 위촉연구원,광주과학기술원 광주 북구,,구직 명 블록체인 개발 블록체인 경제 블록체인 하드포크 1) SW프로그래밍 제작 경험자 2) Python/C/Java/Go 프로그래밍 가능자 우대사항 ① 국가보훈대상자(취업보호대상자) 및 장애인은 관련 법령...
+2459b164bb22d0f4,DGIST 미래자동차융합연구센터 계약직 연구원 및 박사후연수연구원 공개...,대구경북과학기술원 대구 현풍면,,"사항 - S/W개발능력, C,C++, Python,Matlab 등 능숙자... Software 개발 우대 사항 - S/W개발능력, C,C++, Python, Linux환경 능숙자 - 자율주행 및 ADAS관련 프로젝트 참여경..."
+f9eeef2ae18870e6,DGIST-ETH 마이크로로봇연구센터 계약직 연구원 공개 초빙 공고,대구경북과학기술원 대구 현풍면,,"Fluorescence imaging 경험자 우대 MATLAB, Python 등을 사용한 기본적인 프로그래밍 경 험자 우대 급여수준 : 관련... 우대 사항 MATLAB, Python 등을 사용한 기본적인 프로그래밍..."
+3383326062c40ec2,Backend Developer(Python or Java),Success Korea 서울,,"채용제목 Backend Developer( Python or Java) 회사소개 온라인 서비스 업무내용/자격요건 자격요건 - Python, Java, Ruby, Node.js 등을 사용한 3년 이상의 개발 경력 -Web..."
+754348a9c3f08d66,Full Stack Developer,"Miso, inc 서울",,"이런 분과 함께하고 싶습니다] 개발 경력 3년 이상 Ruby, Python, Go, Node JS 중 하나 이상의 언어에 능숙하신 분 Ruby... Data Science: Go, Python Collaboration..."
+37127548f83bb7f7,[Search] 네이버 웹검색 연구/개발 경력사원,네이버 서울,,러닝 패키지 중 한가지를 자신있게 활용할 수 있는 능력 • Linux에서의 개발작업이 익숙하며 Java/ Python/C++ 중 한가지 언어를 잘 다루는 능력 [우대사항] • 검색서비스의 수집/정제/랭킹개발업무 경력 • 포털...
+a193bcd4ee3a07c0,Data Platform Developer,PUBG 서울,,"이상의 프로그래밍 언어를 익숙하게 사용 : Go, scala, javascript, typescript, python [우대 사항] - Container orchestration tool을 이용한 인프라 운영 경험 및..."
+e40f14640ce2f83b,Senior Data Scientist (Experiment Platfo...,레이니스트 서울,,"이해하고 서비스 구현에 어려움이 없으신 분 데이터 분석/모델링을 위한 언어 및 프레임워크 사용에 익숙하신 분 ( Python, TensorFlow, Keras, PyTorch, Spark 등) 분석 결과를 회사 내부 구성원들과..."
+ed3686b9c2eea9ad,"Principal, Data Engineer (Pricing Tech)",Coupang 3.1 서울,,"링하고 알림을 주는 시스템을 구축한다. 자격 요건: 컴퓨터 공학 혹은 관련 전공 수료자 Java, Python, Unix shell, html 프로그래밍 가능자 10년 이상 웹서비스 및 백엔드 개발을 하신 분 – 데이..."
+f5db97b4d95cbc04,VP of Engineering,"Miso, inc 서울",,"분 제품을 전체적으로 리드할 수 있는 분 Golang, Node.js, Python, or Ruby 프로그래밍 언어 중 1개 이상 사용 가능하신 분... Data Science: Go, Python Collaboration..."
+248f25cc0416aa37,Java Backend Software Engineer,하이퍼커넥트 서울,,"개발 또는 DBMS 운영 경험이 있으신 분 AWS 등 클라우드 환경에서의 개발 또는 운영 경험이 있으신 분 Python 사용 경험이 있으신 분 Ansible, Salt, Chef, Puppet, Fabric 등의 DevOps..."
+ecc4154e1f4d28a8,Android Software Engineer,하이퍼커넥트 서울,,"및 네트워크 지식 및 경험 Unit 테스트 작성과 mocking에 대한 경험이 많거나, 흥미가 많으신 분 Python 스크립트 작성 경험 코드 보안에 관심 많으신 분 내부 세미나 또는 블로깅 등의 방법으로 본인의 지식을 공유..."
+62188527e0229352,DGIST-ETH 마이크로로봇연구센터 계약직 직원(Post-doc) 공개...,대구경북과학기술원 대구 현풍면,,"COMSOL, ANSYS 등) 사용 경험자 우대 MATLAB, Python 등을 사용한 기본적인 프로그래밍 경험자 우대 MEMS/BioMEMS... 경험자 우대 MATLAB, Python 등을 사용한 기본적인 프로그래밍..."
+2e7b4cdaddc82b04,Surfacing,Mofac 서울 서초구,,"UV 매핑, 텍스쳐 과정 등 전과정에 대한 이해 – 타 파트와 긴밀한 협조 능력 우대사항 – Maya, Python 가능자 – Hair, Fur 작업 가능자 전형절차 서류전형 1차 실무면접 2차 임원면접 최종합격 서류전형..."
+48ace3aa027982bc,Cloud Service 개발 및 운영,LINE Plus corporation 성남 서현역,,"Function Service) 개발 및 운영 고도화 및 운영 고도화 [자격요건] - Golang, Python으로 개발 하는것에 능숙하고 언어에 대해 깊은 이해가 있는자 - OS에 대한 이해가 있고 특히 Linux..."
+60e4f079b67ec01f,[PC/Mobile] Data Analyst,PUBG 서울,,Pre-Test 시행 ) - 최소 1가지 이상의 프로그래밍 언어로 능숙하게 개발하실 수 있는 분: Python/Scala/C++ 등 - 최소 1가지 이상의 머신러닝 관련 언어로 능숙하게 분석할 수 있는 분 : Scikit...
+c4338692c14fa45a,머신러닝 엔지니어 (3년이상),Success Korea 서울,,"평가 및 개발, 적용 필수사항 : - PyTorch, Tensorflow 중 1개 이상 사용 가능 - Python 중급 이상 - 딥러닝 관련 지식 보유 - 선형대수, 통계학 등 지식 보유 우대사항 : - 머신러닝..."
+3292e81e43884c67,Web 개발(이커머스 파트)_PHP/CodeIgniter/Javascri...,버드뷰 서울 마포구,,익숙하신 분 개발 환경 - Mysql - PHP / CodeIgniter - Javascript - Python / Django - Git / Github / Git flow 업무 역량 (1) 문제인식 주어진 상황이나...
+cfaae88e0b705dc8,[구로동] 기획력있는 온라인/퍼포먼스 마케터 경력,나우앤뉴 서울 구로동,"연봉 22,000,000원","경험자 - Google Analytic, Mixpanel 등 분석 툴 사용 가능 하신 인재 - SQL, Python 등 데이터 분석 능력 인재 우대 - 페이스북, 유튜브, 구글 플랫폼에 대한 이해도가 높은 인재 우대 - 숫자..."
+02f6d51131089f96,"음성인식 엔진개발( Kaldi, 서버 ) - 대기업",차량IT 전문 기업 (대기업) 서울,,"서버개발) 2) OS: Linux, Language: C/C++ 또는 Java [우대사항] - Python 개발 가능자 - 머신러닝 이해 / 경험 - 대용량 트래픽 처리 경험자 - 네트워크 / Socket 프로그램..."
+f178de26c9ae9a08,"JAVA, Android 외 신입/경력 정규직",크리콜투 서울 서초구,"연봉 40,000,000원 - 50,000,000원",터넷·IT·통신·모바일·게임>응용프로그래머>JAVA|인터넷·IT·통신·모바일·게임>응용프로그래머>Android|인터넷·IT·통신·모바일·게임>응용프로그래머>자바스크립트|인터넷·IT·통신·모바일·게임>응용프로그래머> Python
+a43e0a2d7bf066ea,PUBG 플랫폼 관제운영,PUBG 서울,,"Windows 또는 Linux 환경에서 서버 운영 및 모니터링을 수행해 보신 분 - 하나 이상의 스크립트 언어( Python, Shell script, Powershell 등) 사용경험이 있으신 분 [우대 사항] - 협업을..."
+3e1c8b106e9c3888,Cloud Solution Architect (Azure Apps and...,Microsoft 4.2 서울,,"programming languages: C++, C#, Java, Node.js, JSON, PHP, Perl, Python, Ruby on Rails, Pig/Hive Experience using integrated..."
+674370fd38bce0dd,지스트 블록체인경제센터(강남소재) 계약직(연구원),광주과학기술원 광주 북구,,블록체인 경제 블록체인 하드포크 1) 4년대 대학 이상 졸업자 2) SW프로그래밍 제작 경험자 3) Python/C/Java/Go 프로그래밍 가능자 우대사항 ① 국가보훈대상자(취업보호대상자) 및 장애인은 관련 법령...
+315c65b8337d3e7a,React Native Developer,"Miso, inc 서울",,"Redux 등의 개발 경험을 보유하신 분 Golang, Node.js, Python, or Ruby 중 프로그래밍 언어 사용 가능하신 분 새로운 기술... Data Science: Go, Python Collaboration..."
+e42dff836a3182d7,반응형웹개발자(3년이상),에이치알 코리아 대한민국,,웹 및 plug-in 개발(java 기반) - 서버 개말 및 유지보수( python _ django framework) - 외부와의 협업 프로젝트 관리... 웹 그리고 플러그인 개발 경력 - python 개발 및 활용이 능통한자...
+79aa0ecba6067f06,[Clova] Clova Platform Backend 개발자 경력사원,네이버 서울,,자격요건] - 백엔드 서비스 개발 경험 3 년 이상 또는 그에 준하는 역량을 가진 분 - Go/Java/ Python/C++ 중 1 개 이상의 프로그래밍 언어에 익숙하신 분 - 웹 / 모바일 서비스의 일반적인 아키텍쳐 이해...
+7ab72b2f19e2425d,Back-end Engineer 경력 채용,주식회사 카사코리아 관심기업 서울 삼성동,,"클라이언트와 통신을 위한 API 설계 및 구현 [자격요건] - C++, JAVA, Node.js, Python, Go 중 하나 이상의 언어 능통자 - 프로덕션 환경에서 지속적인 서비스 개선 및 운영 경험 - 웹 기술 및..."
+d9470ee259f7457b,Cloud Infrastructure Architect,Amazon Web Services Korea LLC 서울,,"through DevOps scripting (E.g. shell, Python, Ruby, Powershell) · Configuration... 스크립팅 (예 : shell, Python, Ruby, Powershell..."
+b00009495def08db,System Engineer,토스 페이먼츠 서울 강남구,,"요건 Shell, Python, Perl 등의 스크립트 언어 가능한 분 Linux 로그 분석 및 트러블 슈팅 경험이 풍부한 분 대용량 TPS 서비스를 직접 운영한 분 우대 사항 C/C++, Java, Shell, Python..."
+e6b9a2c5b82c4fc3,"Android, iOS 외 신입/경력 정규직",킨사이트 성남 분당구,"연봉 30,000,000원 - 35,000,000원",인터넷·IT·통신·모바일·게임>응용프로그래머>자바스크립트|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머>Linux|인터넷·IT·통신·모바일·게임>웹프로그래머>HTML...
+9a44a1a18ab4635c,Cloud Security Engineer,Sendbird 서울,,"one or more scripting/coding languages (e.g. bash, Python) Experience of setting up security policy and documentation Bonus..."
+c62d380a1585df66,데이터 엔지니어 (3년 이상),우아한 형제들 서울 송파구,,Hadoop/Spark 기반의 빅데이터 인프라 구축 및 ETL 개발 경험(3년 이상) - Scala/Java/ Python 중 1개 이상의 언어 숙련자 - SQL 숙련자(MySQL/SparkSQL) - 1개 이상의 데이터 엔지...
+6eb2a3cb98a05a61,빅데이터 & AI 분석가,데이터사이언스랩 서울 송파구,"월급 2,000,000원","수집, 전처리, 정보추출 및 조합, 통게분석, 머신러닝, 딥러닝, 시각화 등 2. 체용분야 - 작업도구 : Python, KNIME, SQL 등 - 데이터 엔지니어링 및 워크플로우 개발 - 빅데이터 기반 분석 시각화 UI개발..."
+ea2cf2a5e929b0ee,TOAST Cloud 플랫폼 및 서비스 개발,NHN 4.4 성남 판교역,,"5년 이상의 Java 개발 경력 - 다양한 프로그래밍 언어 구사 (C++, Javascript, Python 등) - 클라우드 서비스 개발 경험 - 각종 오픈소스 NoSQL 스토리지, 검색엔진의 응용 개발 경험..."
+ea7a7ab6e15151c1,WaveBridge BackEnd Developer 경력직,웨이브릿지 서울 강남구,,"적인 사고 및 알고리즘을 좋아하시는 분 Java, Spring 및 Design Pattern 에 대한 이해 Python 데이터 분석 및 웹개발 경험 RESTful API 서버에 대한 이해 및 구현 능력 기본적인 SQL문 작성..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+2d7b16bcf6fa8c8f,Cloud Infrastructure (DevOps) Engineer,Sendbird 서울,,"e.g. Python) and automation skills... Unix/Linux systems Understanding of Python, Java, and Event-Driven Frameworks..."
+3ca47f227f783ee5,저축은행 디지털 LAB,국내자본 저축은행 서울 구로구,,"여신/수신) 데이터 분석을 통한 인사이트 도출 및 리포팅 [자격요건] - 4년제 정규 대졸 이상 - R/ Python 을 이용한 데이터분석 프로젝트 수행 가능자 (분석, 기획, 데이터추출/전처리, 모델링) - 데이터분석/모델링..."
+ee7e4f2e5d69f84c,DRE - Build Engineer,Success Korea 서울,,OO programming language · Experience with Python or related scripting language... Experience with Python or related...
+794e209e405f4fc0,지스트 블록체인경제센터(강남소재) 계약직연구원,광주과학기술원 광주 북구,,구직 명 블록체인 개발 블록체인 경제 블록체인 하드포크 1) SW프로그래밍 제작 경험자 2) Python/C/Java/Go 프로그래밍 가능자 우대사항 ① 국가보훈대상자(취업보호대상자) 및 장애인은 관련 법령...
+8da5c72baf146123,Site Engineer (Seoul),Motion2AI 서울,,의력과 열정을 가진 분을 찾고 있습니다. 지원자격 필수조건 Linux/Windows 시스템 능숙 C++/ Python/Golang 등 코드 컴파일 및 디버깅 경험 우대조건 물류관련 프로젝트 경험 CS 및 관련 학과 출신...
+50d0ae3f24a94532,"로봇관련, R&D_로봇 Skill 개발",4차산업 공장 자동화 기기 및 소프트웨어 경기도 수원,,"용한 장치 인터페이스 관련 지식 (우대) - 로봇 모션 및 힘 제어 알고리즘 개발 지식 - 프로그래밍 스킬( Python 필수, C++우대, Java 우대) - 기계/메카트로닉스 공학 계열의 4년제 대졸 학사 이상 - 경력 3..."
+0df2999925f12355,Sr. Back-end Engineer (Query Understandi...,Coupang 3.1 서울,,"학사 학위 한 가지 혹은 그 이상의 범용 프로그래밍 언어 (Java, Python and C/C++)를 사용한 소프트웨어 개발 경험 MapReduce... languages (Java, Python and C/C++..."
+204308e277d085e3,DevOps Consultant - Professional Service...,Amazon Web Services Korea LLC 서울,,"programming and scripting languages... Shell, Python, Ruby, Perl, Java, .Net, or C++. · Experience with building..."
+8c4e16d1785c009f,"웹/모바일 기반 벡엔드/프론트엔드 개발_대리, 과장급_대기업",에이치알 코리아 대한민국,,"ReactJS *우대사항 ㆍ유통사 개발 프로젝트 경험 (시스템 통합, ERP, SCM 구축 등) - 백화점 / 마트 / 수퍼 (면세점, 편의점 제외) · Python 기반 프로그래밍 개발 가능 (머신러닝 패키지 활용)"
+ae4154c1a1eded61,"JAVA, JSP 외 경력 정규직",올원 서울 마포구,,및 제출서류에 허위사실이 있을 경우 채용이 취소될 수 있습니다. 인터넷·IT·통신·모바일·게임>웹프로그래머>JAVA|인터넷·IT·통신·모바일·게임>웹프로그래머>JSP|인터넷·IT·통신·모바일·게임>웹프로그래머> Python
+1241d1e756b15ce4,[배민서비스실] 검색서비스 개발자,우아한 형제들 서울 송파구,,"분 - AWS를 활용한 개발, 운영 경험이 있으신 분 - 빌드/테스트/배포 자동화 경험이 있으신 분 - Python 개발 경험이 있으신 분 - Hadoop, Spark 등 오픈소스 플랫폼 활용 경험이 있으신 분 - 다양한..."
+10d0fc5204d04626,[Console] Data Analyst,PUBG 서울,,"개발자와 활발한 소통 [지원 자격] - 통계 기초 지식 보유 - 쿼리 작성 능력 보유 - Spark, Python, Scala, 혹은 실무에서의 기타 프로그래밍 언어 활용 경험 - 데이터 분석 경력 2년 이상 5년 이하..."
+17b03ebf96f6e2db,[Anti-Cheat] Data Analyst,PUBG 서울,,이터 기반 이상징후 탐지 [지원 자격] - 통계/머신 러닝 기법 등을 활용한 분석 경험 - Python 혹은 실무에서의 기타 프로그래밍 언어 활용 경험 - Communication 능력 보유 - Documentation...
+88b7dece067cd1c6,AI Algorithm Developer,펄핏 서울 강남구,,"원합니다. - 자격요건, 어떤 조건이 필요한가요? 컴퓨터 공학 분야 MS 또는 PhD 학위 소지 C/C++/ python, software design, AI algorithms 에 대한 전문적인 지식 소지 원활한 의사소통..."
+10530ea7d98370b7,Data Scientist (Analytics Modeling Exper...,Success Korea 서울,,"systems) a plus ? Experience in programming with JAVA, Python, Perl preferred ? Customer insight, customer segmentation..."
+16dff836029458af,"모바일 앱 서버 개발(Java, Python)",휴먼디지털 서울,,"Python) 자격조건 - 정보시스템 설계 및 데이터 마이닝용 시스템 설계. - 모바일 앱 서비스용 서버 API 설계 및 개발. - 주소록 동기화, Confirmed Push 경험 하신 분 우대. - 자바, Python..."
+838599aa8cfbcf47,Video Solution System Engineer,Success Korea 서울,,"language (e.g. Perl, Ruby, Bash, Python) - Knowledge of video streaming or content... g. Perl, Ruby, Bash, Python) - Knowledge..."
+2625bdacef9c5d08,"Specialist Solutions Architect III, AI/M...",Amazon Web Services Korea LLC 서울,,"Spark and Hadoop. · Experienced in data processing with Python, R & SQL. · Experience with AWS services related to AI/ML..."
+27a95c712037037f,서버/프론트 개발 및 서버 운용(구축 및 관리),싸이들 서울 마포구,"연봉 35,000,000원","포구 양화로6길 4층 인근지하철 직무내용 1. 서버 / 프론트 개발 1) 개발언어 : JAVA, PHP, Python, Node 중 1개 언어 이상 가능자 2) 개발 프로엠워크 : 각 언어별 주요 프레임워크 사용 경험자 2..."
+f0603bbde8b3a8a0,리서치,Success Korea 서울 광화문역,,"처리 (엑셀 및 SPSS/R/ Python 활용) - 소비자 조사를 위한... 활용 능력 상 - 소비자 조사에 대한 이해도 상 우대사항 - Python, R 프로그램 활용 가능자 (Raw data 가공 및 통계 분석..."
+ac8d5ff1022fce65,Support Engineer _ Azure Security,Microsoft 4.2 서울,,"Linux script-based development environments and tools (PERL, Python, Ruby, PhP, etc.) o Programming language (C++/C#) Please..."
+2f37b0bd72976726,머신러닝 컨설팅 부문,Success Korea 서울 선릉역,,프로젝트 수행 [자격요건] - 대졸 이상 - 4년 이상 - R 또는 Python을 활용한 데이터 처리 및 분석 프로젝트 경험 - 신입의 경우는 관련... 이상 - 4년 이상 - R 또는 Python을 활용한 데이터 처리 및 분석...
+2cca42ee0951d4be,"Principal, Business Analysis (Coupang Ea...",Coupang 3.1 서울,,"SQL, Excel, Python, and R/SAS or any... 경영학 학사 혹은 해당 분야에서 그에 준하는 경험 SQL, Excel, Python, R/SAS 등 통계 분석용 소프트웨어 활용 경험 Hadoop..."
+9fa9d498506f86aa,기술영업(신입/경력),에이치알 코리아 대한민국,,"모집부문 기술영업(신입/경력) 업무내용 - 담당업무 : 기술영업 -> 국내 기술영업 지원자격 - 자격요건 영어 구사 가능자( 토익 750점 이상 또는 준하는 역량) - 우대사항 - 프로그래밍 언어 사용가능자(C, VB, Python)"
+ca46d5dccd5e9d73,Video Analytics(VA) Software Developer,Success Korea 서울,,"programming skills using C++, Java, C#, Python, SQL... Matlab -Excellent... C++, Java, C#, Python, SQL... Matlab..."
+c81984fb6cd9a0c6,빅데이터 전략/마케팅 (과~차장),Success Korea 서울 중구,,"이상 - 전문지식 ※ 통계분석(SAS, R 등) ※ 빅데이터분석 ( Python, Spark, Hadoop, Aster 등) ※ 인공지능, 머신... R 등) ※ 빅데이터분석 ( Python, Spark, Hadoop..."
+2c9857f7c5468c1d,국내 대기업 통신사 Cloud Engineering 경력직,드래곤에이치알 서울 강서구,,인터넷·IT·통신·모바일·게임>ERP·시스템분석·설계>AWS|인터넷·IT·통신·모바일·게임>응용프로그래머>클라우드|인터넷·IT·통신·모바일·게임>응용프로그래머>JAVA|인터넷·IT·통신·모바일·게임>응용프로그래머> Python
+1798869dfd2c3014,IP/MPLS 개발자,Success Korea 성남 판교역,,있어야 할 것 - C++ 및 Python 을 프로그래밍이 가능하면 선호됨... C 는 5 년 이상의 경력을 가지고 있어야 할 것 - C++ 및 Python 을 프로그래밍이 가능하면 선호됨 - Broadcom Switching...
+449c79ff66c3925c,Sydney Based Cloud Support Engineer,Success Korea 대한민국,,MySQL/PostgresSQL/MSSQL/Oracle 관련 경험 · Python/Java/Shell/Perl/Ruby/PHP 등 개발/스크립트 언어... Oracle 관련 경험 · Python/Java/Shell/Perl...
+8a3959ab234e83de,Data Platform Engineer,토스 증권 서울 강남구,,"데이터 적재 및 활용 경험이 있는 분 모니터링 환경 및 자동화 구축을 위한 프로그래밍 능력(Java, Python 등)을 갖춘 분 우대 사항 하둡 에코시스템을 서비스에 맞게 재구성하거나 개선한 경험이 있는 분 Machine..."
+417ee4ce50f6a2d0,"대화 솔루션 기술개발 (인공지능, NLP, 챗봇) - 대기업연구센터",대기업 (유명그룹사) 서울,,데이터 예측 분석 시스템 개발 [필수경력요건] 1) Discrete Event System 개발 경험 2) Python/Java Programming Language 개발 경험 3) 경력 2년 이상 [우대요건] 1) M...
+e8d1c3f88e0b200b,Data Scientist,해외송금 전문업체 서울 강남구,,"유지보수 - 데이터 시각화 [ 자격요건 ] - 경력 2~4년차 - SQL 사용이 능숙하신 분(필수) - R, Python 등을 이용한 분석 경험 [ 우대사항 ] - 빅데이터 및 금융데이터 분석 및 예측 - 통계학 전공자..."
+0d49e5a31e68eb2d,AI 미디어( IPTV ) 서비스 기술개발 - 대기업연구센터,대기업 (유명그룹사) 서울,,"1) HTML5, JAVA, Python 등 개발역량 2) 미디어플랫폼... framework (Tensorflow, Keras, Pytorch, Python 등)기반 개발경험 [근무지] 서울 강남권 [지원방법 및 문의처..."
+b43edb92cb44bd28,Senior Data Engineer,레이니스트 서울,,"3년 이상 Data Collection, Data Pipeline, Data Warehouse 구축 경험 보유 Python / Java(Scala) 를 이용하여 데이터 처리 개발 가능 스트리밍 또는 배치 Data 기술 (예..."
+f6e50a2c31a16f79,Imaging Scientist,Success Korea 경기도 화성,,"사용 가능 - OPC, LMC, Tachyon의 DRO 등 - Data analysis : Matlab, Python - Layout handling : Logic Library design 능력 우대 [전형절차] - 1차..."
+785844821918d4ac,"클라우드 서비스 개발자 중급(IaaS, PaaS)",SW개발전문회사 서울 마포구,,"서비스 API와 연계된 서비스를 개발 - 배포, 빌드, 테스트 자동화와 관련된 DevOps 개발 - Go, Python, JS(Angular/React) 등을 이용한 웹 애플리케이션 개발 [전형절차] 서류, 면접 2회 [제출..."
+60c38beac39270b1,Full Stack Developer (Internal Products),토스 서울 강남구,,"수 있는 분 우대 사항 Python/Django 기반의 서비스 개발 경험이 있는 분 React 개발 경험이 있는 분 RDB 쿼리 최적화 경험이 있는 분 토스를 구성하는 기술 Python, Django MTV, Django..."
+d90b5ba4ce618721,"Sr. Solutions Architect, Storage",Amazon Web Services Korea LLC 서울,,"speaking engagements Scripting experience (Powershell, Python, bash, etc.) Bachelors or equivalent work experience..."
+4801b7535e8bc40d,서버 개발(사원~과장급),Success Korea 서울 가산디지털단지역,,"회사소개 http... newemotion.co.kr 업무내용/자격요건 자격요건 - PHP, Python, Javascript - Mysql - OAuth - Amazon SQS - 대학교 수준의 알고리듬 / DB..."
+1686bc8fdc03fd84,빅데이터 분석/컨설팅(3년이상 경력),에이치알 코리아 서울,,"설팅 지원자격 - 빅데이터 분석역량 - 빅데이터, DW/CRM 프로젝트 PM/PMO 수행 경험 - PI / IT 전략 컨설팅 경험보유 우대 - R, Python, SAS,, SQL, Hive on Hadoop 사용경험 우대"
+0fea9598510abf0e,Effect Supervisor (경력 10년 이상) Effect Art...,Mofac 서울 서초구,,"후디니 사용자 – 이펙트 요소 표현에 뛰어난 감각 소유 – VFX 파이프라인에 대한 이해도 우대사항 – Python 등 Scripting 유경험자 – 외국어 가능자 (영어, 중국어) – 경력 5-10년 차 실무경력자 전형절..."
+a6df161cf8e96140,게임 딥러닝 AI 개발,Success Korea 성남 분당구,,"러닝 모델 설계 및 구축 경험 -능숙한 C/C++ 혹은 Java, Python 등 프로그래밍 능력 [우대조건] -Cocos2d-X / Unity3D... 숙한 C/C++ 혹은 Java, Python 등 프로그래밍 능력 [우대조..."
+0775a7b8bbca016c,Senior Server Engineer,레이니스트 서울,,"개발자들에게 코칭 제공 자격 요건 5년 이상 서버 엔지니어링 경험 보유 Golang/Java(Kotlin)/ Python 중 하나 이상에 전문성을 보유, 고도화된 서비스 설계 및 개발 경험 보유 금융관련 IT 업무 경력 보유자..."
+e51c8736967894d3,TEST IT,Success Korea 인천 부평구,,"전문기업 업무내용/자격요건 자격요건 - 전산 관련 학과 전공하신 분 - C/C++/C#, JAVA, Python, Unix/Linux, MSSQL 경력있으신 분 - 오픈소스 활용, 빅데이터 플랫폼 구축 및 운영 경험있..."
+fee56fb9223065b1,서버 개발자,유명메신저회사 서울 강남구,,"서비스를 만들기 위해 노력하시는 분 [ 우대사항 ] - 확장성 있는 서버 아키텍처에 대한 이해 - Java, Python, Scala 를 이용한 개발 경험 - 오픈소스 활동 경험 - 채팅, RPC, WebRTC에 대한 경험..."
+1622a08497f8c091,Data Scientist,에너지 거래소 및 에너지데이터 중개 서울,,"금융공학 연구팀과 협업 [자격요건] -유관업무 경력3년 이상 -통계 및 최적화이론, 인공지능모델을 R, Python으로 구현 및 분석 능력 -석사이상 선호 [우대사항] -새로운것을 배우는것에 익숙하며 효율적이며 긍정적인..."
+2a1d77bd91952093,(주)엘솔루 개발자,㈜엘솔루 서울,,"필수사항] ㆍ프로그래밍에 재능 및 열정이 있는 자 ㆍJava, Python 중 하나 이상의 언어사용자 ㆍ자료구조 지식이 있는 자 ㆍ학력... 머신러닝(ML)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python"
+2dc48511f09843fa,빅데이터 분석/활용(과~차장),Success Korea 서울,,"이상 - 전문지식 ※ 통계분석(SAS, R 등) ※ 빅데이터분석 ( Python, Spark, Hadoop, Aster 등) ※ 인공지능, 머신... R 등) ※ 빅데이터분석 ( Python, Spark, Hadoop..."
+f0367efd84417823,DevOps 엔지니어(과장~차장급),TV홈쇼핑 성남 판교역 +1 지역,,"AWS 경험 2년 이상) - 퍼블릭 클라우드 구축 경험 - 다음 중 하나의 언어를 이용한 업무 자동화 기능 : Python, Node.js, Go - 클라우드 기반 시스템 구축 & 운영 자동화 경험 (Ansible, Chef..."
+d0ad8d53ad979e23,Software Integration Engineer,Success Korea 서울,,"environment, Familiar with one of script language (Perl, Python or Shell) Good interpersonal skills; Strong knowledge..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+72df4d9b3d1399af,대기업(연구소) AI 플랫폼연구 석사이상,금융대기업(연구센터) 서울 강남구,,Scientific process 에 대한 이해 및 경험 - 기계학습 알고리즘 구현 또는 활용 경험 - R/ python/scala/java/javascript/typescript 중급 이상(택1) - Hadoop...
+c16d65e660e7e744,"Principal, Data Engineer (Pricing Compet...",Coupang 3.1 서울,,"상을 위한 도구와 가이드 라인의 제공 자격 요건: 컴퓨터 공학 혹은 관련 전공 학위를 소지하신 분 Java, Python 프로그래밍이 가능하신 분 7년 이상 데이터 엔지니어링을 경험하신 분 우대 사항: Back-end..."
+18848cd6c6f44fbe,S/W Engineering Efficiency,Success Korea 성남 분당구,,"학위 또는 이와 동등한 수준의 실무 경험 - Java, C/C++, Python, Go, Haskell과 같은 프로그래밍 언어를 이용한 1년 이상의... 뜨릴 수 있는 분 - Java, Python, Go, Haskell와 같은..."
+80f1a9fe40a6c290,[Search] Papago Software Engineer 경력사원,네이버 서울,,"개발 / 운영 [ 자격요건 및 우대사항 ] · Spring 기반 백엔드 서버 개발 / 운영 경험 필수 · Python 개발 / 운영 경험 우대 [ 채용하고 싶은 사람 ] · 프로그램 설계 , 디버깅 , 자료구조 및 알고..."
+7772fd53bc80acde,Senior Business Analyst (Retail Program...,Coupang 3.1 서울,,ecommerce or internet services business Experience with Python is a plus Experience with financial modeling/forecasting...
+04ecc7af1c61ab5a,통계 분석 전문가,Success Korea 서울 강서구,,"3. 실제 분석 경험 보유해야 함 (SAS, SPSS, or R, PYTHON) 4. 중급 이상을 원하나 초급도 상관없음 5. 빅데이터 인프라 및... SAS, SPSS, or R, PYTHON) 4. 중급 이상을 원하나 초급..."
+bfdb6d14b38319a1,소프트웨어 개발 PM,SW개발전문회사 서울 목동,,"대졸 이상 - 웹 개발 경력 등 10년 이상 - 클라우드 서비스와 연계된 서비스를 개발 경험자 - Go, Python, JS(Angular/React) 등을 이용한 웹 애플리케이션 개발 경험자 우대 [전형절차] 서류, 면접..."
+6ae76a6437a8a2b6,Solution Architecture: Starts-Up/Gaming,Success Korea 서울,,"modern development languages... Ruby, Python and Node.js - Experience working... languages... Ruby, Python and Node..."
+d498993697237b33,AI(인공지능) 개발자,휴먼디지털 서울,,를 활용한 Machine Learning(Deep Learning) 개발 경험자 우대 3. C/C++/C#/ Python 등 프로그래밍 경험자 우대 4. 분산시스템에 대한 이해가 있는 분 우대 근무지 서울 연봉 회사내규에따름...
+33fbfcd01ae23602,시스템 프로그래머,에너지 거래소 및 에너지데이터 중개 서울,,"웹서비스 구현 [자격요건] -네트워크 개발 경험 -웹 백앤드 서비스 개발 경험 - Python, Node.js 숙련 [우대사항] - Python 웹 플랫폼(asyncio 이용) 개발 경험 -Modbus, CAN, Socket..."
+92ee52d0e9591d5a,통계분석,Success Korea 인천 송도동,,"운영 관련 연구 경력이 있는 분 - SAS 또는 R, SQL, Python 사용 가능자 [공통 지원자격] - TOEIC 750점 또는 TOEIC... SAS 또는 R, SQL, Python 사용 가능자 [공통 지원자격..."
+79da9b878d3d8709,저축은행 다이랙트마케팅팀 데이터분석,국내자본 저축은행 서울 구로구,,"Insight 도출 업무 ex) R, Python 등 고급 분석 Tool을... 이상 우대) - 데이터사이언스, 컴퓨터공학, 수학/통계학 전공 - R/ Python 활용 중급 이상 *우대사항 : 데이터분석 관련 자격증(ADSP) 등..."
+516545e5882be38c,시스템 엔지니어,Success Korea 서울 삼성동,,"을 도입하고 운영한 경험을 보유하신 분 - Shell, Perl, Python 중 1개 이상의 언어에 능숙하신 분 [전형절차] 서류전형-기술test... 분 - Shell, Perl, Python 중 1개 이상의 언어에 능숙하신..."
+74c4f418a78c820f,데이터 전문가,Success Korea 서울 삼성동,,"경험 - 프로그래밍 언어 중 2가지 이상 능숙하게 사용(R, Scala, Python, Java) - 컴퓨터 사이언스 또는 통계 관련 박사학위자 우대... 능숙하게 사용(R, Scala, Python, Java) - 컴퓨터 사이언..."
+13513ddad0382808,빅데이터 분석,Success Korea 서울 삼성동,,"경험 - 프로그래밍 언어 중 2가지 이상 능숙하게 사용(R, Scala, Python, Java) - 컴퓨터 사이언스 또는 통계 관련 박사학위자 우대... 능숙하게 사용(R, Scala, Python, Java) - 컴퓨터 사이언..."
+cdf617324298bb9d,저축은행 소비자금융 Data Science 팀,국내자본 저축은행 서울 구로구,,"4년제 정규 대졸 이상 - 통계, 수학, 산업공학 전공자 (석사 이상 우대) - 통계프로그램(SAS, R, Python) 활용가능자 - 소비자금융 CSS모델링 관련 업무 경력 2년 이상 [전형절차] 서류, 면접 2회 [제출서..."
+9cd311595b3e4bea,저축은행 소비자금융 Data Science,국내자본 저축은행 서울 구로구,,"분석 [자격요건] - 4년제 정규 대졸 이상 - 통계, 수학, 산업공학 전공자 - 통계프로그램(SAS, R, Python) 활용가능자 및 석사 이상 - 소비자금융 관련업 경력자 우대 [전형절차] 서류, 면접 2회 [제출서류..."
+720c87b5a84f3d11,저축은행 디지털금융본부 Data Science 팀 CSS운영 경력자,국내자본 저축은행 서울 구로구,,"향구성 [자격요건] - 4년제 정규 대졸 이상 (통계, 수학, 산업공학 전공자 우대) - 통계프로그램(R, Python) 및 엑셀 활용가능자 - CSS운영 관리 경험자 경력 3년 이상 [전형절차] 서류, 면접 1회 [제출서류..."
+6d5126cc953eb676,백엔드 플랫폼 엔지니어 - Devops (경력),PUBG 서울,,"IaaC 툴 사용 경험 - 상용 서비스를 운영해본 경험 - 하나 이상의 스크립트 언어 (Javascript, Python, Bash, PowerShell 등)를 능숙하게 사용할 수 있음 [우대 사항] - 배포, 모니터링..."
+074bbbc1b7c4d596,저축은행 디지털마케팅본부 데이터분석 경력자,국내자본 저축은행 서울 구로구,,"고객 분석, 마케팅 분석 - 마케팅 기획 및 실행조직과 협업 경험, 마케팅 데이터 모델링 개발능력 - R, Python, Tableau, SAS, Orange, SQL 등 데이터 분석의 업무를 수행 할 수 있는 개발 언어에..."
+dd34d9838bc38782,Android 앱개발자 (경력3년이상),이퓨인터내셔널 서울 강남구,"연봉 30,000,000원 - 35,000,000원",앱스토어 출시 유경험자 Android의 경우 Kotlin 개발 경험자 Python 개발경험자 아이폰 (IOS) 개발역량 보유자 1 명 주식회사 이퓨인... 통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임...
+bbf36187bf5002f0,서비스 개발 및 관리,Success Korea 서울,,경력 1년 이상 - PHP/ Python 등 웹프로그래밍 경력자 - APM... 출서류] 이력서 경력기술서 자격요건 - 경력 1년 이상 - PHP/ Python 등 웹프로그래밍 경력자 - APM 환경에서 시스템 구축의 전반에 대한...
+6e2edb2a07654c30,Data Analyst,Success Korea 서울,,"데이터 분석 경력 최소 3년 이상(전 직급) - SAS, R, Python, SQL 중 두 개 이상의 분석 도구에 대한 이해 - 통계 분석 및... 전 직급) - SAS, R, Python, SQL 중 두 개 이상의 분석..."
+2900b41c0b091e46,머신러닝 개발자,Success Korea 서울,,"격요건] - 수학, 컴퓨터공학, 통계학, 산업공학 등 직무 관련 전공 - Python, Java 등 프로그래밍 개발 능력 - CNN, RNN, GAN... 산업공학 등 직무 관련 전공 - Python, Java 등 프로그래밍 개발..."
+521e6790bfc52607,제어 엔지니어,Success Korea 성남 중원구,,"중국어 등) - 언어 개발 가능자 (Visual Basic, C#, Python) - 모터 튜닝 가능자 [전형절차] 1차 면접, 2차면접... Visual Basic, C#, Python) - 모터 튜닝 가능자..."
+9681ee519a4f870e,게임밸런스 (게임 시뮬레이터),Success Korea 성남 분당구,,프로그램 개발 경력 3년 이상이신 분 (언어 불문) -Scala 혹은 Python 등 새로운 언어의 학습 의지가 있으신 분 -숫자에 대한 감각이 있으... 언어 불문) -Scala 혹은 Python 등 새로운 언어의 학습 의지가...
+35cefd4d91c7b366,저축은행 앱마케팅팀,국내자본 저축은행 서울 구로구,,Adbrix 등) - SQL 사용 가능 - 경력 3년~7년 - 개발자와의 원활한 커뮤니케이션 <우대사항> - Python or R 사용 우대 - 태블로 사용 우대 - Solution 도입 경험 우대 - 금융권 데이터 분석자...
+32da80d36f2abbf2,Software Engineer - Machine Learning Pla...,PUBG 서울,,"GCP 등 클라우드 플랫폼에 대한 지식 및 사용 경험 - 최소 1가지 프로그래밍 언어를 능숙하게 사용: Python, Java, Scala, Go 등 - API 백엔드 설계 혹은 개발 혹은 운영해 본 경험 - Docker에..."
+0ab285258b1cb206,저축은행 앱마케팅팀 데이터분석,국내자본 저축은행 서울 구로구,,"실무 적용 - BI Tool 기반 KPI 자동화 및 데이터 시각화 [자격요건] - SQL 사용 가능 - Python or R 사용 가능 - 태블로 사용 우대 - 금융사 경력 우대 - 긍정, 열정, 탐구적인 자세 [전형절차..."
+509e7ab10e54f962,디지털마케팅본부 수신상품 기획 및 전략수립 경력자,국내자본 저축은행 서울,,"수립(채널별 고객맞춤별 상품개발) [자격요건] - 4년제 정규 대졸 이상 - 통계 프로그램(SAS, R, Python) 활용 가능자 - 상품기획 및 전략수립 경력 2년 이상 - 금융권 업무 경험자 [전형절차] 서류, 면접 2..."
+417d3e24bac85b14,Analytics Engineer,Success Korea 서울 삼성동,,"경험 - 프로그래밍 언어 중 2가지 이상 능숙하게 사용(R, Scala, Python, Java) - Deep Learning 알고리즘 개발 및 활용... 이상 능숙하게 사용(R, Scala, Python, Java) - Deep..."
+2cadf87cc64c38d6,[신규사업실]시니어 Back-end 개발,Success Korea 서울,,"API 설계/개발 경험 및 ORM 에 대한 이해/활용 경험 7. Python/Django, Node.js 또는 JVM언어/ORM 기반의 API... 에 대한 이해/활용 경험 7. Python/Django, Node.js..."
+1a8ac51bcd79040f,[IT R&D] 머신러닝 개발 부문 (주임~과장),Success Korea 서울 을지로동,,"러닝/딥러닝 소프트웨어에 대한 지식 * Java, C/C++, Python, LISP 등 프로그래밍 언어 전문 지식 및 개발 능력 보유 (머신... 지식 * Java, C/C++, Python, LISP 등 프로그래밍..."
+6ef66bd841739a4b,[IT R&D] 머신러닝 개발 부문 (과장),Success Korea 서울 을지로동,,"머신러닝/딥러닝 소프트웨어에 대한 지식 * Java, C/C++, Python, LISP 등 프로그래밍 언어 전문 지식 및 개발 능력 보유 (머신러... 대한 지식 * Java, C/C++, Python, LISP 등 프로그래밍..."
+065e51f492c7538e,데이터 분석,Success Korea 서울 광화문역 +1 지역,,"이터를 활용한 소비자 분석 (R, Python, Excel 이용) - 빅데이터를 활용한 데이터 모델링 작업 ( Python 이용 & 통계 기본상식 필요... SAS or SQL 이용 필수) - Python 혹은 R을 활용한 모델링..."
+a07f68014776c455,플랫폼 Back-end 개발 (5년이상),Success Korea 서울,,"end 개발 업무 5년 이상 필수조건 - 대용량 시스템 설계 및 개발 경력 - Java, Spring, Python 기반 Web Application 개발 및 운영 경력 - MongoDB, ElasticSearch 등..."
+feb3e6495e583e41,Server Developer(Python) - ASAP,Success Korea 서울,,"채용제목 Server Developer( Python) - ASAP (지원마감) 회사... 자격요건] - 관계형 데이터베이스의 이해 및 업무 활용 경험 - Python, Java, Ruby, Node.js 등을 사용한 5년 이상의 개발 경력..."
+c193b65defa6a4ec,Web 개발,Success Korea 서울 중구,,"험자 - 가상화, Docker 기술 경험자 - 네트워크 지식 보유자 - Python 개발 경험자 - 인공지능 딥러닝, 빅데이터 관심있는 자 - GIS... 네트워크 지식 보유자 - Python 개발 경험자 - 인공지능 딥러닝..."
+7a08f5e589b10a00,"Senior, Software Engineer (Search Qualit...",Coupang 3.1 서울,,"경험 Java, Scala, Python 등의 객체 지향 언어에서 3년... Object Oriented language, Java, Scala, Python Data processing... Hadoop cluster..."
+d24428ed26f0b058,디지털LAB 신기술파트,국내자본 저축은행 서울 구로구,,"[담당업무] 쳇봇, STT/TA/TTS, AI 일반 [자격요건] 4년제 정규 대졸 이상 Java, Python 프로그램 사용 가능 머신러닝(Tensorflow, DL4, Caffe,Theano) 프레임워크 기반 개발 능력 보유..."
+ff2f8c996186ab4d,Cloud Application Architect - Profession...,Amazon Web Services Korea LLC 서울,,"any... following: Python, Java, Node... 테크니컬 어플리케이션 아키텍처로 대규모 어플리케이션 구축 현장경험 · Python, Java, Node.js, Ruby, .NET, Go, Scala..."
+7376f377161ea4f2,저축은행 소비자금융본부 Data Science 팀,국내자본 저축은행 서울 구로구,,"향구성 [자격요건] - 4년제 정규 대졸 이상 (통계, 수학, 산업공학 전공자 우대) - 통계프로그램(R, Python) 및 엑셀 활용가능자 - CSS운영 관리 경험자 [전형절차] 서류, 면접 2회 [제출서류] 이력서, 경력..."
+89067ba5fc5296c0,Back-end Web Engineer,Success Korea 서울 서초구,,운영을 담당 [자격요건] - 3년 이상의 웹 백엔드 개발 경험 - Python 및 Django 또는 이에 상응하는 개발 경험 - 웹 개발 전체 프로... 상의 웹 백엔드 개발 경험 - Python 및 Django 또는 이에 상응...
+913dea5d207616b9,게임플랫폼 Client 개발,Success Korea 경기도 성남,,"scala (이외 C++, Go, Python 등)를 이용한 서버 개발... 사용) 자격요건 - Java / scala (이외 C++, Go, Python 등)를 이용한 서버 개발 경력 3년 이상 - 오픈소스 기술을 바탕..."
+56fe0e390c06afc3,Browser 엔지니어,Success Korea 성남 판교역,,"개발 환경 유 경험자 우대 (QNX, 리눅스 등) 중급 이상의 기술 지식 보유 :: C / C++ / Python 초급 이상의 지식 보유 :: HTML5 / JavaScript, Node.JS / QT 초급 이상의..."
+54a07508e05274ad,게임플랫폼 서버개발,Success Korea 성남 서현역,,"scala (이외 C++, Go, Python 등)을 이용한 서버 개발... 이력서 자격요건 - Java / scala (이외 C++, Go, Python 등)을 이용한 서버 개발 경력 3년 이상 - 오픈소스 기술을 바탕..."
+7991847581adc522,데이터분석가,Success Korea 경기도 성남 +1 지역,,"분 - 관련 학과 또는 유관 교육과정 이수자 우대 - 데이터 분석 툴(R, Python등) 활용한 통계 및 Machine learning 가능자 우대... 데이터 분석 툴(R, Python등) 활용한 통계 및 Machine..."
+d24722707c9aed56,빅데이터수집/처리,Success Korea 경기도 성남,,"자격요건] - Java, Scala, Python 사용 가능한 분(택1... 첨부 양식을 반드시 사용) 자격요건 - Java, Scala, Python 사용 가능한 분(택1) - 데이터베이스, 네트워크, 분산처리에 대한..."
+736c75e6528f5bb4,보안 엔지니어,Success Korea 성남 분당구,,"코드 리뷰 가능하신 분 - 보안 기술 연구 가능하신 분 - Java, Python 등 개발 언어 사용에 익숙하신 분 - 주체적으로 일을 진행하고 리드... 연구 가능하신 분 - Java, Python 등 개발 언어 사용에 익숙하신..."
+43bf0c7e2b10e9b5,Operations Manager (운영팀장) - 한국,Beam 서울,,"Knowledge of SQL, Python, R, GIS... 무엇이든 할 수 있다""는 태도 • 관련업계 경력자 우대 • SQL, Python, R, GIS 숙련자 우대 • 영어/한국어 능통자, 우수한 영어 말하..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+29e3b5646b869f60,[해외취업] 【AI・RPAエンジニア】経験半年の方も歓迎 10ヵ国の技術者が在...,株式会社リープ 대한민국,,"격요건 【必須要件】 ・何かしらのシステム開発経験が半年以上ある方 【歓迎要件】 ・Java, PHP, .NET, Pythonのスキルをお持ちの方 ・顧客折衝や要件定義などの上流工程経験がある方 ・RPAエンジニアとしての実務経験、知識がある方..."
+432b169b273d9964,"R&D Engineer, Sr I",Synopsys 서울,,end to back-end Strong software programming skills in C++ and python is required Inclusion and Diversity are important to us...
+95332cb85a2b99d6,[기업용협업플랫폼] Back-end 서버 개발자,카카오엔터프라이즈 성남 분당구,,"현되어 있습니다. 동시에 마이크로 서비스 아키텍처를 구현하며 용도에 따라 Java 나 Ruby, Go, Python 등도 활용 가능합니다. 함수형 언어에 대한 이해가 깊으면 좋겠지만, 관심도가 높은 것만으로 충분합니다. 객체..."
+4fbc49b63296ff88,Data Engineer (Analytics/Anomaly-detecti...,LINE Plus corporation 성남 서현역,,"및 추출이 능숙한 자 - VCS(Git) 기반으로 협업하는 것이 익숙한 자 - 데이터 분석 및 추출을 위한 Python, Scala 언어를 사용할 줄 아는 자 [우대사항] - Hadoop 기반 분석 환경(Spark..."
+c73ca1effb65d557,AD 데이터 분석,LINE Plus corporation 성남 서현역,,"보유한 자 - Hadoop 환경에 대한 이해를 기반으로 Hive SQL 사용이 능숙한 자 - R, Python 을 모두 사용하여 통계 분석 및 예측 모델링이 가능한 자 - 논리적 추론과 해석, 분석 항목 도출을 통한..."
+07f425a9fb3ee67b,"글로벌 플랫폼 쉴드 개발(인증보안,이상결제,평판 등)",Nexon 성남 분당구,,"청제한시스템 - 평판시스템 지원자격 - 전체 개발 경력 3~8년 - Python , GO 개발 경력 우대 (팀 내부 주 개발 언어가 Python, Go 입니다.) - 비동기, 병렬처리 프로그래밍 기술 - OS, DB..."
+e27b6d83b3db91ad,"서버개발 (Linux, C,C++, TCP/IP 소켓통신)",비에이블컨설팅그룹 서울 구로구,,인터넷·IT·통신·모바일·게임>응용프로그래머>인공지능(AI)|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>네트워크·서버·보안>네트워크구축·운영·관리|인터넷·IT·통신·모바일·게임...
+d70098b406a8a07f,O2O서비스 커머스 데이터 분석,에이스파트너스서치펌 서울,,"등 개발 운영 전반 필요경력 - 분석, 모델링 Tool(R, SAS, Python 등) 활용 데이터 분석 - 관련 분야 3년 이상 업무 경력, 석사... 게임>빅데이터·AI(인공지능)> Python|인터넷·IT·통신·모바일·게임..."
+b9974ad79659bb6d,"카카오콘 iOS, 서버 개발자",카카오 4.2 대한민국,,"2년 이상 모바일 환경을 위한 API 시스템 개발 경험 특정 언어 하나에 능숙하신 분으로, 배워서라도 Python 또는 Ruby 개발이 가능하신 분 [우대사항] 백엔드 서버와 웹 프런트엔드 모두 개발 가능하신 분 ※ 카카오..."
+9e88beadda2081f6,서버개발자,쿡앱스 성남 분당구,,"php, node js 또는 Python 등 서버 설계 및 구현 분산처리... 그래머> Python|인터넷·IT·통신·모바일·게임>응용프로그래머> Python|인터넷·IT·통신·모바일·게임>빅데이터·AI(인공지능)> Python|인터..."
+b79c2ae536063b01,[전문연구요원] 상시,네이버 서울,,"Tool Engineer ㅇ Python/C/C++ 언어 개발 용이 ㅇ... Design, Debugging Skills ㅇ스크립트 언어 개발 경험 ( Python, Bash, etc.) ㅇ Embedded Platform과..."
+de3e259116aee463,백엔드 인프라 개발자 (정규직 & 보충역),토이스미스 서울 강남구,,"로세스) 관리 경험 l 자료구조 및 알고리즘에 대한 이해 (스택 & 큐 & 데이터 풀) l Golang, Python, C++, Java 중 하나의 언어를 사용한 멀티코어 프로그램 개발 경험 l REST API 에 대한 설계..."
+479b7f46a87002c7,(기술플랫폼실) 신규 사업 BI 시스템 구축 및 운영 담당자 영입,카카오페이 성남 분당구,,"플랫폼 구축 및 운영 경험이 있으신 분 - 올바른 지표를 제시하기 위한 기초 통계 지식이 있으신 분 - Python, Spark SQL 개발 경험이 있으신 분 - 금융권 정보계 구축 및 운영 업무 경험이 있으신 분 전형절차..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+b83e48f219011128,매칭팀 - 프로그래머,Nexon 성남 분당구,,"상의 서비스 개발과 운영 - 게임 매치메이킹, 추천 시스템 개발 지원자격 - 한 가지 이상의 개발 언어( Python, C++, C#, Go 등)에 숙련된 프로그래밍 능력 우대사항 - 게임 개발 또는 라이브 서비스 경험이..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
+51dcabafcf7a0bb0,저축은행 디지털뱅킹팀 데이터분석,국내자본 저축은행 서울 구로구,,"정규 대졸 이상 - 데이터분석 경력 3년 이상 - 실제 서비스 데이터를 이용한 분석모델 개발 경험 - R, Python, SQL 등 데이터 분석의 업무를 수행할 수 있는 하나 이상의 개발 언어에 숙달 <우대사항> - 해당..."
+4983bec8167924da,IT Specialist,Success Korea 서울 여의도역,,"모르는 것에 대해서 수긍하고 배우려고 한다. [우대사항] - Python 중상급자. - Web, DB(Maria DB 외), NoSQL(Redis... 배우려고 한다. [우대사항] - Python 중상급자. - Web, DB..."
+4bc1dd7c5bfa7435,Technical 아티스트 (온라인),Success Korea 서울,,"지는 역할 [자격요건] - Python, MEL 또는 Max script... 서류심사 기술테스트 1차면접 2차면접 합격자 발표 자격요건 - Python, MEL 또는 Max script 같은 스크립트 언어 사용 경험..."
+53ced11b1e0addce,저축은행 디지털뱅킹팀 데이터분석 경력,국내자본 저축은행 서울 구로구,,"고객 분석, 마케팅 분석 - 마케팅 기획 및 실행조직과 협업 경험, 마케팅 데이터 모델링 개발능력 - R, Python, Tableau, SAS, Orange, SQL 등 데이터 분석의 업무를 수행 할 수 있는 개발 언어에..."
+9301688209a46cd7,전자상거래 플랫폼 인프라 설계/구축/운영,Success Korea 서울,,5년 이상 - bash / Python Script 활용 능력 - 대용량... 국문이력서 자격요건 - 관련 직무 경력 5년 이상 - bash / Python Script 활용 능력 - 대용량 서비스 트래픽 운영 경험 - 오픈...
+12bca81588e3f9aa,응용프로그래머[팀장급],Success Korea 서울 성수동,,"Windows Server, MS-SQL 개발 경험 [우대사항] - Python 개발 가능자 우대 [전형절차] 서류전형 > 임원면접 > 최종합격... 개발 경험 [우대사항] - Python 개발 가능자 우대 [전형절차..."
+e91a1e74c8e477b7,응용프로그래머,Success Korea 서울 성수동,,"웹 UI 개발 경험 - SVN, RedMine 환경 [우대사항] - Python 언어 개발 가능자 우대 - CRM 개발 유경험자 우대 [전형절차... RedMine 환경 [우대사항] - Python 언어 개발 가능자 우대..."
+bd7fef3a83bae958,응용프로그래머[초급],Success Korea 서울 성수동,,"웹 UI 개발 경험 - SVN, RedMine 환경 [우대사항] - Python 언어 개발 가능자 우대 - CRM 개발 유경험자 우대 [전형절차... RedMine 환경 [우대사항] - Python 언어 개발 가능자 우대..."
+fe69337a085bae5b,Linux 서버 개발자,Success Korea 성남 판교역,,"격요건] - 경력 5~6년 이상(선임/과장급) - C/C++, Python 개발 가능 - Web서버, DB 운용 경험 [우대요건] - SELinux... 선임/과장급) - C/C++, Python 개발 가능 - Web서버, DB..."
+22b69448bcfcf9ed,Data engineer,Success Korea 서울 강남구,,초대졸 이상 - 관련경력 2년 이상 - python 개발 가능 [전형절차]서류전형-실무면접-최종면접 [제출서류]국문이력서 자격요건 - 초대졸 이상 - 관련경력 2년 이상 - python 개발 가능 [전형절차]서류전형...
+8d09144c7027cb06,[경력직] 클라우드 플랫폼(PaaS) 엔지니어 채용,에이치알 코리아 서울,,"갖추신 분 • 우대사항 - 컨테이너 적용 및 개발자 - 오픈스택 경험자 - Network 기본지식 보유자 - python, go 개발경험과 Ansible 등 경험자 - ceph에 대한 경험자 - 고객 응대 경험자 - 글로벌..."
+493a39e613f9971a,영상보안 Application 개발 및 수행,Success Korea 서울 중구,,"험자 - 영상 플레이어 개발경험 - CUDA(GPGPU) 개발 경험자 - Python 개발 경험자 - 인공지능 딥러닝, 빅데이터 관심있는 자 - 공공... GPGPU) 개발 경험자 - Python 개발 경험자 - 인공지능 딥러닝..."
+60097047695d7c71,Text 분석,Success Korea 서울,,경력 9년 이상 - R， Python 등을 활용한 Text Crawling... 력서 자격요건 - 관련 분야 경력 9년 이상 - R， Python 등을 활용한 Text Crawling， Parsing， Visualization...
+a72ab5e8773b9ad8,빅데이터 개발(3년이상 경력),에이치알 코리아 서울,,"자격 - JAVA/ Python/Scala 등 활용한 데이터분석/설계/개발 역량 - DB 설계/개발 역량 - 빅데이터(Hadoop Eco) 기반 DW/DM Architecture 수립 경험 보유자 - Python, Hadoop..."
+2936adf2a7318db5,웹개발자,Success Korea 서울 잠실역,,"이스, 카산드라등) 경험자 우대 - TDD 및 스크립트 언어(Ruby, Python, Javascript) 경험자 우대 [전형절차] 실무면접(테크면... 및 스크립트 언어(Ruby, Python, Javascript) 경험자..."
+c4e7809eb035c7ee,웹개발팀장,Success Korea 서울 잠실역,,"이스, 카산드라등) 경험자 우대 - TDD 및 스크립트 언어(Ruby, Python, Javascript) 경험자 우대 [전형절차] 실무면접(테크면... 및 스크립트 언어(Ruby, Python, Javascript) 경험자..."
+a979e53aa387868c,보안개발자(ASAP),Success Korea 서울 삼성동,,"요건] - 보안 취약점 점검 관련 경력 5년이상 - Java, PHP, Python 등의 언어(택1)로 자동화프로그램 개발 가능한 분 - IT인프라에... 5년이상 - Java, PHP, Python 등의 언어(택1)로 자동화프로..."
+633275d4c482a753,IT 데이터 분석 전문가,Success Korea 서울,,"광고 Targeting 알고리즘 설계 경험자 우대 - JAVA, Python, Hadoop, hive, pig, R 등 관련 지식/경험 보유자 우대... 경험자 우대 - JAVA, Python, Hadoop, hive, pig..."
+caccb1d9be6bc918,운영(Business Operation Management) 경력자,유명메신저회사 서울 성동구,,"분 (특히 O2O나 모빌리티 분야) ? 데이터를 분석하고, 프로세스 개선에 적용할 수 있는 분(SQL, Python, R 등) [ 기타조건 ] - 경력 : 5년 이상 - 학력 : 대졸이상 - 채용조건 : 정규직 - 근무지..."
+e0751dcb592aa9cc,ICT 서비스본부 디지털LAB,국내자본 저축은행 서울 구로구,,"패키지 구사 능력 - R, SAS, SPSS, S-PLUS 등 통계분석 솔루션 경험(필수) - R, Python, 시각화 툴(Sporfire, Tableau 등) 능숙자 우대 (2) 지식 및 경험 - 통계분석/Maching..."
+806b07d4b07e4c47,SW Architect,Success Korea 서울 신논현역,,"자격요건] - C#, JAVA, Python 등 OOP(Object... 임원면접 [제출서류] 국문이력서 자격요건 - C#, JAVA, Python 등 OOP(Object Oriented Programming) 언어..."
+38d2f5a2543582fc,DW&BI팀 Data Engineer,Success Korea 서울,,"Ecosystem)에 대한 이해 - AWS & GCP경험 우대 - Java, Python 등 프로그래밍 능력 우대 - 컴퓨터 공학, 경영정보 및 그와... GCP경험 우대 - Java, Python 등 프로그래밍 능력 우대..."
+d186bbf489056d37,Data Engineer(머신러닝),Success Korea 서울,,"작업 필수사항 : - SQL, Spark를 이용한 데이터 처리 - Cloud를 이용한 서비스 개발 경험 - Python 또는 Scala 능숙자 - Hadoop echo system에 대한 이해 - 머신러닝 관련 업무 희망자..."
+9611a65456a23a06,FIFA - Technical Artist,Success Korea 서울,,"script, Mel Script중 1) 사용 경험 - C# 또는 Python 언어에 대한 이해 및 활용 - 아트웍 관련 툴 제작 또는 플러그인 제작... 중 1) 사용 경험 - C# 또는 Python 언어에 대한 이해 및 활용..."
+c8869aca354714a1,Server Developer(PHP),Success Korea 서울,,"구축 및 스토리지 사용 경험 - APM 환경 서버 구축 경험자 - python, django,flask 관련 경험 우대 [전형절차] 서류전형- 1... APM 환경 서버 구축 경험자 - python, django,flask..."
+a4e5c4e5a7a552a1,Data Analyst (데이터 분석가) 경력직,Success Korea 서울 송파구,,통계 프로그램 활용 능력 u SAS / R / Python 중 최소 1가지 중급 이상의 활용능력 요구 ? Communication u Basic... 활용 능력 u SAS / R / Python 중 최소 1가지 중급 이상의...
+385f70c5ce9c86ff,Infra Platform QA,Success Korea 성남 분당구,,"사용 경험 - 자동화 툴을 이용한 테스트 코드 작성 경험자 - Python, Java 등 개발 언어 사용 경험자 [전형절차] 서류전형 - 과제전형... 테스트 코드 작성 경험자 - Python, Java 등 개발 언어 사용..."
+4e4c0ded02e9efd4,모바일 RPG 게임,Success Korea 서울,,"자료구조, 알고리듬 사용 및 로직 구현에 능숙한 분 -C++, C#, Python 언어 중 하나를 능숙하게 사용 -새로운 언어, 환경에 대한 두려움이... 능숙한 분 -C++, C#, Python 언어 중 하나를 능숙하게 사용..."
+a9376c5dec70af52,경영기획심사,Success Korea 서울,,"자격요건] - 관련 직무 경력 3년 이상 - 데이터 처리 언어 (R, Python, Scala) 사용 경험 - 통계 기본 지식 및 모델링에 대한 이해... 데이터 처리 언어 (R, Python, Scala) 사용 경험 - 통계..."
+ba3e218f3dfb8be7,Security Developer,Success Korea 서울 삼성동,,"요건] - 보안 취약점 점검 관련 경력 5년이상 - Java, PHP, Python 등의 언어로 프로그램 개발 필수 - IT인프라에 대한 지식 보유자... 년이상 - Java, PHP, Python 등의 언어로 프로그램 개발 필수..."
+0ec5b648329eb0eb,Data Analyst (3년 이상),Success Korea 서울,,"를 통해 온/오프라인상에서 새로운 고객경험을 실험하고, 확산하는 것에 관심과 열정이 있으신 분 - SQL, Python, R 등 프로그래밍 언어 또는 데이터 분석 언어 1개 이상에 능숙하신 분 - Data Mining 및..."
+15c8fa49b690a9e5,포털 신규 검색기술 파일럿 개발(사원-차장),Success Korea 서울,,"결정 [자격요건] - JAVA, Python, R, JavaScript... 합격자에 한해 고객사 입사 지원서 오픈됨 자격요건 - JAVA, Python, R, JavaScript 등 최소 1개의 언어 이상 개발이 가능한..."
+4dc7b795d4e8efb8,[ASAP] 머신러닝 엔지니어 (10년차 이상 혹은 전후),Success Korea 서울,,"평가 및 개발, 적용 필수사항 : - PyTorch, Tensorflow 중 1개 이상 사용 가능 - Python 중급 이상 - Apache Spark 사용 가능 - 딥러닝 포함 머신러닝 관련 지식 보유 - 머신러닝 프로젝..."
+061758a50515258f,데이터모델링/BI기획,Success Korea 서울,,"기반에서 데이터 설계 경험 - 디지털 마케팅, 온라인 광고에 대한 이해 및 데이터 연동/설계 경험 - Python, R, Spark 등 활용 가능자 - 클라우드 환경 개발 경험 (AWS, Google) [전형절차] 서류..."
+86a47dc8924f3275,AD Machine Learning Engine 개발,Success Korea 성남 분당구,,"수식을 보고 개발하는 것에 부담이 없으신 분 - Java, Python 외의 새로운 언어 사용에 부담이 없으신 분 - Hadoop, Spark... 부담이 없으신 분 - Java, Python 외의 새로운 언어 사용에 부담..."
+3da2537c07ea7706,Platform server 개발자,Success Korea 성남 분당구,,"scala (이외 C++, Go, Python 등)를 이용한 서버 개발... 사용) 자격요건 -Java / scala (이외 C++, Go, Python 등)를 이용한 서버 개발 경력 3년 이상이신 분 -오픈소스 기술을..."
+4958c02183a2ccce,Software Engineer in Test (SET),Success Korea 성남 분당구,,"만 3년 이상 - 자동화 툴을 이용한 테스트 코드 작성 경험자 - Python, Ruby 등 스크립트 언어 사용 경험자 - 다른 Engineer들과... 용한 테스트 코드 작성 경험자 - Python, Ruby 등 스크립트 언어..."
+c0f615c8aecd5778,Deep Learning Engineer(영상 처리),Success Korea 서울,,"resnet, r-cnn 등 주요 모델 지식 보유자 - C++, Python 능숙 사용자 우대사항 - 클라우드 환경 개발 경험 (Open stack... 모델 지식 보유자 - C++, Python 능숙 사용자 우대사항 - 클라..."
+94186b23eca3f106,Client Software Engineer - NFS (코어 엔지니어),Success Korea 서울 강남구,,"네트워크 및 보안 문제에 대한 지식 - C#, Javascript, Python 및 기타 프로그래밍 언어 - 다양한 게임 출시 경험 - 자동차 공학에... C#, Javascript, Python 및 기타 프로그래밍 언어 - 다양..."
+fde71a032b2fe17d,고객 행동 Log 분석 전문가(Web/App Log Analyst),Success Korea 서울,,"Parsing에 대한 지식 - 최소 한가지의 Script 언어 활용 ( Python, JAVA 등) - SQL, SAS 등 능숙 활용 - 대용량의 데이... 한가지의 Script 언어 활용 ( Python, JAVA 등) - SQL..."
+dae2c7e9525b116a,Media Delivery Server 개발,Success Korea 성남 분당구,,"서비스 운영에 필요한 script 개발이 가능하신 분: shell, python, perl, scala 등 사용 - HTTP(RESTful) API... 가능하신 분: shell, python, perl, scala 등 사용..."
+f9ba0aceb3ab191b,Full Stack engineer,Success Korea 서울 공덕동,,"개발 경험자 - 리눅스 기반 서버 운영 경험 필수 [우대사항] - Python, PHP, Shell 등을 이용한 데이터 및 DB처리 스크립트 개발... 경험 필수 [우대사항] - Python, PHP, Shell 등을 이용한..."
+f2862292f0a18038,Machine Learning Engineer (이미지기술개발),Success Korea 서울,,"설정 포함) 및 연동 경험 우대 - 비지니스 영어 회화 가능자 - 창의적 문제 해결 능력 보유자 - Python/JAVA 사용자, Andorid/iOS 개발 경험자, Windows Programing(C#, MFC 등..."
+95ae961117610c26,Business Intelligence Manager,Success Korea 서울,,"분석, A/B test 등 분석 업무 수행 경험 -MySQL, R, Python 등을 통한 데이터 분석 경험 있으신 분 우대 -영어로 커뮤니케이션이... 수행 경험 -MySQL, R, Python 등을 통한 데이터 분석 경험..."
+96a1ac98dcf0039c,Linux Engineer,Success Korea 서울,,"솔루션 운영관리 경험자 5. Couchbase shell script, python 등 서버 운영에 필요한 스크립트 개발 경험자 6. cfengine... shell script, python 등 서버 운영에 필요한 스크립트 개발..."
+50a1cb7c9938cba4,Sr.Service/platform Engineer (15년 이상),Success Korea 서울,,"search, Redis 등) - 서버 사이드 백엔드 플랫폼 개발 경험 (Java, Spring , python,Mysql, Oracle 등) - 프로젝트 설계 및 PM/PL 경험 - Web서비스 개발 프로젝트 리딩 및 일정..."
+10670c0104b17bd5,System(Server) 엔지니어,Success Korea 서울 강남구,,"개발 가능자 - LANGUAGE: .Net, PHP, Java, Python 중 최소 하나의 언어로 웹 개발 가능 - 새로운 기술에 대한 습득과... Net, PHP, Java, Python 중 최소 하나의 언어로 웹 개발..."
+3d594f8990d3a797,Cloud System Engineer,Success Korea 서울,,"보유자 - CI/CD 구축 및 운영 경험자 우대사항 : - e커머스 서비스 운영 경험자 - 스크립팅 가능자 ( Python, Go, Shellscript) - Cloudformation, Ansible, Terraform 등..."
+cb0a416e54b80e41,Cloud System Engineer (3년이상),Success Korea 서울,,"및 운영 경험 - SRE(Site reliability Engineers) 경험 - 스크립팅 역량 보유 ( Python, Go, Shellscript 등) - Terraform, Ansible, SaltStack, CDK 구축..."
+311976c5906e5c25,웹/응용프로그래머[JAVA],Success Korea 서울 성수동,,"기반의 웹 UI 개발 경험 - SVN, RedMine 환경 - Python 언어 개발 가능자 우대 - CRM 개발 유경험자 우대 [전형절차] 서류전... SVN, RedMine 환경 - Python 언어 개발 가능자 우대..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+c1037225077ca4da,데이터 분석가 (Business Intelligence Analyst),코스닥 상장 중견 게임기업 서울 강남구,"연봉 40,000,000원 - 70,000,000원","데이터 분석 결과를 쉽게 이해할 수 있도록 간결하고 명확한 의사전달 능력 [우대조건] * R, Python, Spark 등의 언어에 대한 이해도 * 모바일 앱SDK 연동 지원 업무 경험(Facebook, Admob..."
+de242c6c5e9207a9,응용프로그래머[JAVA],Success Korea 서울 성수동,,"SQL 개발 경험 필수 [우대사항] - Flex 개발 가능자 - C#, Python 언어 사용 가능자 - HTTP 기반의 통신(XML,JSon 데이터... Flex 개발 가능자 - C#, Python 언어 사용 가능자 - HTTP..."
+6373005ce9ee17b0,cloud/saas개발,Success Korea 서울,,"발업무 경력 3년이상 -Node.js(java-script), SpringBoot(Java), Django( Python) 실무 경험 1년 이상 (최소 1개 이상) -RDB(Oracle, MySQL, Postgres 1개 이상..."
+648f85cf1a59df6f,응용프로그래머[JAVA]-PM,Success Korea 서울 성수동,,"JSon 데이터 처리) [우대사항] - Flex 개발 가능자 - C#, Python 언어 사용 가능자 [전형절차] 서류전형 > 임원면접 > 최종합격... Flex 개발 가능자 - C#, Python 언어 사용 가능자 [전형절차..."
+5620b1845a6fad85,Microsoft 기술지원(Azure),Success Korea 서울 논현동,,"자격요건] - AWS기반 Serverless 개발 경험자 - Java, Python, Node.js등 백앤드 서버 개발 유 경험자 - System 및... 개발 경험자 - Java, Python, Node.js등 백앤드 서버 개발..."
+4e0b7f602fa05487,DevOps Developer(Cloud),Success Korea 서울 논현동,,"개발 경험 5년 이상 - .Net, Java, PHP, Node.js, Python, REST API 관련 이해도가 높은 자 - Cloud Web... Java, PHP, Node.js, Python, REST API 관련..."
+212ca67d161b7162,2020 Market Data Analyst - Seoul (Korean Speaker),Bloomberg 서울,,"languages (e.g. Python, R, JavaScript... programming/scripting languages (e.g. Python, R, JavaScript, Java) as well as SQL..."
+d11342cfe074df78,Frontend Developer (Javascript/React),Bepro Company 서울,"연봉 30,000,000원 - 80,000,000원",참고 - React JS (Web) / Kotlin (Android) / Swift (iOS) - Python + Django - AWS lambda + API gateway - MySQL - Google Cloud...
