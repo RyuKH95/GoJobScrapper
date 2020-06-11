@@ -118,6 +118,8 @@ func getPages() int {
 }
 
 func writeJobs(jobs []extractedJob) {
+	c := make(chan []string)
+
 	//jobs.csv file로 파일명 저장
 	file, err := os.Create("jobs.csv")
 	checkErr(err)
@@ -133,10 +135,17 @@ func writeJobs(jobs []extractedJob) {
 	checkErr(wErr)
 
 	for _, job := range jobs {
-		jobSlice := []string{"https://kr.indeed.com/viewjob?jk="+job.id, job.title, job.location, job.salary, job.summary}
-		jwErr := w.Write(jobSlice)
+		go jobSlices(job, c)
+	}
+
+	for i:=0; i<len(jobs); i++ {		
+		jwErr := w.Write(<-c)
 		checkErr(jwErr)
 	}
+}
+
+func jobSlices(job extractedJob, c chan<- []string) {
+	c <- []string{"https://kr.indeed.com/viewjob?jk="+job.id, job.title, job.location, job.salary, job.summary}
 }
 
 func checkErr(err error) {
