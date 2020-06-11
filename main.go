@@ -23,14 +23,17 @@ var baseURL string = "https://kr.indeed.com/jobs?q=python&limit=50"
 
 func main() {
 	var jobs []extractedJob
+	c := make(chan []extractedJob)
 
 	totalPages := getPages()
 	
 	for i:=0; i<totalPages; i++ {
 		//Page Data 추출
-		extractedJobs := getPage(i)
-		//...이 없으면 배열 안에 배열을 넣음
-		//... is array merge
+		go getPage(i, c)
+	}
+
+	for i:=0; i<totalPages; i++ {
+		extractedJobs := <-c
 		jobs = append(jobs, extractedJobs...)
 	}
 	
@@ -39,29 +42,8 @@ func main() {
 	fmt.Println("Done, extracted", len(jobs))
 }
 
-func writeJobs(jobs []extractedJob) {
-	//jobs.csv file로 파일명 저장
-	file, err := os.Create("jobs.csv")
-	checkErr(err)
 
-	//csv file create
-	w := csv.NewWriter(file)
-	//함수 종료 시 flush로 할당 해제
-	defer w.Flush()
-
-	headers := []string{"Link", "Title", "Location", "Salary", "Summary"}
-
-	wErr := w.Write(headers)
-	checkErr(wErr)
-
-	for _, job := range jobs {
-		jobSlice := []string{"https://kr.indeed.com/viewjob?jk="+job.id, job.title, job.location, job.salary, job.summary}
-		jwErr := w.Write(jobSlice)
-		checkErr(jwErr)
-	}
-}
-
-func getPage(page int) []extractedJob {
+func getPage(page int, mainC chan<- []extractedJob) {
 	var jobs []extractedJob
 
 	c := make(chan extractedJob)
@@ -91,7 +73,7 @@ func getPage(page int) []extractedJob {
 		jobs = append(jobs, job)
 	}
 
-	return jobs
+	mainC <- jobs
 }
 
 //items to extractedJob struct
@@ -133,6 +115,28 @@ func getPages() int {
 	})
 
 	return pages
+}
+
+func writeJobs(jobs []extractedJob) {
+	//jobs.csv file로 파일명 저장
+	file, err := os.Create("jobs.csv")
+	checkErr(err)
+
+	//csv file create
+	w := csv.NewWriter(file)
+	//함수 종료 시 flush로 할당 해제
+	defer w.Flush()
+
+	headers := []string{"Link", "Title", "Location", "Salary", "Summary"}
+
+	wErr := w.Write(headers)
+	checkErr(wErr)
+
+	for _, job := range jobs {
+		jobSlice := []string{"https://kr.indeed.com/viewjob?jk="+job.id, job.title, job.location, job.salary, job.summary}
+		jwErr := w.Write(jobSlice)
+		checkErr(jwErr)
+	}
 }
 
 func checkErr(err error) {
